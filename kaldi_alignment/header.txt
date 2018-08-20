@@ -1,0 +1,1 @@
+file_utt	file	id	ali 	startinutt	dur	phone	start_utt	end_utt	start	end

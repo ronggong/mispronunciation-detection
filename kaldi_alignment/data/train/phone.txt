@@ -1,0 +1,704 @@
+Dan_jingju_a_cappella_singing_dataset_danAll_dafeh-Bi_yun_tian-Xi_xiang_ji01-qm_000 c i j yn n c j En n sil_phone x w AN N x w a sil_phone c i sil_phone c i f 7N N c in sil_phone in sil_phone in n
+Dan_jingju_a_cappella_singing_dataset_danAll_dafeh-Bi_yun_tian-Xi_xiang_ji01-qm_001 c 7 j En sil_phone En n n an n c j AN N
+Dan_jingju_a_cappella_singing_dataset_danAll_dafeh-Bi_yun_tian-Xi_xiang_ji01-qm_002 w @n n c j AU^ l aI^ i c w eI^ r\' an n sil_phone c 7 sil_phone c w AN N l iN N c j AN sil_phone AN N
+Dan_jingju_a_cappella_singing_dataset_danAll_dafeh-Bi_yun_tian-Xi_xiang_ji01-qm_003 c UN N sil_phone c 1 l i r\' @n n l w eI^ sil_phone eI^ i sil_phone c j En n x AN sil_phone AN sil_phone AN sil_phone AN sil_phone AN N
+Dan_jingju_a_cappella_singing_dataset_danAll_danbz-Bei_jiu_chan-Chun_gui_men01-qm_000 c eI^ i sil_phone c j oU^ u sil_phone c an sil_phone an sil_phone an sil_phone an sil_phone c oU^ u c j AN N sil_phone c i sil_phone x w @n c 1 sil_phone c in n sil_phone c in sil_phone in n
+Dan_jingju_a_cappella_singing_dataset_danAll_danbz-Bei_jiu_chan-Chun_gui_men01-qm_001 c w an n sil_phone c AN N sil_phone c u sil_phone u sil_phone c 7N ? 7N N sil_phone c i N sil_phone c 7 sil_phone c i c AN N sil_phone w @n n sil_phone c w @n sil_phone @n ? @n ? @n sil_phone @n sil_phone @n sil_phone @n sil_phone @n
+Dan_jingju_a_cappella_singing_dataset_danAll_danbz-Bei_jiu_chan-Chun_gui_men01-qm_002 N O sil_phone c u sil_phone u m j En sil_phone j sil_phone j sil_phone j sil_phone j sil_phone j En n sil_phone c y sil_phone N an n sil_phone c aI^ i sil_phone N w O sil_phone c in n c j oU^ u sil_phone c @n
+Dan_jingju_a_cappella_singing_dataset_danAll_danbz-Bei_jiu_chan-Chun_gui_men01-qm_003 m O sil_phone O f u sil_phone c a sil_phone x AU^ u sil_phone c u @n n c j AU^ u j i sil_phone i sil_phone c 7 sil_phone c j En n sil_phone c in n
+Dan_jingju_a_cappella_singing_dataset_danAll_danbz-Bei_jiu_chan-Chun_gui_men01-qm_004 j w an n l aI^ sil_phone aI^ ? aI^ sil_phone aI^ sil_phone aI^ i c 1 sil_phone 1 ? 1 sil_phone 1 sil_phone c u n aI^ i f an n sil_phone j i sil_phone c in n c u eI^ i sil_phone c u @n sil_phone 7 sil_phone 7 sil_phone 7 sil_phone 7 sil_phone 7 sil_phone 7
+Dan_jingju_a_cappella_singing_dataset_danAll_danbz-Bei_jiu_chan-Chun_gui_men01-qm_005 c aI^ i N O N aI^ i sil_phone c aI^ i j y j 7 N n i sil_phone c UN N sil_phone c iN N j H u an n m in n
+Dan_jingju_a_cappella_singing_dataset_danAll_danbz-Kan_dai_wang-Ba_wang_bie_ji01-qm_000 c an n sil_phone c aI^ sil_phone aI^ i w AN sil_phone AN sil_phone AN N sil_phone c aI^ i sil_phone c AN N sil_phone c UN N sil_phone x O j i sil_phone c u eI^ i w @n
+Dan_jingju_a_cappella_singing_dataset_danAll_danbz-Kan_dai_wang-Ba_wang_bie_ji01-qm_001 N O sil_phone c 7 l i sil_phone c y sil_phone c AN N w aI^ i sil_phone c j E sil_phone E c an n sil_phone c oU^ sil_phone oU^ u c in sil_phone in sil_phone in
+Dan_jingju_a_cappella_singing_dataset_danAll_danbz-Kan_dai_wang-Ba_wang_bie_ji01-qm_002 c in n sil_phone j i sil_phone c u sil_phone u sil_phone u sil_phone u sil_phone u sil_phone c oU^ c j AN N c j En n sil_phone x w AN N c j AU^ u sil_phone c an n sil_phone c in
+Dan_jingju_a_cappella_singing_dataset_danAll_danbz-Kan_dai_wang-Ba_wang_bie_ji01-qm_003 m UN N sil_phone c aI^ i sil_phone c oU^ sil_phone c j En n sil_phone c i l w O sil_phone j H 9 sil_phone 9 c 7 ? 7 sil_phone 7 sil_phone c in sil_phone in m in sil_phone in ? in sil_phone in n
+Dan_jingju_a_cappella_singing_dataset_danAll_daspd-Hai_dao_bing-Gui_fei_zui_jiu02-qm_000 x aI^ sil_phone aI^ i sil_phone c AU^ sil_phone AU^ sil_phone c iN N l w @n sil_phone @n n c u sil_phone u sil_phone c w an n c 7N sil_phone 7N N
+Dan_jingju_a_cappella_singing_dataset_danAll_daspd-Hai_dao_bing-Gui_fei_zui_jiu02-qm_001 c j En sil_phone En sil_phone En n j y sil_phone y sil_phone c u w a sil_phone j y c u sil_phone u sil_phone j oU^ sil_phone oU^ c AU^ u sil_phone c UN N c 7N N
+Dan_jingju_a_cappella_singing_dataset_danAll_daspd-Hai_dao_bing-Gui_fei_zui_jiu02-qm_002 n a sil_phone c iN N l w @n n l i c aI^ sil_phone c AU^ sil_phone AU^ u
+Dan_jingju_a_cappella_singing_dataset_danAll_daspd-Hai_dao_bing-Gui_fei_zui_jiu02-qm_003 c j En n c w @n sil_phone @n n f @n sil_phone @n n sil_phone w aI^ i m iN N
+Dan_jingju_a_cappella_singing_dataset_danAll_daspd-Hai_dao_bing-Gui_fei_zui_jiu02-qm_004 x AU^ sil_phone AU^ u j H 9 sil_phone c AN sil_phone AN N c UN sil_phone UN sil_phone UN N
+Dan_jingju_a_cappella_singing_dataset_danAll_daspd-Hai_dao_bing-Gui_fei_zui_jiu02-qm_005 c j a sil_phone a sil_phone a sil_phone c j En sil_phone En n c M w a sil_phone c AN 7 sil_phone 7 l i sil_phone i sil_phone j H 9 sil_phone 9 sil_phone k UN
+Dan_jingju_a_cappella_singing_dataset_danAll_daspd-Hai_dao_bing-Gui_fei_zui_jiu02-qm_006 n u sil_phone c M c AN sil_phone AN N N O sil_phone l i sil_phone j H 9 sil_phone k UN N
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Chun_qiu_ting-Suo_lin_nang01-qm_000 c yn n c j oU^ u sil_phone c i sil_phone in n w aI^ i sil_phone f UN N sil_phone j y sil_phone c AU^ u
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Chun_qiu_ting-Suo_lin_nang01-qm_001 x O a sil_phone c y sil_phone y sil_phone c eI^ i c 7N N sil_phone c O sil_phone O sil_phone c i sil_phone i sil_phone i sil_phone i l j AU^ u
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Chun_qiu_ting-Suo_lin_nang01-qm_002 k 7 sil_phone 7 l j En sil_phone c 1 sil_phone c j En n j i sil_phone x u a sil_phone c j AU^ u
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Chun_qiu_ting-Suo_lin_nang01-qm_003 c j AN N sil_phone c i c 1 sil_phone 1 c in n x w @n n sil_phone c u sil_phone u sil_phone c H 9 UN O x O sil_phone O sil_phone O ? O sil_phone O sil_phone O c j AU^ u
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Chun_qiu_ting-Suo_lin_nang01-qm_004 c i r\' i sil_phone l j AN N sil_phone c @n n sil_phone c AN N sil_phone x w an n c j AU^ u
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Chun_qiu_ting-Suo_lin_nang01-qm_005 w eI^ i sil_phone c @n n m O sil_phone O sil_phone c j AU^ u sil_phone c y sil_phone x w a ? a sil_phone a l w O eI^ sil_phone eI^ ? eI^ sil_phone eI^ sil_phone eI^ sil_phone eI^ sil_phone eI^ i sil_phone c AU^ u
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Chun_qiu_ting-Suo_lin_nang01-qm_006 c M c 1 sil_phone c H O j oU^ u m in n sil_phone c 7 l j AU^ u
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Chun_qiu_ting-Suo_lin_nang01-qm_007 c 1 sil_phone c AN N x O sil_phone c AN N sil_phone c in n f u x AU^ u
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Chun_qiu_ting-Suo_lin_nang01-qm_008 j E sil_phone j oU^ u sil_phone c i x an n sil_phone c eI^ i x w sil_phone w aI^ ? aI^ i sil_phone c AU^ u
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Chun_qiu_ting-Suo_lin_nang01-qm_009 j E sil_phone j oU^ u c 1 sil_phone j i sil_phone c UN N c u x AU^ u sil_phone c AU^ u
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Chun_qiu_ting-Suo_lin_nang01-qm_010 c j AU^ u n w eI^ sil_phone c i r\' @n n @ r\' sil_phone c an n sil_phone c j ? E sil_phone c j AU^
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Chun_qiu_ting-Suo_lin_nang01-qm_011 c i sil_phone j oU^ u j in n c iN sil_phone c aI^ i c in n sil_phone c AU^ u
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Jiao_Zhang_sheng-Hong_niang01-qm_000 c j AU^ sil_phone c AN c @n sil_phone j iN N c AN N c aI^ i sil_phone c i sil_phone c an n c 1 c j a
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Jiao_Zhang_sheng-Hong_niang01-qm_001 N O sil_phone c u sil_phone c u c iN N l aI^ sil_phone n i sil_phone c u sil_phone c u sil_phone c a
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Jiao_Zhang_sheng-Hong_niang01-qm_002 f AN N sil_phone c a sil_phone c an n sil_phone r\' @n n c i sil_phone c w eI^ i c @n c j oU^ u x aI^ i sil_phone c a
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Jiao_Zhang_sheng-Hong_niang01-qm_003 k @n n c w eI^ i w O sil_phone c j AU^ u sil_phone x UN N sil_phone n j AN sil_phone n i c j oU^ u n 7N c j En n x AU^ c a
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Jiao_Zhang_sheng-Hong_niang01-qm_004 c 7 c w an n c 7 sil_phone c 1 j i sil_phone c w an n f 7N N l j oU^ u c j a x w a
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Jiao_Zhang_sheng-Hong_niang01-qm_005 c iN x AU^ sil_phone l iN N c j E m O j AU^ sil_phone AU^ u c iN N c UN N l j AU^ sil_phone c a
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Jiao_Zhang_sheng-Hong_niang04-qm_000 c j AU^ sil_phone c AN N c 7N N sil_phone j in n c AN N c aI^ i sil_phone c i sil_phone c an n c 1 c j a
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Jiao_Zhang_sheng-Hong_niang04-qm_001 N O sil_phone c u sil_phone c u ? u c iN N l aI^ i sil_phone n i sil_phone c u sil_phone c u sil_phone c a
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Jiao_Zhang_sheng-Hong_niang04-qm_002 f AN N sil_phone c a sil_phone c an n r\' @n n c i sil_phone c w @n n c @n n c j oU^ x aI^ i sil_phone c a
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Jiao_Zhang_sheng-Hong_niang04-qm_003 k @n n c w eI^ i sil_phone N O c j AU^ u x UN n j AN N n i sil_phone c j oU^ u n 7N c j En n c w O sil_phone c a
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Jiao_Zhang_sheng-Hong_niang04-qm_004 c 7 c w an n sil_phone c 7 sil_phone c 1 j i sil_phone c w an n f UN N l j oU^ u sil_phone c j a x w a
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Jiao_Zhang_sheng-Hong_niang04-qm_005 c in n x AU^ u sil_phone l in n c j E ? E sil_phone m O j AU^ sil_phone AU^ sil_phone AU^ sil_phone AU^ u sil_phone c in n sil_phone c UN N sil_phone l j AU^ u sil_phone c a
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Meng_ting_de-Mu_Gui_ying_gua_shuai02-qm_000 m 7N N c iN N sil_phone c 7 sil_phone c in n k u x j AN N x w a c j AU^ c @n n c @n n
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Meng_ting_de-Mu_Gui_ying_gua_shuai02-qm_001 x w an c i N O sil_phone c O sil_phone c j En m 7N N c w an n c i l iN N j yn n
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Meng_ting_de-Mu_Gui_ying_gua_shuai02-qm_002 c j AN N sil_phone c AN N n j En n sil_phone c AU^ u sil_phone x w a m a c AN N w eI^ f UN sil_phone l in n l in n
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Meng_ting_de-Mu_Gui_ying_gua_shuai02-qm_003 c i c H 9 f eI^ c j En sil_phone c 1 l j oU^ u c yn
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Meng_ting_de-Mu_Gui_ying_gua_shuai02-qm_004 j oU^ sil_phone c 7N N c 1 r\' 1 sil_phone c 7 x 7 sil_phone c AN N c in n
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Meng_ting_de-Mu_Gui_ying_gua_shuai02-qm_005 c w @n sil_phone c u sil_phone c @n sil_phone n 7N N k oU^ c u j y sil_phone c a r\' @n
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Meng_ting_de-Mu_Gui_ying_gua_shuai02-qm_006 f an n w AN N c j AU^ c oU^ x 7 c u l w @n n
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Meng_ting_de-Mu_Gui_ying_gua_shuai02-qm_007 w O j i c j En n 7N sil_phone 7N N sil_phone c AN N sil_phone c 7 sil_phone w an n c i sil_phone c in sil_phone in
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Meng_ting_de-Mu_Gui_ying_gua_shuai04-qm_000 m UN N sil_phone c iN N sil_phone c 7 sil_phone c in n sil_phone c u c j AN x w a c j AU^ c 7N N sil_phone c @n n
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Meng_ting_de-Mu_Gui_ying_gua_shuai04-qm_001 x w an n c i N O sil_phone c O sil_phone c j En n m 7N N sil_phone c w AN N c 1 l iN N j yn
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Meng_ting_de-Mu_Gui_ying_gua_shuai04-qm_002 c j AN N sil_phone c AN N n j En sil_phone c AU^ u c w a m a c AN N w eI^ i f UN N l in n l in n
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Meng_ting_de-Mu_Gui_ying_gua_shuai04-qm_003 c i c H 9 f eI^ c j En sil_phone c 1 l j oU^ c yn
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Meng_ting_de-Mu_Gui_ying_gua_shuai04-qm_004 j oU^ c @n n c i r\' 1 sil_phone c 7 sil_phone c AN N c in n
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Meng_ting_de-Mu_Gui_ying_gua_shuai04-qm_005 c w @n n sil_phone c u sil_phone c @n n n 7N N k oU^ c u j y sil_phone c a r\' @n n
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Meng_ting_de-Mu_Gui_ying_gua_shuai04-qm_006 f an n w AN N c j AU^ u sil_phone c oU^ u x O sil_phone c u l w @n n
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Meng_ting_de-Mu_Gui_ying_gua_shuai04-qm_007 N O j i sil_phone c j En n n 7N N sil_phone n 7N sil_phone c AN sil_phone c 7 sil_phone w an sil_phone an N sil_phone c i sil_phone c in sil_phone in
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Zhe_cai_shi-Suo_lin_nang01-qm_000 c 7 sil_phone c aI^ c 1 sil_phone c in n c 7N N n an n j y sil_phone y sil_phone l j AU^ u
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Zhe_cai_shi-Suo_lin_nang01-qm_001 c u c j ? AN sil_phone c w an n y w an n sil_phone c aI^ sil_phone c in n sil_phone c AU^ u
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Zhe_cai_shi-Suo_lin_nang01-qm_002 x w eI^ c oU^ f an n x w a r\' y m UN sil_phone UN N m j AU^
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Zhe_cai_shi-Suo_lin_nang01-qm_003 c an n c @n n j i c j En n f u ? u sil_phone c in n c AU^ u
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Zhe_cai_shi-Suo_lin_nang01-qm_004 l j oU^ u N an n x w a m in n sil_phone c j oU^ sil_phone c i c j AU^
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Zhe_cai_shi-Suo_lin_nang01-qm_005 c an n k w ? O c in n x w a sil_phone c 7 sil_phone c M x AU^ u
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Zhe_cai_shi-Suo_lin_nang01-qm_006 c UN N sil_phone f u sil_phone c 7 f u r\' y c M sil_phone M sil_phone c AU^
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Zhe_cai_shi-Suo_lin_nang01-qm_007 c w eI^ i N O sil_phone c AN ? AN N sil_phone c u sil_phone c @n sil_phone @n m u sil_phone c AU^
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lseh-Tan_Yang_jia-Hong_yang_dong-qm_000 c an n sil_phone j AN N sil_phone c j a sil_phone c oU^ sil_phone c UN N sil_phone c y r\' a sil_phone a sil_phone a sil_phone a ? a
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lseh-Tan_Yang_jia-Hong_yang_dong-qm_001 c in ? in n c H 9 ? 9 sil_phone j UN sil_phone ? a sil_phone c in sil_phone in sil_phone in sil_phone in n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lseh-Tan_Yang_jia-Hong_yang_dong-qm_002 c @n n a sil_phone c O sil_phone c an sil_phone an n sil_phone c j AU^ u m 7N @ c j AN N m in n c AN N sil_phone f an n j in sil_phone in sil_phone in sil_phone in sil_phone in sil_phone in sil_phone in sil_phone in sil_phone in n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lseh-Tan_Yang_jia-Hong_yang_dong-qm_003 c UN N sil_phone c AU^ u @ r\' sil_phone c an n w eI^ i f u sil_phone u sil_phone u
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lseh-Tan_Yang_jia-Hong_yang_dong-qm_004 r\' w an sil_phone c a sil_phone c AU^ u 7 sil_phone c @n n sil_phone @n n sil_phone @n ? @n sil_phone @n sil_phone @n sil_phone @n sil_phone @n n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lseh-Tan_Yang_jia-Hong_yang_dong-qm_005 c a sil_phone c 1 sil_phone c a sil_phone AU^ u sil_phone c u sil_phone k w O sil_phone c 1 c w @n n sil_phone k w AN j in ? in ? in sil_phone in n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lseh-Wei_guo_jia-Hong_yang_dong02-qm_000 w eI^ i sil_phone k w O c j a sil_phone n a x O c 7N sil_phone 7N N sil_phone c an r\' 1 i sil_phone c j an n sil_phone c UN sil_phone UN N
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lseh-Wei_guo_jia-Hong_yang_dong02-qm_001 w O j E c @n n sil_phone c 7N N f u l j AU^ u c aI^ i sil_phone c 7 sil_phone c i sil_phone c UN N
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lseh-Wei_guo_jia-Hong_yang_dong02-qm_002 k w an n f UN N sil_phone c AU^ u sil_phone c j E sil_phone c u c 1 a sil_phone x w AN w AN N sil_phone @n n c UN sil_phone UN sil_phone UN N
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lseh-Wei_guo_jia-Hong_yang_dong02-qm_003 c @n n sil_phone c u c w AN N sil_phone c u j oU^ u r\' @n n c 7 c w eI^ i sil_phone m 7N N l UN N a sil_phone a
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lseh-Wo_ben_shi-Qiong_lin_yan-qm_000 N O sil_phone c @n n c 1 sil_phone j i c j UN N r\' u w a sil_phone c aI^ i sil_phone l j E c in n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lseh-Wo_ben_shi-Qiong_lin_yan-qm_001 m AU^ u f an n l j AU^ u sil_phone l AU^ u c aI^ c 1 f u sil_phone m @n n n 7 c in n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lseh-Wo_ben_shi-Qiong_lin_yan-qm_002 n j En n n 7 sil_phone c eI^ i r\' @n n sil_phone c j E f a sil_phone c AU^ u c AN sil_phone AN N sil_phone c w O sil_phone c O m in n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lseh-Wo_ben_shi-Qiong_lin_yan-qm_003 l AN N 7 sil_phone c a sil_phone j w En n j AN N l j AN sil_phone 7 sil_phone 7 sil_phone 7 sil_phone l i sil_phone f @n sil_phone @n sil_phone @n n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lseh-Wo_ben_shi-Qiong_lin_yan-qm_004 N O w AN N r\' 1 sil_phone j in n n E c j oU^ sil_phone c j oU^ u sil_phone c u a c w eI^ sil_phone eI^ i
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lseh-Wo_ben_shi-Qiong_lin_yan-qm_005 c AU^ u c in n r\' 1 y in n c j oU^ u sil_phone c j oU^ u c w eI^ i r\' @n n n a
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lseh-Yi_lun_ming-Wen_zhao_guan-qm_000 j i sil_phone l w @n n sil_phone m iN N sil_phone j H E sil_phone E sil_phone c AU^ u sil_phone c w AN N sil_phone c j En sil_phone En
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lseh-Yi_lun_ming-Wen_zhao_guan-qm_001 c oU^ u sil_phone r\' @n n sil_phone c in n n a c UN u sil_phone c M sil_phone c j En n sil_phone c w an n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lseh-Yi_lun_ming-Wen_zhao_guan-qm_002 c 1 c 1 7 w AN N sil_phone c AU^ u sil_phone w u k w O sil_phone c j E sil_phone c iN N sil_phone x w eI^ i sil_phone c w an
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lseh-Yi_lun_ming-Wen_zhao_guan-qm_003 c w eI^ i c i sil_phone c AU^ u sil_phone k w an n sil_phone j oU^ u sil_phone c u l an n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lseh-Yi_lun_ming-Wen_zhao_guan-qm_004 c in j y n a sil_phone c UN N sil_phone k AU^ u sil_phone k UN N c in n sil_phone f AN N sil_phone c j En
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lseh-Yi_lun_ming-Wen_zhao_guan-qm_005 c a c j AN N N O sil_phone j in c AN N c aI^ i x oU^ sil_phone x w a j w an n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lseh-Yi_lun_ming-Wen_zhao_guan-qm_006 j i ? i l j En sil_phone c i c j En n N O sil_phone c i sil_phone m eI^ i sil_phone c u sil_phone w a sil_phone c an n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lseh-Yi_lun_ming-Wen_zhao_guan-qm_007 j E j E x O c 7N N sil_phone c E sil_phone N an m j En n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lseh-Yi_lun_ming-Wen_zhao_guan-qm_008 an n w u j y n sil_phone x AU^ u j i x M c AN N sil_phone c j a c w an
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lseh-Yi_lun_ming-Wen_zhao_guan-qm_009 m an n f u sil_phone c i j w an n x @n sil_phone N O c j AN N c w eI^ j an n n a
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lseh-Yi_lun_ming-Wen_zhao_guan-qm_010 N O x AU^ u a sil_phone c i sil_phone N aI^ i N aI^ i sil_phone c AN N sil_phone c UN N j an
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lseh-Yi_lun_ming-Wen_zhao_guan-qm_011 N O x AU^ u u sil_phone c i sil_phone l UN N j oU^ u c aI^ i c j En sil_phone c a sil_phone c an n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lseh-Yi_lun_ming-Wen_zhao_guan-qm_012 N O x AU^ u a sil_phone c i sil_phone j y @ r\' sil_phone c w @n n l j AU^ u sil_phone k oU^ u c j En sil_phone En
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lseh-Yi_lun_ming-Wen_zhao_guan-qm_013 N O x AU^ u 7 sil_phone c i sil_phone c O l AN N sil_phone c UN N sil_phone c 1 sil_phone c w O sil_phone c i sil_phone c oU^ sil_phone c w an n n 7
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lseh-Yi_lun_ming-Wen_zhao_guan-qm_014 c M l aI^ i c j AN N c y sil_phone w O sil_phone c i sil_phone k an n sil_phone c AN N sil_phone c w an n sil_phone an n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lseh-Yi_lun_ming-Wen_zhao_guan-qm_015 c in n j E w an n sil_phone c @n n n 7N N sil_phone k oU^ u sil_phone c an n sil_phone c AU^ u sil_phone m in n sil_phone c j En
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lseh-Zi_na_ri-Hong_yang_dong-qm_000 c M 7 sil_phone n a r\' i sil_phone c AU^ sil_phone c a sil_phone k O eI^ ? eI^ sil_phone eI^ i sil_phone c @n n n 7 r\' an n sil_phone c UN ? UN N sil_phone c in n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lseh-Zi_na_ri-Hong_yang_dong-qm_001 c an n c iN N c 1 sil_phone m UN N c j En n l j AU^ u n j En n m aI^ i sil_phone c j E c w @n n n a
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lseh-Zi_na_ri-Hong_yang_dong-qm_002 c 7N N c j En n f an n sil_phone m in n m 7N N 7 l j AN N sil_phone c j a aI^ i sil_phone k u sil_phone c an n n 7 c in n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lseh-Zi_na_ri-Hong_yang_dong-qm_003 n a n aI^ i c 1 7 sil_phone c j AU^ sil_phone c j En n c w O j i 7 sil_phone c j a sil_phone c 7N N c @n n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lseh-Zi_na_ri-Hong_yang_dong-qm_004 c @n n c j aI^ i sil_phone k u sil_phone j i c aI^ sil_phone n a x UN N j AN N sil_phone c UN N
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lseh-Zi_na_ri-Hong_yang_dong-qm_005 w AN N c j AN N sil_phone c aI^ i sil_phone c i c an n c @n sil_phone n a c aI^ i sil_phone c 1 sil_phone c @n n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lseh-Zi_na_ri-Hong_yang_dong-qm_006 @ r\' c M 7 l i sil_phone m in n m 7N N l j AN N f an n j in n sil_phone l aI^ i c in n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lseh-Zi_na_ri-Hong_yang_dong-qm_007 j oU^ u c w eI^ i sil_phone c 1 sil_phone c j AU^ sil_phone c 7 m in n sil_phone c a c M c M sil_phone x oU^ sil_phone oU^ sil_phone k @n n n a
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lseh-Zi_na_ri-Hong_yang_dong-qm_008 l AU^ u sil_phone c yn n c AU^ u sil_phone c a @ r\' r\' @n n c aI^ x UN N j AN N sil_phone c UN N c AN N 7 m in n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lseh-Zi_na_ri-Hong_yang_dong-qm_009 c y l j AU^ u N O sil_phone c w O j oU^ u sil_phone c AN N n a ? an n j i sil_phone f i c in n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lseh-Zi_na_ri-Hong_yang_dong-qm_010 w eI^ i c M c 1 sil_phone c UN N 7 r\' i l i N O j oU^ u c @n n sil_phone c i sil_phone c in n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lseh-Zi_na_ri-Hong_yang_dong-qm_011 j in n c M c AN N sil_phone c @n n c i sil_phone c in n c UN N 7 c j a sil_phone c 1 sil_phone f @n n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lseh-Zi_na_ri-Hong_yang_dong-qm_012 c j En n c w eI^ i j E j a sil_phone a sil_phone a ? a ? a ? a
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Guo_liao_yi-Wen_zhao_guan02-qm_000 k w O l j AU^ j i c j En j oU^ j i j 7 c j En
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Guo_liao_yi-Wen_zhao_guan02-qm_001 c in n c UN x AU^ u c M sil_phone k w @n n j oU^ u c j En n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Guo_liao_yi-Wen_zhao_guan02-qm_002 j AU^ u sil_phone c UN w AN N k w a c an sil_phone c 1 c j En n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Guo_liao_yi-Wen_zhao_guan02-qm_003 c u sil_phone n @n n sil_phone c AU^ u c w O sil_phone f u m u j O an n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Huai_nan_wang-Huai_he_ying02-qm_000 c w aI^ i n an n w AN N sil_phone c a sil_phone c a l in n c w an n c j a
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Huai_nan_wang-Huai_he_ying02-qm_001 f En n c w O c an n sil_phone c an n c y c j En n c a
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Huai_nan_wang-Huai_he_ying02-qm_002 f @n m in n c 1 c j En n sil_phone c a x u w eI^ i sil_phone c a
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Huai_nan_wang-Huai_he_ying02-qm_003 c u j oU^ u c 7 N O sil_phone c 7N N sil_phone c j ? AU^ u x a x a
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Huai_nan_wang-Huai_he_ying02-qm_004 c M c M c j En n c u c O n AU^ u c j AU^ u x w a
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Huai_nan_wang-Huai_he_ying02-qm_005 x u j an n l w an n j y sil_phone c @n m an c an
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Huai_nan_wang-Huai_he_ying02-qm_006 c aI^ i c AN N an n sil_phone c 1 n i c w a sil_phone c a x w a
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Huai_nan_wang-Huai_he_ying02-qm_007 w eI^ i c En n m O c 1 c AU^ u r\' y c in n sil_phone c w a c y En n x w a
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Huai_nan_wang-Huai_he_ying02-qm_008 c w O c oU^ u l a sil_phone c 1 l AU^ u sil_phone l i c w O sil_phone c 7
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Huai_nan_wang-Huai_he_ying02-qm_009 j oU^ u c oU^ u sil_phone c aI^ i sil_phone c a c w an n c u l a
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Huai_nan_wang-Huai_he_ying02-qm_010 c an n r\' @n n c UN N 7 sil_phone c a sil_phone c 7 sil_phone k w eI^ m @n n sil_phone k w an n c AN N c a
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Huai_nan_wang-Huai_he_ying02-qm_011 a ? a ? a sil_phone a sil_phone a sil_phone a sil_phone a sil_phone a sil_phone c 7N N c M @ r\' c M 7 sil_phone c j E j oU^ sil_phone oU^ sil_phone c a
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Jiang_shen_er-San_jia_dian02-qm_000 c j AN N c @n n @ r\' sil_phone l aI^ i c 1 c aI^ i sil_phone c a c j aI^ i c oU^ u
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Jiang_shen_er-San_jia_dian02-qm_001 c w @n n j i c @n n k w O w AN N sil_phone c in n c UN N sil_phone c in n c UN N c oU^ u
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Jiang_shen_er-San_jia_dian02-qm_002 c 1 c j AN m a sil_phone c in n c 7 c oU^ u
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Jiang_shen_er-San_jia_dian02-qm_003 @ r\' sil_phone c u c 1 sil_phone c aI^ i r\' @n n n 7 sil_phone c a c @n n c oU^ u
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Jiang_shen_er-San_jia_dian02-qm_004 j AN N l in j y N O sil_phone l aI^ c @n n n 7 sil_phone c oU^
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Jiang_shen_er-San_jia_dian02-qm_005 j in n c M c AN f a sil_phone c eI^ i sil_phone c AU^ u sil_phone c @n n c oU^ u
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Jiang_shen_er-San_jia_dian02-qm_006 c 7 sil_phone c u sil_phone c 7 sil_phone c aI^ i j E sil_phone c i @n n c in n c oU^ N
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Jiang_shen_er-San_jia_dian02-qm_007 c 7 sil_phone c u sil_phone c 7 j a j i m @n n sil_phone c UN N sil_phone c an n c oU^ u
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Jiang_shen_er-San_jia_dian02-qm_008 c 1 n an n c 7 sil_phone c j aI^ i f AN N c M l in j y N w O sil_phone c i c AU^ u c UN N j oU^ N
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Jiang_shen_er-San_jia_dian02-qm_009 c 7 sil_phone c u sil_phone c 7 l AU^ N n j AN N 7 sil_phone c 7 c j AU^ u sil_phone c oU^ u
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Jiang_shen_er-San_jia_dian02-qm_010 n j AN N c @n n @ r\' sil_phone l j En n c in r\' oU^ u
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Jiang_shen_er-San_jia_dian02-qm_011 @ r\' c in n c j En n l i m u sil_phone c an j oU^ u
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Jiang_shen_er-San_jia_dian02-qm_012 @ r\' c j AN N n j AN N c @n n sil_phone n an n c oU^ u c oU^ u
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Jiang_shen_er-San_jia_dian02-qm_013 n j AN N c j AN N @ r\' l aI^ i l w eI^ i c w AN N l j oU^ u
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Jiang_shen_er-San_jia_dian02-qm_014 j En n c j En n c 7 x UN N c i sil_phone c w eI^ l w O c aI^ c M c an n c oU^
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Jiang_shen_er-San_jia_dian02-qm_015 c j AU^ u j i c @n n c j E c aI^ i sil_phone c a sil_phone c j En n c oU^
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Qian_bai_wan-Si_lang_tang_mu01-qm_000 c j En n sil_phone c aI^ i sil_phone w an n sil_phone n 7 sil_phone c aI^ i sil_phone j E c 1 c 7 sil_phone c u k w O @ r\' c i c w eI^ i sil_phone j 7 l aI^ i
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Qian_bai_wan-Si_lang_tang_mu01-qm_001 x aI^ i @ r\' sil_phone c eI^ i c w @n n c aI^ i sil_phone c an n sil_phone c AN N w aI^ i
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Qian_bai_wan-Si_lang_tang_mu01-qm_002 j in n n 7 c in m aI^ i m in n sil_phone c w O x w O sil_phone c aI^ i
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Qian_bai_wan-Si_lang_tang_mu01-qm_003 c w O m UN N sil_phone c aI^ i x oU^ sil_phone c i @n n sil_phone c M x aI^ i j 7
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Qian_bai_wan-Si_lang_tang_mu01-qm_004 c j E c in ? in sil_phone c UN N 7 c 1 sil_phone c eI^ i x O c j aI^ ? aI^ ? aI^ i
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Qian_bai_wan-Si_lang_tang_mu01-qm_005 @ r\' c aI^ i f an n sil_phone c AN N j i j 7 c M sil_phone w u 7 c aI^ i
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Qian_bai_wan-Si_lang_tang_mu01-qm_006 c AN N c a @ r\' sil_phone c i c AU^ sil_phone AU^ ? AU^ N n j AN sil_phone AN ? AN sil_phone AN sil_phone AN ? AN ? AN N k w a sil_phone c aI^ @ r\' sil_phone c i c in n n 7 x w a ? aI^ i
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Qian_bai_wan-Si_lang_tang_mu01-qm_007 c u sil_phone c i j i sil_phone k w an n @ r\' l an n sil_phone c w an n n 7 sil_phone c aI^ i
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Qian_bai_wan-Si_lang_tang_mu01-qm_008 m eI^ i sil_phone n j En n sil_phone c j En n x w ? a ? a sil_phone c aI^ @ r\' c i c in n sil_phone c u c aI^
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Qian_bai_wan-Si_lang_tang_mu01-qm_009 w @n n c in n c 7 l AU^ n j AN sil_phone c @n n c 7 c aI^ i
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Qian_bai_wan-Si_lang_tang_mu01-qm_010 c j AU^ sil_phone c w AN N sil_phone k aI^ i sil_phone c an n sil_phone c w eI^ i j in l aI^ i
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Qian_bai_wan-Si_lang_tang_mu01-qm_011 c j En m u j i m j En n c oU^ m eI^ i c j aI^ i
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Qian_bai_wan-Si_lang_tang_mu01-qm_012 j w an n sil_phone l AU^ u n j AN N f u sil_phone c oU^ N sil_phone c AN N 7 n in n sil_phone j UN N x O c j E aI^ i sil_phone w u 7 sil_phone c aI^ i
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Quan_qian_sui-Gan_lu_si-qm_000 c w an n sil_phone c j En n c w eI^ i sil_phone c a c M sil_phone c j oU^ sil_phone c y sil_phone c oU^
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Quan_qian_sui-Gan_lu_si-qm_001 l AU^ sil_phone c @n n sil_phone j y j 7 sil_phone c y sil_phone c H 7 ? 7 ? 7 c UN N sil_phone c oU^ sil_phone oU^ ? oU^
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Quan_qian_sui-Gan_lu_si-qm_002 l j oU^ sil_phone c eI^ i sil_phone c @n sil_phone n 7 c 1 sil_phone c iN ? iN ? iN N w AN N sil_phone c i x oU^ sil_phone oU^ ? oU^ sil_phone oU^ ? oU^ sil_phone oU^ sil_phone oU^ sil_phone oU^
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Quan_qian_sui-Gan_lu_si-qm_003 c iN N c i sil_phone c w an n c w @n n sil_phone j i m 7 l j oU^
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Quan_qian_sui-Gan_lu_si-qm_004 c a j oU^ sil_phone k O sil_phone @ r\' sil_phone c i sil_phone x an n sil_phone c oU^ u sil_phone c iN N sil_phone n a x oU^ u
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Quan_qian_sui-Gan_lu_si-qm_005 c iN N sil_phone l UN N j an j H 9 c 7N k w eI^ i sil_phone c j aI^ i sil_phone c oU^ u
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Quan_qian_sui-Gan_lu_si-qm_006 c 7 sil_phone m a sil_phone c O c j En n sil_phone c y sil_phone w @n n c oU^
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Quan_qian_sui-Gan_lu_si-qm_007 c aI^ sil_phone k u sil_phone c @n n c @n n sil_phone c AN N k w O l AU^ u c aI^ i j AN N sil_phone c i sil_phone c oU^ u
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Quan_qian_sui-Gan_lu_si-qm_008 c a c an n sil_phone c i j i sil_phone c 7 sil_phone w eI^ i f UN N j oU^ u
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Quan_qian_sui-Gan_lu_si-qm_009 c AN N sil_phone c a r\' c 7 sil_phone m j oU^ u sil_phone k w an n sil_phone c y sil_phone j an n x oU^ u
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Quan_qian_sui-Gan_lu_si-qm_010 c j En n sil_phone c a sil_phone c u j oU^ u sil_phone c a sil_phone c i sil_phone c UN N sil_phone n j oU^ u sil_phone c oU^
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Quan_qian_sui-Gan_lu_si-qm_011 x u sil_phone l AU^ sil_phone c w AN N c j En n sil_phone c an n sil_phone w @n n x oU^
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Quan_qian_sui-Gan_lu_si-qm_012 c AN N j AN N c j AU^ u c j En n sil_phone j i c @n n c oU^ u
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Quan_qian_sui-Gan_lu_si-qm_013 x 7 sil_phone c w an n l j AU^ u c j AU^ u sil_phone 7 l j AN N c w eI^ i sil_phone c AU^ u 7 l j oU^ u
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Quan_qian_sui-Gan_lu_si-qm_014 c a c M sil_phone c i c M l UN N sil_phone c AN N c an n c j AN N
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Quan_qian_sui-Gan_lu_si-qm_015 k aI^ i c 1 sil_phone j iN N c j UN N sil_phone k w an n n 7 sil_phone c j oU^ u sil_phone c oU^ u
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Quan_qian_sui-Gan_lu_si-qm_016 c AN N sil_phone c an n sil_phone c O sil_phone c j oU^ u 7 sil_phone c oU^
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Quan_qian_sui-Gan_lu_si-qm_017 c a sil_phone c 7 c AU^ u sil_phone c iN N sil_phone k O sil_phone k O sil_phone c oU^ u
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Quan_qian_sui-Gan_lu_si-qm_018 c 7 j i sil_phone c an n n u c j AN N sil_phone n a sil_phone k w O j oU^
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Quan_qian_sui-Gan_lu_si-qm_019 c w an sil_phone j oU^ u c y k O j UN N c i j a m oU^
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Quan_qian_sui-Gan_lu_si-qm_020 n i sil_phone c a l j oU^ u sil_phone c eI^ i sil_phone c u j AU^ sil_phone @n sil_phone c in n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Quan_qian_sui-Gan_lu_si-qm_021 c a sil_phone c i c j UN w @n n n 7 c i c j oU^ c @n n c @n n sil_phone c a c j oU^ u
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Quan_qian_sui-Gan_lu_si-qm_022 r\' w O c 1 c iN N n 7 sil_phone c iN N sil_phone l aI^ i c 7N N sil_phone c oU^ u
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Quan_qian_sui-Gan_lu_si-qm_023 c AU^ u sil_phone c AU^ u c w O sil_phone c a j y l i c oU^ u
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Quan_qian_sui-Gan_lu_si-qm_024 w O n j oU^ u sil_phone c w an n x w eI^ c @n n sil_phone c oU^ u sil_phone c aI^ i x oU^ u
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Quan_qian_sui-Gan_lu_si-qm_025 c j AN N c i c j oU^ u sil_phone w a 7 sil_phone c i sil_phone c j E sil_phone l w an n c oU^ sil_phone oU^ sil_phone oU^ sil_phone oU^ u
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Shi_ye_shuo-Ding_jun_shan-qm_000 c 1 a j E sil_phone c y 7 x w a sil_phone j En sil_phone c aI^ i sil_phone c a
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Shi_ye_shuo-Ding_jun_shan-qm_001 c u w a 7 i j oU^ u x w AN N sil_phone c UN N sil_phone n u c i sil_phone j a f a
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Shi_ye_shuo-Ding_jun_shan-qm_002 j i c 1 c an n c w eI^ i c 1 sil_phone c UN N 7 m a
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Shi_ye_shuo-Ding_jun_shan-qm_003 w eI^ 7 m iN N sil_phone c @n n c oU^ sil_phone c aI^ i sil_phone c AN N c a
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Shi_ye_shuo-Ding_jun_shan-qm_004 c M c UN N k w eI^ i c w @n n l j AU^ O x w AN N c u sil_phone j E sil_phone c i sil_phone c j a
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Shi_ye_shuo-Ding_jun_shan-qm_005 c i j 7 m a sil_phone c an n n 7 sil_phone c AU^ u w O c y sil_phone k w O l j AU^ u w u w @n c j a
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Shi_ye_shuo-Ding_jun_shan-qm_006 c j AN N k w a AN N sil_phone c w O sil_phone c aI^ i sil_phone k UN N sil_phone l AU^ u sil_phone c a
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Shi_ye_shuo-Ding_jun_shan-qm_007 c yn n c 1 j E sil_phone c u c in n c aI^ sil_phone k UN N sil_phone l AU^ u sil_phone c u w 7 c AN N c a sil_phone j i c a
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Shi_ye_shuo-Ding_jun_shan-qm_008 f eI^ c 1 m oU^ u x w AN N 7 c UN N sil_phone c w a sil_phone c a x w a
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Shi_ye_shuo-Ding_jun_shan-qm_009 c j E sil_phone c aI^ i sil_phone c AU^ u sil_phone k UN N c oU^ sil_phone c UN N n a
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Shi_ye_shuo-Ding_jun_shan-qm_010 m an n m an n sil_phone c a c AN N sil_phone c y x UN N 7 sil_phone c oU^
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Shi_ye_shuo-Ding_jun_shan-qm_011 c AN N c j a sil_phone c i @ r\' l AN N sil_phone k O sil_phone k O sil_phone c w a
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Shi_ye_shuo-Ding_jun_shan-qm_012 @ r\' c M c aI^ i j UN N c 7 l j AN N sil_phone c AN N sil_phone c 7 l i sil_phone i
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Shi_ye_shuo-Ding_jun_shan-qm_013 r\' @n sil_phone j oU^ u sil_phone c in n c @n n l i j oU^ u sil_phone c j a
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Shi_ye_shuo-Ding_jun_shan-qm_014 c an n c M sil_phone c aI^ i k UN N a sil_phone c j oU^ j H 9 j AN N a 7 sil_phone 7 ? 7
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Shi_ye_shuo-Ding_jun_shan-qm_015 c aI^ i j y c 1 j E sil_phone c a x w a sil_phone c a
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Wo_ben_shi-Kong_cheng_ji-qm_000 w O c @n n c 1 sil_phone w O l UN N sil_phone k AN N sil_phone c an sil_phone an sil_phone an n sil_phone c an n n 7 sil_phone c i r\' @n sil_phone @n n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Wo_ben_shi-Kong_cheng_ji-qm_001 c iN N j in n j AN sil_phone r\' y sil_phone f an n sil_phone c AN N sil_phone c AU^ u sil_phone c iN N sil_phone c j En n sil_phone c w @n n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Wo_ben_shi-Kong_cheng_ji-qm_002 c j En n sil_phone c i j a j E sil_phone c j a n an n j AN N a ? a ? a sil_phone j y j 7 c j a sil_phone c an n c iN N
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Wo_ben_shi-Kong_cheng_ji-qm_003 c w an n c j oU^ u l j AU^ u sil_phone x an n c j a j E sil_phone c iN N c u w a sil_phone c an n f @n n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Wo_ben_shi-Kong_cheng_ji-qm_004 k w an n f @n n sil_phone c AU^ u sil_phone w u c j AN N x oU^ u w 7 sil_phone c 1 c AN N sil_phone c w aI^ i j in n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Wo_ben_shi-Kong_cheng_ji-qm_005 c UN N c M sil_phone c a AN N sil_phone n an n sil_phone c 7 sil_phone c j AU^ u sil_phone c O sil_phone c u sil_phone c UN N 7 ? 7 sil_phone c in n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Wo_ben_shi-Kong_cheng_ji-qm_006 c oU^ u w @n n w AN N sil_phone f AN N c j AN N c AN N sil_phone c oU^ u c 1 sil_phone c a sil_phone c @n ? @n ? @n n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Wo_ben_shi-Kong_cheng_ji-qm_007 an n c y a sil_phone k w O sil_phone c @n n sil_phone c i sil_phone c 7 c j En n sil_phone c eI^ i j a sil_phone c i c j En n n a c 7N N
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Wo_ben_shi-Kong_cheng_ji-qm_008 c j En n w u w a c 1 sil_phone c aI^ i sil_phone c i l oU^ u w a ? a ? a ? a N O l j AN N j i l j AN N sil_phone c in n sil_phone j in n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Wo_ben_shi-Kong_cheng_ji-qm_009 w O m j En n c j En sil_phone c H 9 c AU^ u sil_phone k O sil_phone c 1 a sil_phone j in n c i r\' @n n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Wo_zheng_zai-Kong_cheng_ji04-qm_000 N O sil_phone c @n n c aI^ i c @n n l oU^ u sil_phone k w an n c an n n 7 c in n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Wo_zheng_zai-Kong_cheng_ji04-qm_001 @ r\' sil_phone c in n c 7 sil_phone c @n n w aI^ i sil_phone l w an n f @n n f @n n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Wo_zheng_zai-Kong_cheng_ji04-qm_002 c iN N c i sil_phone c AU^ u sil_phone c an n sil_phone c UN N f an n j in n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Wo_zheng_zai-Kong_cheng_ji04-qm_003 c H O i j w an n l aI^ i c 1 c M 7 sil_phone m a sil_phone f a l aI^ i sil_phone c i sil_phone c iN N
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Wo_zheng_zai-Kong_cheng_ji04-qm_004 N O j E c 7N N c aI^ i r\' @n n sil_phone c y sil_phone c a c iN N
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Wo_zheng_zai-Kong_cheng_ji04-qm_005 c a sil_phone c iN N c 7 c i 7 m a l iN N n 7 sil_phone c iN N c j oU^ w AN N c M c iN N
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Wo_zheng_zai-Kong_cheng_ji04-qm_006 j i l aI^ i c 1 m a c u w u w 7 m oU^ sil_phone c AU^ u c aI^ i n 7N N
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Wo_zheng_zai-Kong_cheng_ji04-qm_007 @ r\' l aI^ i c i c j AN N c w aI^ i sil_phone c u x O sil_phone c 1 ? 1 c j aI^ i c iN N
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Wo_zheng_zai-Kong_cheng_ji04-qm_008 n i l j En n c 7 N O c an n c @n n sil_phone c w O c j AU^ u c iN N
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Wo_zheng_zai-Kong_cheng_ji04-qm_009 c an n @ ? @ r\' w u j En n sil_phone n i j oU^ u sil_phone c w O N O sil_phone c i c M j a c @n n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Wo_zheng_zai-Kong_cheng_ji04-qm_010 c y sil_phone k O l j AN N c aI^ sil_phone c i l oU^ u sil_phone c a c j a sil_phone c 7N N
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Wo_zheng_zai-Kong_cheng_ji04-qm_011 c 7N N x oU^ u n i sil_phone c M m a sil_phone c AU^ u c M sil_phone c an n n 7 sil_phone c an n sil_phone c an n c an n c in n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Wo_zheng_zai-Kong_cheng_ji04-qm_012 c M c @n n sil_phone c i sil_phone c j aI^ i sil_phone c AU^ u sil_phone c a c AU^ u c iN N
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Wo_zheng_zai-Kong_cheng_ji04-qm_013 c w @n n sil_phone c eI^ sil_phone c w O c M 7 m a sil_phone x AU^ u sil_phone c w @n n sil_phone c iN N
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Wo_zheng_zai-Kong_cheng_ji04-qm_014 N O c 7 l i w u j oU^ u sil_phone c j E c i j 7 c iN N
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Wo_zheng_zai-Kong_cheng_ji04-qm_015 c AU^ u sil_phone j y sil_phone c eI^ i c j a j AN N k AU^ u m eI^ i c j oU^ u sil_phone c AU^ u c AN N n i sil_phone c i c an n n 7 c yn n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Wo_zheng_zai-Kong_cheng_ji04-qm_016 c i sil_phone c AU^ u c i c j oU^ u sil_phone k aI^ i sil_phone c a c 7N N c in n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Wo_zheng_zai-Kong_cheng_ji04-qm_017 w eI^ i c @n n m O sil_phone j oU^ u j i sil_phone c u 7 sil_phone c iN N c in n c w eI^ i l j AN N n an n n i w eI^ i sil_phone c i c 1 x O sil_phone O c iN N
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Wo_zheng_zai-Kong_cheng_ji04-qm_018 c w O j oU^ u c in n c UN N sil_phone r\' @n n l AN N k O
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Wo_zheng_zai-Kong_cheng_ji04-qm_019 N O c 1 j oU^ w u j oU^ m aI^ i f u j oU^ u w u j oU^ sil_phone c in n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Wo_zheng_zai-Kong_cheng_ji04-qm_020 n i sil_phone c u j AU^ u x u x i l w an n c j AN N c in n c u w a sil_phone c iN N
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Wo_zheng_zai-Kong_cheng_ji04-qm_021 n i c j oU^ l aI^ i l aI^ i l aI^ i sil_phone c iN N sil_phone c AN N c @n sil_phone @n ? @n n l aI^ sil_phone aI^ ? aI^ i sil_phone c in n N O sil_phone f u sil_phone c in sil_phone in sil_phone in n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Xi_ri_you-Zhu_lian_zhai-qm_000 c M l i j oU^ k O sil_phone c an n sil_phone c a c j ? En ? En n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Xi_ri_you-Zhu_lian_zhai-qm_001 l j oU^ sil_phone k w an n c AN N sil_phone c j E j y sil_phone c aI^ i sil_phone c AU^ u j w an n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Xi_ri_you-Zhu_lian_zhai-qm_002 c i c j UN N m @n n sil_phone c y c oU^ sil_phone c 7N N c 1 7 c an n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Xi_ri_you-Zhu_lian_zhai-qm_003 k u c @n n sil_phone c j AN N 7 f UN N sil_phone j oU^ u sil_phone c w an sil_phone j w an n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Xi_ri_you-Zhu_lian_zhai-qm_004 k w an n @ r\' j E sil_phone m a c AN N sil_phone x u c an n n a sil_phone c i
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Xi_ri_you-Zhu_lian_zhai-qm_005 c AN N j i sil_phone c 7 sil_phone c aI^ i c @n l oU^ u sil_phone n u w a f a sil_phone c UN N 7 sil_phone k w an n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Xi_ri_you-Zhu_lian_zhai-qm_006 @ r\' sil_phone c j En n c j AN N sil_phone j oU^ u sil_phone c in n sil_phone r\' @n n n a c j En
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Xi_ri_you-Zhu_lian_zhai-qm_007 l AU^ u c aI^ i j AN N sil_phone c i r\' @n n m a sil_phone l aI^ i sil_phone c AU^ u l j AU^ u sil_phone k u c @n n sil_phone c j En n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Xi_ri_you-Zhu_lian_zhai-qm_008 c @n n l oU^ u c AN N sil_phone c u w 7 n i sil_phone c an n sil_phone c UN N k u
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Xi_ri_you-Zhu_lian_zhai-qm_009 c 1 m j En n c in n c i sil_phone c w AN N c w AN N w eI^ i j an n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Xi_ri_you-Zhu_lian_zhai-qm_010 x w a l a l a l a sil_phone c a sil_phone c a l j AU^ u sil_phone c oU^ u sil_phone c UN N 7 sil_phone k u
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Xi_ri_you-Zhu_lian_zhai-qm_011 k w an n @ r\' j E sil_phone c i sil_phone c AU^ u sil_phone k w a sil_phone c j AU^ N an n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Xi_ri_you-Zhu_lian_zhai-qm_012 x w a l a l a l a sil_phone c a c a l j AU^ u sil_phone @ r\' sil_phone c UN N 7 sil_phone k u
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Xi_ri_you-Zhu_lian_zhai-qm_013 r\' @n n j oU^ c in n c @n n m a j oU^ u x w an n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Xi_ri_you-Zhu_lian_zhai-qm_014 x w a l a l a l a c a sil_phone c a l AU^ c an n c UN N a k u
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Xi_ri_you-Zhu_lian_zhai-qm_015 c aI^ j AN N sil_phone c i r\' @n n c oU^ u l w O c aI^ m a c j En n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Xi_ri_you-Zhu_lian_zhai-qm_016 j i l aI^ i c 1 l AU^ u @ r\' sil_phone m in n sil_phone k aI^ c AN N
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Xi_ri_you-Zhu_lian_zhai-qm_017 @ r\' l aI^ i sil_phone c 1 c j UN N sil_phone c 7 sil_phone c w an n n 7 j w an n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Xi_ri_you-Zhu_lian_zhai-qm_018 c j En n c i c j oU^ x w eI^ i c an n an n c w an n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Xi_ri_you-Zhu_lian_zhai-qm_019 c j oU^ c aI^ c 7 c a sil_phone c w O sil_phone k w O c i n j En
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Xi_ri_you-Zhu_lian_zhai-qm_020 l w O sil_phone c 7 ? 7 sil_phone k O sil_phone c in n c j En sil_phone E ? E sil_phone E sil_phone E sil_phone E sil_phone E ? E
+Dan_jingju_a_cappella_singing_dataset_danAll_daeh-Yang_Yu_huan-Tai_zhen_wai_zhuan-lon_000 j AN j y x w an sil_phone c aI^ i c j En n c j ? En c @n n c @n sil_phone @n n c aI^ sil_phone aI^ c in n
+Dan_jingju_a_cappella_singing_dataset_danAll_daeh-Yang_Yu_huan-Tai_zhen_wai_zhuan-lon_001 c iN N c j En n c @n N sil_phone j i c j ? En n c j En n c y sil_phone k AU^ ? AU^ u sil_phone c w ? w AN N c in N
+Dan_jingju_a_cappella_singing_dataset_danAll_daeh-Yang_Yu_huan-Tai_zhen_wai_zhuan-lon_002 j i j w an n n a sil_phone c aI^ j y x O sil_phone c in n sil_phone j w an sil_phone an j UN sil_phone UN ? UN sil_phone UN N c in
+Dan_jingju_a_cappella_singing_dataset_danAll_daeh-Yang_Yu_huan-Tai_zhen_wai_zhuan-lon_003 @ r\' j w an sil_phone n a sil_phone r\' @n n c 7 c yn f u ? u c oU^ ? oU^ ? oU^ sil_phone c AN sil_phone AN N n in
+Dan_jingju_a_cappella_singing_dataset_danAll_daeh-Yang_Yu_huan-Tai_zhen_wai_zhuan-lon_004 c an n j w an n n a sil_phone x aI^ i j y c in n c M f AN sil_phone AN N c in n c in
+Dan_jingju_a_cappella_singing_dataset_danAll_daeh-Yang_Yu_huan-Tai_zhen_wai_zhuan-lon_005 c M j w an n n a sil_phone c i c j AU^ u l y sil_phone c i ? i c j En c w @n n c aI^ i n a c 1 c i c 1 ? 1 c AN
+Dan_jingju_a_cappella_singing_dataset_danAll_daeh-Yang_Yu_huan-Tai_zhen_wai_zhuan-lon_006 c in n r\' i ? i l i sil_phone c j E j y sil_phone y sil_phone y sil_phone y n u sil_phone u ? u ? u c @n
+Dan_jingju_a_cappella_singing_dataset_danAll_daeh-Yang_Yu_huan-Tai_zhen_wai_zhuan-lon_007 c oU^ u c a c oU^ u sil_phone c j AN c @n n c i ? i c in N k w AN sil_phone c j ? E sil_phone c iN sil_phone iN sil_phone iN sil_phone iN sil_phone iN
+Dan_jingju_a_cappella_singing_dataset_danAll_daspd-Du_shou_kong-Wang_jiang_ting-upf_000 c u sil_phone u c oU^ sil_phone oU^ sil_phone c UN N sil_phone w eI^ i an sil_phone an n sil_phone c AN sil_phone AN N sil_phone c an
+Dan_jingju_a_cappella_singing_dataset_danAll_daspd-Du_shou_kong-Wang_jiang_ting-upf_001 f AN N sil_phone c in sil_phone in n sil_phone c i sil_phone i ? i sil_phone i sil_phone i ? i m O sil_phone j oU^ sil_phone oU^ u sil_phone c w eI^ sil_phone eI^ ? eI^ ? eI^ l j En sil_phone En n
+Dan_jingju_a_cappella_singing_dataset_danAll_daspd-Du_shou_kong-Wang_jiang_ting-upf_002 c w AN N sil_phone c y c oU^ u sil_phone c u sil_phone l w eI^ i c i m j En
+Dan_jingju_a_cappella_singing_dataset_danAll_daspd-Du_shou_kong-Wang_jiang_ting-upf_003 w eI^ i sil_phone c i sil_phone c w AN N sil_phone c u sil_phone u sil_phone c AU^ u sil_phone c M sil_phone c j En sil_phone En
+Dan_jingju_a_cappella_singing_dataset_danAll_daspd-Hai_dao_bing-Gui_fei_zui_jiu01-lon_000 x aI^ sil_phone aI^ sil_phone aI^ sil_phone aI^ sil_phone aI^ sil_phone aI^ i sil_phone c AU^ sil_phone AU^ sil_phone c iN N l w @n sil_phone w @n n c u sil_phone u sil_phone u sil_phone c w an n c 7N sil_phone 7N
+Dan_jingju_a_cappella_singing_dataset_danAll_daspd-Hai_dao_bing-Gui_fei_zui_jiu01-lon_001 c j En sil_phone En sil_phone En sil_phone En j y ? y sil_phone y c u w a sil_phone j y c u sil_phone u sil_phone j sil_phone oU^ u c AU^ u sil_phone c UN N c 7N
+Dan_jingju_a_cappella_singing_dataset_danAll_daspd-Hai_dao_bing-Gui_fei_zui_jiu01-lon_002 n a sil_phone c iN N sil_phone l w @n n l i x aI^ sil_phone c AU^ ? AU^ sil_phone AU^ sil_phone AU^ ? AU^
+Dan_jingju_a_cappella_singing_dataset_danAll_daspd-Hai_dao_bing-Gui_fei_zui_jiu01-lon_003 c j sil_phone En c w @n n sil_phone f @n sil_phone @n sil_phone @n sil_phone w aI^ sil_phone aI^ sil_phone aI^ i m iN sil_phone iN
+Dan_jingju_a_cappella_singing_dataset_danAll_daspd-Hai_dao_bing-Gui_fei_zui_jiu01-lon_004 f AU^ sil_phone AU^ u j H sil_phone H 9 sil_phone c AN sil_phone AN sil_phone c u sil_phone u sil_phone u sil_phone u sil_phone u UN N
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Guan_Shi_yin-Tian_nv_san_hua-lon_000 k w an c 1 j in sil_phone m an j H 9 m j En n c y c aI^ m j AU^ u c j AN
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Guan_Shi_yin-Tian_nv_san_hua-lon_001 j oU^ u c an n c aI^ i sil_phone x 7 l u UN N n y c an n l i l j AN N c j AN N
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Guan_Shi_yin-Tian_nv_san_hua-lon_002 c u c i c y sil_phone c an n sil_phone c u x w a sil_phone c j En n c 1 j ? En j in n
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Guan_Shi_yin-Tian_nv_san_hua-lon_003 c 7 j in n sil_phone w u sil_phone j y c j En sil_phone n j AU^ c aI^ l iN N j En c @n j En c AN c j a f eI^ c j AN
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Guan_Shi_yin-Tian_nv_san_hua-lon_004 l u l j oU^ u c 1 sil_phone c a sil_phone k an l u c an c j En x j E aI^ c AN
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Guan_Shi_yin-Tian_nv_san_hua-lon_005 x AU^ u c M w O sil_phone c an c j En sil_phone x w a c j oU^ f @n n l w O c 1 f AN
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Guan_Shi_yin-Tian_nv_san_hua-lon_006 m an n j En n c UN N sil_phone c in sil_phone m j AU^ u c in sil_phone l iN k w a sil_phone AN sil_phone AN sil_phone w an sil_phone an ? an ? an sil_phone an sil_phone an sil_phone an sil_phone an sil_phone an sil_phone c AN sil_phone AN sil_phone AN
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Guan_Shi_yin-Tian_nv_san_hua-lon_007 c w i c j AN sil_phone j yn sil_phone yn sil_phone yn sil_phone yn sil_phone yn sil_phone c j a sil_phone r\' w ? eI^ sil_phone c aI^ sil_phone aI^ sil_phone c u sil_phone f u sil_phone f o sil_phone c AN sil_phone AN sil_phone AN sil_phone AN sil_phone AN sil_phone AN
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Meng_ting_de-Mu_Gui_ying_gua_shuai01-upf_000 m UN sil_phone c in N sil_phone c 7 sil_phone c iN N sil_phone k u c j AN N x w a c j AU^ c 7N N sil_phone c @n n
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Meng_ting_de-Mu_Gui_ying_gua_shuai01-upf_001 x w an n c i N O sil_phone c O sil_phone c j En n m @n n sil_phone c w AN N sil_phone c 1 l iN N j yn
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Meng_ting_de-Mu_Gui_ying_gua_shuai01-upf_002 c j AN N sil_phone c AN N sil_phone n j En sil_phone c AU^ u sil_phone x w a m a c AN N w eI^ f UN l iN N l in
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Meng_ting_de-Mu_Gui_ying_gua_shuai01-upf_003 c i c H 9 f eI^ i c j En c 1 l j oU^ sil_phone oU^ c yn n
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Meng_ting_de-Mu_Gui_ying_gua_shuai01-upf_004 j oU^ c 7N sil_phone c 1 r\' 1 sil_phone c 7 sil_phone c AN N sil_phone c in n
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Meng_ting_de-Mu_Gui_ying_gua_shuai01-upf_005 c w @n n sil_phone c u c @n n sil_phone n 7N N k oU^ c u j y sil_phone c a ? a r\' @n
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Meng_ting_de-Mu_Gui_ying_gua_shuai01-upf_006 f an sil_phone c AN N c j AU^ c oU^ x 7 sil_phone c u l w @n n
+Dan_jingju_a_cappella_singing_dataset_danAll_daxp-Meng_ting_de-Mu_Gui_ying_gua_shuai01-upf_007 w O j i c j En n n 7N sil_phone 7N sil_phone 7N N sil_phone c AN sil_phone c 7 sil_phone w AN sil_phone AN sil_phone c i sil_phone c iN sil_phone iN
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lseh-Wei_guo_jia-Hong_yang_dong01-lon_000 w eI^ i k w O c j a sil_phone n a x w O c 7N N sil_phone c AN r\' i sil_phone c j an n sil_phone c UN sil_phone UN N
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lseh-Wei_guo_jia-Hong_yang_dong01-lon_001 w O j 7 c 7N N sil_phone c 7N N f u l j AU^ u c aI^ i c 7 sil_phone c i c UN N
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lseh-Wei_guo_jia-Hong_yang_dong01-lon_002 k w an n f UN N sil_phone c AU^ u sil_phone c j E c u c 1 r\' 7 sil_phone x w AN sil_phone w AN N sil_phone @n n c UN N
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lseh-Wei_guo_jia-Hong_yang_dong01-lon_003 c @n n c u c w AN N sil_phone c u j oU^ r\' @n n c O c eI^ i sil_phone m UN N l UN N a
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Huai_nan_wang-Huai_he_ying01-lon_000 x w aI^ i n an n w AN N sil_phone c a c a l in n sil_phone c w an n c j a
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Huai_nan_wang-Huai_he_ying01-lon_001 f En n c w O c an n c an n c y c j En n c a
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Huai_nan_wang-Huai_he_ying01-lon_002 f @n n m in c 1 c j En n c a x u w eI^ i c a
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Huai_nan_wang-Huai_he_ying01-lon_003 c u j oU^ c 7 N O c @n n sil_phone c j AU^ u x a sil_phone x a
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Jiang_shen_er-San_jia_dian01-1-upf_000 c j a AN N c @n n sil_phone @ r\' sil_phone l aI^ i c 1 c aI^ c a c j E c oU^ u
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Jiang_shen_er-San_jia_dian01-1-upf_001 c w @n n j i c @n n c w O w AN N c i sil_phone c in n c 7N N sil_phone c iN N c UN N 7 c oU^ u
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Jiang_shen_er-San_jia_dian01-1-upf_002 j i sil_phone c u c 1 c j AN ? AN m a sil_phone c in n c 7 c oU^ u
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Jiang_shen_er-San_jia_dian01-1-upf_003 @ r\' sil_phone c u c 1 sil_phone c aI^ i r\' @n n c a sil_phone c a c 7N N c oU^ u
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Jiang_shen_er-San_jia_dian01-1-upf_004 j AN N sil_phone c in n j y N w O sil_phone l aI^ sil_phone c @n n 7 sil_phone c oU^ u
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Jiang_shen_er-San_jia_dian01-1-upf_005 j in n c M c AN N sil_phone f a sil_phone c eI^ i sil_phone c AU^ u sil_phone c @n n sil_phone c oU^ u
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Jiang_shen_er-San_jia_dian01-1-upf_006 c j E sil_phone c u c 7 sil_phone c aI^ i j E sil_phone c 7 @n n c iN N x oU^ u
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Jiang_shen_er-San_jia_dian01-1-upf_007 c 7 sil_phone c u sil_phone c 7 sil_phone c a j i m @n n sil_phone c UN N sil_phone c an n c oU^ u
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Jiang_shen_er-San_jia_dian01-1-upf_008 c 1 n an n c 7 sil_phone c j E f AN N c M l in j y w O c i c AU^ u c 7N N j oU^ u
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Jiang_shen_er-San_jia_dian01-1-upf_009 c 7 sil_phone c u sil_phone c 7 sil_phone l AU^ u n j AN N 7 sil_phone c 7 sil_phone 7 c j AU^ u c oU^
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Jiang_shen_er-San_jia_dian01-2-upf_000 n j AN N c @n n sil_phone @ r\' sil_phone l j En n c in r\' oU^ u
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Jiang_shen_er-San_jia_dian01-2-upf_001 @ r\' c in n c j En n l i ? i m u ? u ? u sil_phone c an n j oU^ u
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Jiang_shen_er-San_jia_dian01-2-upf_002 @ r\' c j AN N n j AN N c @n n sil_phone n an n c oU^ u c oU^ u
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Jiang_shen_er-San_jia_dian01-2-upf_003 n j AN N c j AN N @ r\' l aI^ i l eI^ i c w AN N l j oU^ u
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Jiang_shen_er-San_jia_dian01-2-upf_004 c an n c j En n c 7 c UN sil_phone r\' 1 c w eI^ i l w O c aI^ c i c an n c oU^ u
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Jiang_shen_er-San_jia_dian01-2-upf_005 c w @n n j i c @n n c j E ? E sil_phone c aI^ sil_phone aI^ sil_phone c a ? a sil_phone c j En n sil_phone c oU^ sil_phone oU^ sil_phone oU^
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Wo_zheng_zai-Kong_cheng_ji01-upf_000 w O c 7N N sil_phone c aI^ i c 7N N l oU^ u sil_phone k w an c an n n a ? 7 c in ? in n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Wo_zheng_zai-Kong_cheng_ji01-upf_001 @ r\' c in n c 7 c 7N N w aI^ sil_phone l w an n 7 f @n n f @n n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Wo_zheng_zai-Kong_cheng_ji01-upf_002 c iN N c i ? i c AU^ O c an n sil_phone c UN N f an n sil_phone n 7 ? 7 i j in n
+Laosheng_jingju_a_cappella_singing_dataset_laosheng_lsxp-Wo_zheng_zai-Kong_cheng_ji01-upf_003 c H E j H En n l aI^ sil_phone c 1 c M ? 7 sil_phone m a sil_phone f a l aI^ c i sil_phone c in n
+Laosheng_jingju_a_cappella_singing_dataset_extended_nacta2017_20170327LiaoJiaNi_lsxp-Yi_ma_li-Wu_jia_po-nacta_000 j i m a l i l y AU^ u sil_phone c M l j AN N sil_phone c j aI^ i
+Laosheng_jingju_a_cappella_singing_dataset_extended_nacta2017_20170327LiaoJiaNi_lsxp-Yi_ma_li-Wu_jia_po-nacta_001 c u j oU^ u r\' @n sil_phone j i c @n n c @n sil_phone @n sil_phone l w eI^ i c a sil_phone c j UN N x w aI^ i
+Laosheng_jingju_a_cappella_singing_dataset_extended_nacta2017_20170327LiaoJiaNi_lsxp-Yi_ma_li-Wu_jia_po-nacta_002 c in n c 1 c an n sil_phone l u c 1 c w eI^ i sil_phone x w a x w a sil_phone c 1 c j aI^ sil_phone aI^ i
+Laosheng_jingju_a_cappella_singing_dataset_extended_nacta2017_20170327LiaoJiaNi_lsxp-Yi_ma_li-Wu_jia_po-nacta_003 c H E c in n k w eI^ i sil_phone x AU^ u j i j a c M sil_phone c u j an n sil_phone k w eI^ i l aI^ i
+Laosheng_jingju_a_cappella_singing_dataset_extended_nacta2017_20170327LiaoJiaNi_lsxp-Yi_ma_li-Wu_jia_po-nacta_004 n a w AN N 7 j y yn n sil_phone c aI^ i c AU^ u c UN N sil_phone k w an n sil_phone c y sil_phone c aI^ i c aI^ sil_phone aI^ i
+Laosheng_jingju_a_cappella_singing_dataset_extended_nacta2017_20170327LiaoJiaNi_lsxp-Yi_ma_li-Wu_jia_po-nacta_005 c a sil_phone c a N O sil_phone c in n c u r\' @n n sil_phone n a f AN N c aI^ i c j UN N x w aI^ i
+Laosheng_jingju_a_cappella_singing_dataset_extended_nacta2017_20170327LiaoJiaNi_lsxp-Yi_ma_li-Wu_jia_po-nacta_006 x @n n w eI^ i x u sil_phone c 1 n w eI^ i c in n sil_phone c j AN N N O sil_phone m oU^ u x aI^ i
+Laosheng_jingju_a_cappella_singing_dataset_extended_nacta2017_20170327LiaoJiaNi_lsxp-Yi_ma_li-Wu_jia_po-nacta_007 c u x aI^ i sil_phone N O sil_phone c H E c in n sil_phone c w eI^ i sil_phone c w O w eI^ i sil_phone x O l aI^ i
+Laosheng_jingju_a_cappella_singing_dataset_extended_nacta2017_20170327LiaoJiaNi_lsxp-Yi_ma_li-Wu_jia_po-nacta_008 l j oU^ u l in n c j a sil_phone c w an n sil_phone c an sil_phone m a sil_phone w u c j a c O w aI^ i
+Laosheng_jingju_a_cappella_singing_dataset_extended_nacta2017_20170327LiaoJiaNi_lsxp-Yi_ma_li-Wu_jia_po-nacta_009 c j En n l j AU^ u n a sil_phone c UN N c a sil_phone a c AU^ u sil_phone c M w @n n sil_phone c aI^ i sil_phone c w aI^ sil_phone aI^ i
+Laosheng_jingju_a_cappella_singing_dataset_extended_nacta2017_20170327LiaoJiaNi_lseh-Niang_zi_bu-Sou_gu_jiu-nacta_000 n j AN c i sil_phone c u w a c i sil_phone i sil_phone i sil_phone c aI^ sil_phone l j E c in
+Laosheng_jingju_a_cappella_singing_dataset_extended_nacta2017_20170327LiaoJiaNi_lseh-Niang_zi_bu-Sou_gu_jiu-nacta_001 c eI^ i r\' @n sil_phone j En l aI^ sil_phone n i sil_phone c 1 r\' 7 c in
+Laosheng_jingju_a_cappella_singing_dataset_extended_nacta2017_20170327LiaoJiaNi_lseh-Niang_zi_bu-Sou_gu_jiu-nacta_002 c AU^ u c u sil_phone @ r\' sil_phone c j a sil_phone j oU^ sil_phone c oU^ u sil_phone x @n n
+Laosheng_jingju_a_cappella_singing_dataset_extended_nacta2017_20170327LiaoJiaNi_lseh-Niang_zi_bu-Sou_gu_jiu-nacta_003 c an sil_phone c 7 j y sil_phone c oU^ u m in n c u sil_phone j oU^ u m in
+Laosheng_jingju_a_cappella_singing_dataset_extended_nacta2017_20170327LiaoJiaNi_lseh-Niang_zi_bu-Sou_gu_jiu-nacta_004 N O j y sil_phone n a sil_phone k UN c w @n n sil_phone c y sil_phone c j oU^ u sil_phone c a sil_phone c i sil_phone c in n
+Laosheng_jingju_a_cappella_singing_dataset_extended_nacta2017_20170327LiaoJiaNi_lseh-Niang_zi_bu-Sou_gu_jiu-nacta_005 c a c 7 sil_phone m in n l aI^ sil_phone n i N O c 7 sil_phone c in n c @n n
+Laosheng_jingju_a_cappella_singing_dataset_extended_nacta2017_20170327LiaoJiaNi_lseh-Niang_zi_bu-Sou_gu_jiu-nacta_006 c 7 sil_phone c M sil_phone c a c j oU^ u sil_phone c UN N 7 sil_phone 7 l j AN N c i x oU^ u
+Laosheng_jingju_a_cappella_singing_dataset_extended_nacta2017_20170327LiaoJiaNi_lseh-Niang_zi_bu-Sou_gu_jiu-nacta_007 l AU^ u c j En n j E sil_phone c u c H E N O c i x oU^ sil_phone c aI^ i sil_phone k @n n
+Laosheng_jingju_a_cappella_singing_dataset_extended_nacta2017_20170327LiaoJiaNi_lseh-Niang_zi_bu-Sou_gu_jiu-nacta_008 r\' 1 c in sil_phone c 7 l y AU^ u c in sil_phone c @n n c M
+Laosheng_jingju_a_cappella_singing_dataset_extended_nacta2017_20170327LiaoJiaNi_lseh-Niang_zi_bu-Sou_gu_jiu-nacta_009 l aI^ i sil_phone n j En n sil_phone c i sil_phone c in n c j AN sil_phone c i sil_phone l in sil_phone in sil_phone in sil_phone in
+Laosheng_jingju_a_cappella_singing_dataset_extended_nacta2017_20170327LiaoJiaNi_lseh-Niang_zi_bu-Sou_gu_jiu-nacta_010 c j En n j En sil_phone w an n n 9 j y sil_phone y sil_phone y sil_phone c a sil_phone c u c @n n
+Laosheng_jingju_a_cappella_singing_dataset_extended_nacta2017_20170327LiaoJiaNi_lseh-Niang_zi_bu-Sou_gu_jiu-nacta_011 c u c 7 sil_phone c j AU^ u @ r\' sil_phone n an n sil_phone c j oU^ u sil_phone k UN N w a c @n n
+Laosheng_jingju_a_cappella_singing_dataset_extended_nacta2017_20170327LiaoJiaNi_lseh-Niang_zi_bu-Sou_gu_jiu-nacta_012 w u n aI^ i x O sil_phone N O c M c 7 c w AN sil_phone 9 sil_phone c M sil_phone k w eI^ sil_phone eI^ sil_phone eI^ sil_phone eI^ sil_phone eI^ sil_phone eI^
+Laosheng_jingju_a_cappella_singing_dataset_extended_nacta2017_20170327LiaoJiaNi_lseh-Niang_zi_bu-Sou_gu_jiu-nacta_013 N aI^ c j oU^ u n j AN N c M r\' 7 sil_phone c 7 c in n n 7 c @n n
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_teacher_000 c iN c AU^ c i l aI^ i c @n m @ c iN c M c AU^ u
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_teacher_001 c u i k 7 j oU^ u c oU^ u c @n m O c w a r\' c j AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_teacher_002 l j @n n c AN c a sil_phone c i c 1 c @n m 7 x w a r\' f @n
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_teacher_003 c oU^ c j @n sil_phone c i j @n sil_phone c 1 sil_phone c 1 c @n m 7 x w a r\' x UN N
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_teacher_004 c iN N c AU^ u sil_phone c i sil_phone l aI^ i l j @n x w a c iN N c M c AU^
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_teacher_005 c u i k 7 j oU^ c oU^ u k w eI^ x w a r\' c j AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_teacher_006 l j @n sil_phone c AN N c a c @ c AU^ u x w a r\' f @n
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_teacher_007 c oU^ c j @n sil_phone c @ j @n sil_phone c 1 c iN x w a r\' x UN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_teacher_008 c @n m @ x w a r\' c j E sil_phone c @n m O x w a r\' l AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_teacher_009 c @n m O x w a r\' c i c AN c M c @n m @ x w a c i c w AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_teacher_010 c @n m @ x w a c i c @n c oU^ c w AN N c AN N f AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_teacher_011 c @n m @ x w a c 1 r\' u c M c u m an c w AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_teacher_012 x UN N x w a r\' sil_phone c j E sil_phone l y x w a r\' l AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_teacher_013 k an c 1 m eI^ c @ c AN c M c j AN sil_phone j a x w a c @ c w AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_teacher_014 j H En n j AN x w a c @ c @n n sil_phone c oU^ u c w AN N sil_phone c AN sil_phone f AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_teacher_015 m u c y x w a r\' c @ r\' u c M a
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_teacher_016 c u m an sil_phone an sil_phone an sil_phone c w AN sil_phone AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Fei_shi_wo-Hua_tian_cuo-dxjky_teacher_000 f eI^ i c 1 N O sil_phone c u f u c in n n in n c a x w a sil_phone a c j AN N
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Fei_shi_wo-Hua_tian_cuo-dxjky_teacher_001 c 1 k w aI^ sil_phone n i c aI^ i c oU^ c aI^ i n AU^ x w AN x AN c AN N c AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Fei_shi_wo-Hua_tian_cuo-dxjky_teacher_002 c in j E w an sil_phone f eI^ sil_phone c i n a sil_phone c M c j AN sil_phone c aI^ sil_phone j H E
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Fei_shi_wo-Hua_tian_cuo-dxjky_teacher_003 n i c in sil_phone c i f AN sil_phone m O c in n c w AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Fei_shi_wo-Hua_tian_cuo-dxjky_teacher_004 k w an sil_phone c i n i x w an n an j w an j AN N j UN N c u c aI^ c 1 c AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Fei_shi_wo-Hua_tian_cuo-dxjky_teacher_005 i r\' an c w O c in sil_phone c @n c O l AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Fei_shi_wo-Hua_tian_cuo-dxjky_teacher_006 c @n n sil_phone n 7N N k oU^ sil_phone c u c in c a i n i c aI^ i x w AN N c AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Fei_shi_wo-Hua_tian_cuo-dxjky_teacher_007 k u c a @ r\' c in sil_phone c w @n c 1 sil_phone 1 w AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Fei_shi_wo-Hua_tian_cuo-dxjky_teacher_008 c AU^ u sil_phone x a c w @n k oU^ m O sil_phone c AN N x w AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Fei_shi_wo-Hua_tian_cuo-dxjky_teacher_009 n i c u j AU^ sil_phone AU^ k AU^ c @n n j E sil_phone c u j AU^ u r\' AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Fei_shi_wo-Hua_tian_cuo-dxjky_teacher_010 n i sil_phone c i c u sil_phone j En n k w an c M l u @ r\' c in c a f AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Fei_shi_wo-Hua_tian_cuo-dxjky_teacher_011 c u c an j AU^ c i c i c in sil_phone n i x w an j AU^ c M c M c j AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Fei_shi_wo-Hua_tian_cuo-dxjky_teacher_012 c 1 c u c 1 j oU^ r\' @n n c aI^ i sil_phone c a sil_phone c AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Fei_shi_wo-Hua_tian_cuo-dxjky_teacher_013 c j AN i c @n n n i c j oU^ x w an i c AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Fei_shi_wo-Hua_tian_cuo-dxjky_teacher_014 c j AN N l j AN c @n n i c j oU^ c oU^ c in c @n n c AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Fei_shi_wo-Hua_tian_cuo-dxjky_teacher_015 c AN r\' w O c 1 n i c j AN sil_phone c a j E c j AN N
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Fei_shi_wo-Hua_tian_cuo-dxjky_teacher_016 n a c j oU^ c 1 l aI^ l j AU^ u N O sil_phone c M sil_phone c j AN N sil_phone c aI^ sil_phone aI^ l u c i c j AU^ x UN N n j AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Fei_shi_wo-Hua_tian_cuo-dxjky_teacher_017 n i c a N O sil_phone c AN N c w O sil_phone c y k O l j AN N
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Fei_shi_wo-Hua_tian_cuo-dxjky_teacher_018 c iN sil_phone N O sil_phone c i x AU^ sil_phone AU^ l in sil_phone c AN sil_phone AN N c an n sil_phone c AN sil_phone AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_teacher_000 N O c j a c i c j AU^ u c u sil_phone c u c u c iN N
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_teacher_001 m eI^ j oU^ u c a c 1 sil_phone c u c 7N N sil_phone m 7N N
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_teacher_002 c w eI^ c w O c 1 sil_phone c w eI^ c w O c 1 c in n sil_phone c H an j oU^ c u c j AN sil_phone r\' @n
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_teacher_003 c 7 c a sil_phone c i c in n c H an x aI^ i j AU^ c in
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_teacher_004 c j E c j E x 7 n aI^ n aI^ i
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_teacher_005 c i c 7N N sil_phone x w an n c in n r\' @n
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_teacher_006 c 7 l i c i sil_phone AU^ m j AU^ sil_phone AU^ sil_phone w O j E n 7N N sil_phone c aI^ sil_phone c u c i f @n
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_teacher_007 c a m @n x 7 c j E c j E c oU^ u i j AN N
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_teacher_008 c oU^ u j oU^ i sil_phone i c 7 sil_phone x UN N l j AN N c i c in sil_phone in sil_phone in
+Dan_primary_school_recording_20171214SongRuoXuan/daeh-Yang_yu_huan-Tai_zhen_wai_zhuan-nanluo_teacher_000 j AN N sil_phone j y sil_phone x w an n sil_phone c aI^ i sil_phone c j En n c j En n c @n n c @n sil_phone @n n sil_phone c aI^ i sil_phone c in n
+Dan_primary_school_recording_20171214SongRuoXuan/daeh-Yang_yu_huan-Tai_zhen_wai_zhuan-nanluo_teacher_001 c in n c j En n c @n n sil_phone i c j En n sil_phone c j En n c y sil_phone k AU^ sil_phone c w AN N c in
+Dan_primary_school_recording_20171214SongRuoXuan/daeh-Yang_yu_huan-Tai_zhen_wai_zhuan-nanluo_teacher_002 i j H an n n a sil_phone c aI^ i y sil_phone x w O sil_phone c in n j H an sil_phone an j UN N sil_phone c in n
+Dan_primary_school_recording_20171214SongRuoXuan/daeh-Yang_yu_huan-Tai_zhen_wai_zhuan-nanluo_teacher_003 @ r\' j H an n n a sil_phone r\' @n n sil_phone c 7 c yn n f u c oU^ u sil_phone c AN sil_phone AN N n in n
+Dan_primary_school_recording_20171214SongRuoXuan/daeh-Yang_yu_huan-Tai_zhen_wai_zhuan-nanluo_teacher_004 c an n j H an n n a sil_phone x aI^ y c in n c M f AN sil_phone AN N sil_phone c in n c in n
+Dan_primary_school_recording_20171214SongRuoXuan/daeh-Yang_yu_huan-Tai_zhen_wai_zhuan-nanluo_teacher_005 c M j H an n n a sil_phone c i c j AU^ u l y sil_phone c i sil_phone c j En n c w @n n c aI^ n a c 1 c i c 1 c AN sil_phone c in n r\' i l i c j E y sil_phone y n u c @n n
+Dan_primary_school_recording_20171214SongRuoXuan/daeh-Yang_yu_huan-Tai_zhen_wai_zhuan-nanluo_teacher_006 c oU^ u sil_phone c a sil_phone c oU^ u sil_phone c j AN N c @n n c i c in n k w AN N sil_phone c j E j in sil_phone in sil_phone in sil_phone in n
+Dan_primary_school_recording_20171214SongRuoXuan/daeh-Yang_yu_huan-Tai_zhen_wai_zhuan-nanluo_teacher_007 c j AU^ u sil_phone k UN N 7 c j AN N c in n sil_phone c @n n sil_phone c 7N N sil_phone c AU^ sil_phone AU^ sil_phone c in n sil_phone c in N
+Dan_primary_school_recording_20171214SongRuoXuan/danbz-Kan_dai_wang-Ba_wang_bie_ji-nanluo_teacher_000 c an sil_phone c aI^ sil_phone aI^ w AN sil_phone AN sil_phone AN N sil_phone c aI^ i sil_phone c AN N sil_phone c UN N sil_phone x O i sil_phone c w eI^ i sil_phone w @n n
+Dan_primary_school_recording_20171214SongRuoXuan/danbz-Kan_dai_wang-Ba_wang_bie_ji-nanluo_teacher_001 N O c 7 sil_phone 7 l i sil_phone c y c AN N w aI^ i sil_phone c j E sil_phone E c an sil_phone an n sil_phone c oU^ sil_phone oU^ u c in sil_phone in sil_phone in n
+Dan_primary_school_recording_20171214SongRuoXuan/danbz-Kan_dai_wang-Ba_wang_bie_ji-nanluo_teacher_002 c in sil_phone i sil_phone i sil_phone c u sil_phone u sil_phone u sil_phone u sil_phone u sil_phone u sil_phone c oU^ u c j AN N sil_phone c j En sil_phone x w AN N c j AU^ sil_phone c an n sil_phone c in n
+Dan_primary_school_recording_20171214SongRuoXuan/danbz-Kan_dai_wang-Ba_wang_bie_ji-nanluo_teacher_003 m 7N N c aI^ sil_phone aI^ i sil_phone c oU^ sil_phone c j En n sil_phone c i l w O sil_phone j H E sil_phone E c 7 sil_phone 7 sil_phone 7 sil_phone c in n m in sil_phone in
+Dan_primary_school_recording_20171214SongRuoXuan/daspd-Hai_dao_bing-Gui_fei_zui_jiu-nanluo_teacher_000 x aI^ sil_phone aI^ sil_phone aI^ sil_phone aI^ sil_phone aI^ i sil_phone c AU^ sil_phone AU^ sil_phone c iN N l w @n sil_phone @n n c u sil_phone u sil_phone c w an sil_phone an n sil_phone c 7N sil_phone 7N
+Dan_primary_school_recording_20171214SongRuoXuan/daspd-Hai_dao_bing-Gui_fei_zui_jiu-nanluo_teacher_001 c j En sil_phone En sil_phone En sil_phone En n y sil_phone c u w a sil_phone y c u sil_phone u j oU^ sil_phone oU^ u sil_phone c AU^ sil_phone c UN N c 7N
+Dan_primary_school_recording_20171214SongRuoXuan/daspd-Hai_dao_bing-Gui_fei_zui_jiu-nanluo_teacher_002 n a sil_phone c in N l w @n n l i x aI^ sil_phone c AU^ sil_phone AU^ sil_phone AU^
+Dan_primary_school_recording_20171214SongRuoXuan/daspd-Hai_dao_bing-Gui_fei_zui_jiu-nanluo_teacher_003 c j En n c w @n sil_phone f @n sil_phone @n sil_phone w aI^ sil_phone aI^ sil_phone aI^ i m in n
+Dan_primary_school_recording_20171214SongRuoXuan/daxp-Quan_jun_wang-Ba_wang_bie_ji-nanluo_teacher_000 c H an sil_phone c yn sil_phone yn sil_phone w AN sil_phone AN sil_phone in sil_phone in n sil_phone c j oU^ u sil_phone c in sil_phone in sil_phone y sil_phone k O
+Dan_primary_school_recording_20171214SongRuoXuan/daxp-Quan_jun_wang-Ba_wang_bie_ji-nanluo_teacher_001 c j aI^ i sil_phone c yn n sil_phone j oU^ u m 7N sil_phone 7N N sil_phone u sil_phone u sil_phone c O sil_phone O sil_phone O sil_phone O sil_phone O c w O sil_phone O
+Dan_primary_school_recording_20171214SongRuoXuan/daxp-Quan_jun_wang-Ba_wang_bie_ji-nanluo_teacher_002 in sil_phone c in n sil_phone u sil_phone c AU^ u sil_phone c a sil_phone c j AN N sil_phone c an n sil_phone c O
+Dan_primary_school_recording_20171214SongRuoXuan/daxp-Quan_jun_wang-Ba_wang_bie_ji-nanluo_teacher_003 in sil_phone c j UN N sil_phone c M sil_phone M l u sil_phone c 1 sil_phone 1 sil_phone k an sil_phone an sil_phone an sil_phone an an sil_phone k O sil_phone O
+Dan_primary_school_recording_20171214SongRuoXuan/daxp-Quan_jun_wang-Ba_wang_bie_ji-nanluo_teacher_004 c M sil_phone k u sil_phone c AN N sil_phone j an n sil_phone c u sil_phone c i N O
+Dan_primary_school_recording_20171214SongRuoXuan/daxp-Quan_jun_wang-Ba_wang_bie_ji-nanluo_teacher_005 c @n sil_phone c aI^ i sil_phone c in n w AN sil_phone AN sil_phone i sil_phone i sil_phone i c a sil_phone a sil_phone a sil_phone a sil_phone a sil_phone a sil_phone a n w o
+Dan_primary_school_recording_20171214SongRuoXuan/daxp-Quan_jun_wang-Ba_wang_bie_ji-nanluo_teacher_006 c w an sil_phone c in n sil_phone in sil_phone in sil_phone in n sil_phone c j oU^ sil_phone oU^ sil_phone oU^ sil_phone c AU^ u sil_phone c AN N sil_phone c w O sil_phone O
+Laosheng_primary_school_recording_20171217TianHao/lseh-Wo_men_shi-Zhi_qu-sizhu_teacher_000 w O sil_phone m @n n c 1 sil_phone c UN N sil_phone n UN N c M c i sil_phone c in l aI^ i sil_phone c AU^ u sil_phone c @n n c an
+Laosheng_primary_school_recording_20171217TianHao/lseh-Wo_men_shi-Zhi_qu-sizhu_teacher_001 j AU^ u c j AU^ m j E f an n c UN N c aI^ sil_phone k aI^ i c i sil_phone x w an n c j En n
+Laosheng_primary_school_recording_20171217TianHao/lseh-Wo_men_shi-Zhi_qu-sizhu_teacher_002 c i c 1 n j En n sil_phone n AU^ u k 7 m in n n an n c eI^ i sil_phone c w an n c an n
+Laosheng_primary_school_recording_20171217TianHao/lseh-Wo_men_shi-Zhi_qu-sizhu_teacher_003 c UN c an n c AN N sil_phone m AU^ u c u c M
+Laosheng_primary_school_recording_20171217TianHao/lseh-Wo_men_shi-Zhi_qu-sizhu_teacher_004 c 1 j in n w O m @n n sil_phone c j AN N c j En n
+Laosheng_primary_school_recording_20171217TianHao/lseh-Wo_men_shi-Zhi_qu-sizhu_teacher_005 i sil_phone k 7 x UN N c iN c oU^ u c AN N c aI^ i
+Laosheng_primary_school_recording_20171217TianHao/lseh-Wo_men_shi-Zhi_qu-sizhu_teacher_006 k 7 m iN N c i x UN N c i k w a l j AN N c j En n
+Laosheng_primary_school_recording_20171217TianHao/lseh-Wo_men_shi-Zhi_qu-sizhu_teacher_007 x UN N c i c 1 c u u j yn n c an n
+Laosheng_primary_school_recording_20171217TianHao/lseh-Wo_men_shi-Zhi_qu-sizhu_teacher_008 c j E f AN N c y r\' @n n m in n c oU^ c AU^ u c i c u c a c @n n f an
+Laosheng_primary_school_recording_20171217TianHao/lseh-Wo_men_shi-Zhi_qu-sizhu_teacher_009 r\' @n n m in n c i c H @n n c w eI^ i sil_phone y r\' @n n m iN N k UN N sil_phone x w an n n an n
+Laosheng_primary_school_recording_20171217TianHao/lseh-Wo_men_shi-Zhi_qu-sizhu_teacher_010 c AU^ u c 7 l i w eI^ i c i c 1 sil_phone c AU^ u c iN N w eI^ i sil_phone x u sil_phone c an n
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Jiang_shen_er-San_jia_dian-sizhu_teacher_000 c j AN N c @n n @ r\' sil_phone l aI^ i c 1 c aI^ i c a sil_phone c j aI^ i c oU^ u
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Jiang_shen_er-San_jia_dian-sizhu_teacher_001 c w @n j i c 7N N sil_phone k w O w AN N c in n c UN N sil_phone c iN N c UN N c oU^ u
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Jiang_shen_er-San_jia_dian-sizhu_teacher_002 i sil_phone c u c 1 c j AN N m a sil_phone c iN N c 7 c oU^ u
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Jiang_shen_er-San_jia_dian-sizhu_teacher_003 @ r\' sil_phone c u c 1 sil_phone c aI^ i r\' @n n n 7 sil_phone c a c @n n sil_phone c oU^
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Jiang_shen_er-San_jia_dian-sizhu_teacher_004 j AN N sil_phone l in n y w O sil_phone l aI^ i c 7N N n 7 sil_phone c oU^ u
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Jiang_shen_er-San_jia_dian-sizhu_teacher_005 j in n c M c AN N f a sil_phone c eI^ i sil_phone c AU^ u sil_phone c 7N N c oU^ u
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Jiang_shen_er-San_jia_dian-sizhu_teacher_006 c 7 sil_phone c u sil_phone c 7 sil_phone c aI^ i j 7 sil_phone c i @n n c in N x oU^ u
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Jiang_shen_er-San_jia_dian-sizhu_teacher_007 c 7 sil_phone c u sil_phone c 7 j a i m @n sil_phone c UN N c an n c oU^ u
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Jiang_shen_er-San_jia_dian-sizhu_teacher_008 c 1 n an n c 7 sil_phone c j aI^ i f AN N c M l in y w O c i x AU^ u c 7N N 7 j oU^ u
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Jiang_shen_er-San_jia_dian-sizhu_teacher_009 c 7 sil_phone c u sil_phone c 7 l AU^ u n j AN N 7 sil_phone c @ l j AU^ u c oU^ u
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Jiang_shen_er-San_jia_dian-sizhu_teacher_010 n j AN N c 7N N @ r\' sil_phone l j @n n c in n r\' oU^ u
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Jiang_shen_er-San_jia_dian-sizhu_teacher_011 @ r\' c iN N c j En n l i m u sil_phone c an j oU^ u
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Jiang_shen_er-San_jia_dian-sizhu_teacher_012 @ r\' sil_phone c j AN N n j AN N c @n sil_phone n an n k oU^ u c oU^ u
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Jiang_shen_er-San_jia_dian-sizhu_teacher_013 n j AN N c j AN N @ r\' l aI^ i l w eI^ c w AN N l j oU^ u
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Jiang_shen_er-San_jia_dian-sizhu_teacher_014 j @n n c j @n n sil_phone c 7 x UN N sil_phone r\' i c w eI^ i l w O c aI^ i c M c an n x oU^ u
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Jiang_shen_er-San_jia_dian-sizhu_teacher_015 c j AU^ u i c @n n c j E sil_phone c aI^ i sil_phone c a sil_phone c j En n sil_phone c oU^ sil_phone oU^ sil_phone oU^
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Lin_xing_he_ma-Hong_deng_ji-sizhu_teacher_000 l in c in N x 7 m a sil_phone i w an n j j oU^ u
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Lin_xing_he_ma-Hong_deng_ji-sizhu_teacher_001 x w @n n c @n n c 1 c an n c j UN N c j oU^ u c j oU^ u
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Lin_xing_he_ma-Hong_deng_ji-sizhu_teacher_002 c j oU^ u c an sil_phone c 7 j En n sil_phone x 7 w O c j AU^ c UN N j oU^ u
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Lin_xing_he_ma-Hong_deng_ji-sizhu_teacher_003 c j En n c eI^ i w an n sil_phone c an sil_phone x w eI^ i in n c oU^ u
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Lin_xing_he_ma-Hong_deng_ji-sizhu_teacher_004 c 1 l in sil_phone c u x AU^ u f 7N N c H E l aI^ i sil_phone c 7 c oU^ u
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Lin_xing_he_ma-Hong_deng_ji-sizhu_teacher_005 m a j AU^ u c a l 7N N n w an n sil_phone c 1 c 7 c i c in n sil_phone c oU^ sil_phone oU^ u
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Lin_xing_he_ma-Hong_deng_ji-sizhu_teacher_006 c j AU^ u c j E m eI^ i c u m @n n m aI^ i x w O sil_phone c an n c i c oU^ u
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Lin_xing_he_ma-Hong_deng_ji-sizhu_teacher_007 l aI^ w AN N c AN N m u j AU^ u c i c oU^ u
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Lin_xing_he_ma-Hong_deng_ji-sizhu_teacher_008 c w @n c w an n c 1 sil_phone l j oU^ u c @n m @n x u sil_phone f AN j E k oU^
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Lin_xing_he_ma-Hong_deng_ji-sizhu_teacher_009 f an n m 7N N c 1 sil_phone c @n x oU^ c M c H E c AN sil_phone c 1 c oU^ sil_phone oU^ u
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Lin_xing_he_ma-Hong_deng_ji-sizhu_teacher_010 c j a c UN c i c 1 @ r\' sil_phone n i sil_phone c @n n c oU^
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Lin_xing_he_ma-Hong_deng_ji-sizhu_teacher_011 j AU^ j y n aI^ i n aI^ i sil_phone f @n j oU^ u sil_phone c oU^ sil_phone oU^ sil_phone oU^ sil_phone oU^ u
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Wei_guo_jia-Hong_yang_dong-sizhu_teacher_000 w eI^ i k w O c j a sil_phone n a x w O c 7N N sil_phone c an n r\' i sil_phone c j En n c UN sil_phone UN sil_phone UN N
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Wei_guo_jia-Hong_yang_dong-sizhu_teacher_001 N O j E c 7N N sil_phone c 7N N f u l j AU^ u c aI^ i c @ sil_phone c M sil_phone c UN N
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Wei_guo_jia-Hong_yang_dong-sizhu_teacher_002 k w an n f UN N 7 c AU^ u sil_phone c j E c u c 1 a sil_phone x w AN N w AN N sil_phone @n n c UN sil_phone UN N
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Wei_guo_jia-Hong_yang_dong-sizhu_teacher_003 c @n n c u c w AN N sil_phone c u j oU^ r\' @n n c O c w eI^ i sil_phone m UN N l UN N a sil_phone a sil_phone a
+Laosheng_primary_school_recording_2017121718SongRuoXuan/lsxp-Zhe_yi_feng-Ding_jun_shan-dxjky-sizhu_teacher_000 c 7 i f 7N N 7 c y c in n l aI^ i c 7 c j AU^ u
+Laosheng_primary_school_recording_2017121718SongRuoXuan/lsxp-Zhe_yi_feng-Ding_jun_shan-dxjky-sizhu_teacher_001 c j En n c r\' u x w AN N c UN N c @n n k UN N l AU^ u
+Laosheng_primary_school_recording_2017121718SongRuoXuan/lsxp-Zhe_yi_feng-Ding_jun_shan-dxjky-sizhu_teacher_002 c an n l i c aI^ i in n m @n n sil_phone c an n c yn n c j AU^
+Laosheng_primary_school_recording_2017121718SongRuoXuan/lsxp-Zhe_yi_feng-Ding_jun_shan-dxjky-sizhu_teacher_003 c a c j AU^ u @ r\' l AN N c in n sil_phone k @n n m j AU^
+Laosheng_primary_school_recording_2017121718SongRuoXuan/lsxp-Zhe_yi_feng-Ding_jun_shan-dxjky-sizhu_teacher_004 c oU^ u c UN N 7 k u sil_phone c an n f an n c AU^
+Laosheng_primary_school_recording_2017121718SongRuoXuan/lsxp-Zhe_yi_feng-Ding_jun_shan-dxjky-sizhu_teacher_005 @ r\' c UN N 7 k u sil_phone c in n c an n c AU^ u
+Laosheng_primary_school_recording_2017121718SongRuoXuan/lsxp-Zhe_yi_feng-Ding_jun_shan-dxjky-sizhu_teacher_006 c an n c UN N k u sil_phone c AU^ u c y c j AU^
+Laosheng_primary_school_recording_2017121718SongRuoXuan/lsxp-Zhe_yi_feng-Ding_jun_shan-dxjky-sizhu_teacher_007 c M c UN 7 k u sil_phone c a c in n c j AU^ u
+Laosheng_primary_school_recording_2017121718SongRuoXuan/lsxp-Zhe_yi_feng-Ding_jun_shan-dxjky-sizhu_teacher_008 c j AN N c j En n k O k O c y j oU^ u c AN N
+Laosheng_primary_school_recording_2017121718SongRuoXuan/lsxp-Zhe_yi_feng-Ding_jun_shan-dxjky-sizhu_teacher_009 c w eI^ i x oU^ u n an n n 7 m j En n n 7 c 1 i sil_phone c AU^ u
+Laosheng_primary_school_recording_2017121718SongRuoXuan/lsxp-Zhe_yi_feng-Ding_jun_shan-dxjky-sizhu_teacher_010 c an n c yn y j a j E sil_phone k w eI^ i sil_phone in sil_phone in n x AU^ u
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Ti_lan_xiao_mai-Hong_deng_ji-sizhu_mentougou_teacher_000 c i l an sil_phone c j AU^ m aI^ i sil_phone c 1 m eI^ i c a
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Ti_lan_xiao_mai-Hong_deng_ji-sizhu_mentougou_teacher_001 c an n c w eI^ sil_phone c i c aI^ i sil_phone j E c AU^ u c a
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Ti_lan_xiao_mai-Hong_deng_ji-sizhu_mentougou_teacher_002 l i l i sil_phone w aI^ i w aI^ i sil_phone i sil_phone c a c oU^ u
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Ti_lan_xiao_mai-Hong_deng_ji-sizhu_mentougou_teacher_003 c j UN r\' @n n c i sil_phone x aI^ i c M sil_phone c AU^ sil_phone AU^ u c AN N c j a sil_phone a sil_phone a
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Ti_lan_xiao_mai-Hong_deng_ji-sizhu_mentougou_teacher_004 c aI^ i c @n m 7 c u m j AU^ u c j E c @n m O k w O
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Ti_lan_xiao_mai-Hong_deng_ji-sizhu_mentougou_teacher_005 c a c @n n m O c UN N c M sil_phone c aI^ i c @n n m O x w a sil_phone a sil_phone a
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student01_000 c iN N c AU^ c i l aI^ i c @n m 7 c iN c M c AU^
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student01_001 c u i k 7 j oU^ u c oU^ u c @n m 7 x w a c j AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student01_002 l j En c AN c a c i c 1 c @n n m 7 x w a c @n
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student01_003 c oU^ c j c i j En n c 1 sil_phone c 1 c @n m 7 x w a r\' x UN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student01_004 c iN N c AU^ c i l aI^ l j En x w a c iN c M c AU^ u
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student01_005 c u i k 7 j oU^ c oU^ u sil_phone k w eI^ i sil_phone x w a c j AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student01_006 l j En c AN N sil_phone c a c 7 c AU^ u sil_phone x w a f @n
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student01_007 c oU^ c j En c i j En c 1 c iN x w a r\' x UN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student01_008 c @n m 7 x w a r\' c j E sil_phone c @n m 7 x w a r\' l AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student01_009 c @n m 7 x w a c i c AN N c M c @n m 7 x w a c i c w AN N
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student01_010 c @n m 7 x w a c i c @n n c oU^ u c w AN N c AN N sil_phone f AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student01_011 c @n m 7 x a r\' c i r\' u c M c u m an c w AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student01_012 x UN x w a r\' c j E sil_phone l y x w a r\' l AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student01_013 k an c 1 m eI^ c 7 c AN c M c j AN j a x w a c 7 c w AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student01_014 j H En j AN x a c 7 c @n sil_phone c oU^ u sil_phone c w AN c AN f AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student01_015 m u c y x w a c 7 r\' u c a sil_phone
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student01_016 c u m an sil_phone an sil_phone c w AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student02_first_half_000 c iN c AU^ c i l aI^ c @n m 7 c iN c M c AU^
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student02_first_half_001 c u i c 7 j oU^ u c oU^ c @n m 7 x w a r\' c j AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student02_first_half_002 l j En c AN c a c 7 c @n m O x w a r\' f @n
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student02_first_half_003 c oU^ u c j En c i j En c 1 sil_phone c 1 c @n m 7 x w a r\' x UN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student02_000 c iN c AU^ u c 1 l aI^ l j En x w a c iN c M c AU^
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student02_001 c u i k 7 sil_phone j oU^ c oU^ sil_phone k w eI^ x a r\' c j AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student02_002 l j En c AN c a c 7 c AU^ u x w a f @n
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student02_003 c oU^ c j En c 7 j En c 1 c iN x w a r\' x UN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student02_004 c @n m 7 x w a c j E sil_phone c @n m 7 x w a r\' l AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student02_005 c @n m 7 x w a c i c AN c M c @n m O x w a c i c w AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student02_006 c @n m 7 x w a c i c @n c oU^ c w AN c AN c AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student02_007 c @n m 7 x w a c i r\' u sil_phone c M c u m an c w AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student02_008 x UN x w a c j E l y x w a l AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student02_009 k an c 1 m eI^ c 7 c AN c M c j AN j a x w a c 7 c w AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student02_010 j H En j AN x a c 7 c @n sil_phone c oU^ c w AN c AN f AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student02_011 m u c u c w a c 7 r\' u c a
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student02_012 c u m an sil_phone an sil_phone c u AN sil_phone AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student03_000 c iN c AU^ c i l aI^ c @n m 7 c iN c M c AU^
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student03_001 c u i k 7 j oU^ u c oU^ c @n m 7 x w a c j AN N
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student03_002 c j En n c AN c a c i c 1 c @n m 7 x w a r\' f @n n
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student03_003 c oU^ c j En c i j En c 1 sil_phone c 1 c @n m 7 x w a r\' x UN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student03_004 c iN c AU^ c i l aI^ i l i x w a c iN c M c AU^
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student03_005 c u i k 7 j oU^ c oU^ k w eI^ i x w a c j AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student03_006 l j En c AN c a c 7 c AU^ x w a r\' f @n
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student03_007 c oU^ c j En c 7 j En c 1 c iN x w a r\' x UN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student03_008 c @n m 7 x w a r\' c j E sil_phone c @n m 7 x w a r\' l AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student03_009 c @n m 7 x w a c i c AN c M c @n m 7 x w a r\' c i c w AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student03_010 c @n m 7 x w a c i c @n n c oU^ c w AN N c AN f AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student03_011 c @n m 7 x w a c i r\' u c a c u m an c w AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student03_012 x UN x w a r\' c j E sil_phone l y x w a l AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student03_013 k an c 1 m eI^ c 7 c AN sil_phone c M c j AN j a x w a c 7 c w AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student03_014 j H En j AN x w a c 7 c @n n c oU^ c w AN c AN f AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student03_015 m u c y x w a c 7 r\' u c a
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student03_016 c u m an sil_phone an sil_phone an sil_phone an sil_phone c w AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student04_000 c iN c AU^ c i l aI^ c @n m 7 c iN c M c AU^
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student04_001 c u i c 7 j oU^ c oU^ c @n m 7 x w a r\' c j AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student04_002 l j En c AN c a c i c M c @n m 7 x w a f @n
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student04_003 c oU^ c j En c i j En c 1 c 1 c @n m O x w a r\' c UN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student04_004 c iN c AU^ c i l aI^ l iN x w a c iN c M c AU^
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student04_005 c u i k 7 j oU^ c oU^ k w eI^ x w a c j AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student04_006 l j En c AN c a c 7 c AU^ x w a f 7N
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student04_007 c oU^ c j En c i j En c 1 c iN x w a r\' x UN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student04_008 c @n m 7 x w a r\' c j E sil_phone c @n m 7 x w a r\' l AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student04_009 c @n m 7 x w a c i c AN c M c @n m 7 x w a c i c w AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student04_010 c @n m O x w a c i c @n c oU^ c w AN c AN f AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student04_011 c @n m O x w a c i r\' u c a c u m an c w AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student04_012 x UN x w a r\' c j E sil_phone l y x w a r\' l AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student04_013 k an c 1 m eI^ c 7 c AN c M c j AN j a x w a c 7 c w AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student04_014 j H En j AN x w a c 7 c 7N c oU^ c w AN c AN f AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student04_015 m u c y c w a c 7 r\' u c a
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student04_016 c u m an sil_phone an sil_phone an c w AN sil_phone AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student05_000 c iN c AU^ c i l aI^ i c @n m 7 c iN c M c AU^
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student05_001 c u i k 7 j oU^ c oU^ c @n m 7 x w a r\' c j AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student05_002 l j En c AN c a c i c 1 c @n m 7 x w a f 7N
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student05_003 c oU^ c j En c i j En c 1 c 1 c @n m 7 x w a r\' x UN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student05_004 c iN c AU^ c i l aI^ l iN x w a c iN c M c AU^
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student05_005 c u i k 7 j oU^ c oU^ k w eI^ sil_phone x w a c j AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student05_006 l j En c AN c a c 7 c AU^ x w a r\' f @n
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student05_007 c oU^ c j En c 7 j En c 1 c iN x w a r\' x UN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student05_008 c @n m 7 x w a r\' c j E c @n m 7 x w a r\' l AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student05_009 c @n m 7 c w a c i c AN c M c @n m 7 x w a c i c w AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student05_010 c @n m 7 x w a c i c @n c oU^ c w AN c AN f AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student05_011 c @n m 7 x w a c i r\' u c M c u m an c w AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student05_012 x UN x w a c j E sil_phone l y x w a r\' l AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student05_013 c an c 1 m eI^ c 7 c AN sil_phone c M c j AN j a x w a c 7 c w AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student05_014 j H En j AN x w a r\' c 7 sil_phone c @n c oU^ c w AN c AN f AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student05_015 m u c y x w a c 7 r\' u c a sil_phone c u m an sil_phone an sil_phone an sil_phone c w AN sil_phone AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student06_000 c iN c AU^ c i l aI^ c @n m 7 c iN c M c AU^
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student06_001 c u i c 7 j oU^ c oU^ c @n m 7 x w a r\' c j AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student06_002 l j En c AN c a c i c @n m 7 x w a r\' f
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student06_003 c oU^ c j En c i j En c 1 c 1 c @n m 7 x w a r\' x UN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student06_004 c iN c AU^ sil_phone c i l aI^ l iN x a c iN c M c AU^
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student06_005 c u i c 7 j oU^ c oU^ sil_phone c w eI^ sil_phone x w a r\' c j AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student06_006 l j En c AN c a c 7 c AU^ sil_phone x a r\' f @n
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student06_007 c oU^ c j En sil_phone c i j En c 1 c iN x w a r\' x UN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student06_008 c @n m 7 x w a r\' c j E sil_phone c @n m 7 x w a r\' l AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student06_009 c @n m 7 x w a c i c AN c M c @n m 7 c @n c i c AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student06_010 c @n m 7 x w a c i c @n c oU^ c w AN c AN f AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student06_011 c @n m 7 x w a c i r\' u c a c u m an c w AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student06_012 x UN x w a r\' c j E sil_phone l y x w a l AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student06_013 k an c 1 m eI^ c 7 c AN c M c j AN j a x w a r\' c 7 c w AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student06_014 j H j AN x w a c 7 c @n sil_phone c oU^ c w AN c AN f AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student06_015 m u c y x w a r\' c 7 sil_phone r\' u c a
+Dan_primary_school_recording_20171211SongRuoXuan/daxp_Qing_zao_qi_lai-Mai_shui-dxjky_student06_016 c u m an sil_phone an sil_phone an sil_phone c w AN sil_phone AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_student01_000 w O c j a c i c j AU^ c u sil_phone c u c u c in
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_student01_001 m eI^ j oU^ c a c 1 sil_phone c u c @n m @n
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_student01_002 c eI^ c w O c 1 sil_phone c w eI^ c w O c 1 c in n c H an sil_phone j oU^ c u c j AN r\' @n
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_student01_003 c 7 c a c i c in c H an x aI^ j AU^ c in
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_student01_004 c j E c j E x 7 n aI^ n aI^
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_student01_005 c i c @n x w an n c in r\' @n
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_student01_006 c 7 l i c i AU^ m AU^ sil_phone AU^ w O j E n @n c aI^ sil_phone c u c i f @n
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_student01_007 c a m @n x 7 c j E c j E c oU^ i j AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_student01_008 c oU^ j oU^ u i sil_phone i c 7 sil_phone x UN N l j AN sil_phone c i c in sil_phone in
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_student02_000 w O c j a c i c j AU^ c u sil_phone c u c u c iN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_student02_001 m eI^ j oU^ c a c 1 c u c @n m @n
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_student02_002 c w eI^ c w O c 1 sil_phone c w eI^ c w O c 1 c in sil_phone c H an j oU^ c u c j AN r\' @n n
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_student02_003 c 7 c a c i c in sil_phone c H an x aI^ j AU^ c in
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_student02_004 c j E c j E x 7 n aI^ n aI^
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_student02_005 c i sil_phone c 7N x w an sil_phone c in sil_phone r\' @n
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_student02_006 c 7 l i c i AU^ m j AU^ sil_phone AU^ w O j E n @n sil_phone c aI^ sil_phone c u c i f @n
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_student02_007 c a m @n sil_phone x 7 c j E c j E c oU^ i j AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_student02_008 c oU^ j oU^ i sil_phone i c 7 sil_phone x UN l j AN sil_phone c i c in sil_phone in
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_student03_000 w O c j a c i sil_phone c j AU^ c u c u c u c in n
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_student03_001 m eI^ j oU^ c a c 1 sil_phone c u sil_phone c 7N N m @n
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_student03_002 c w eI^ c w O c 1 c w eI^ c w O c 1 c in n c H an sil_phone j oU^ c u c j AN r\' @n
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_student03_003 c 7 c a c i c in c H an x aI^ i j AU^ c in
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_student03_004 c j E c j E x 7 n aI^ n aI^ i
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_student03_005 c i sil_phone c 7N x w an sil_phone c in r\' @n n
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_student03_006 c 7 l i c i AU^ u m j AU^ sil_phone AU^ sil_phone w O j E n 7N c aI^ c u c i f @n
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_student03_007 c a m @n sil_phone x 7 c j E c j E c oU^ i j AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_student03_008 c oU^ j oU^ i sil_phone i c 7 sil_phone x UN N l j AN c i c in sil_phone in
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_student04_000 w O c j a c i c j AU^ c u c u c u c in
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_student04_001 m eI^ j oU^ c a c 1 sil_phone c u c 7N N m @n
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_student04_002 c eI^ c w O c 1 sil_phone c w sil_phone c w O c 1 c in c H an sil_phone j oU^ c u c j AN sil_phone r\' @n
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_student04_003 c 7 c a c i c in c H an x aI^ i j AU^ c in
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_student04_004 c j E sil_phone c j E x 7 n aI^ n aI^
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_student04_005 c i sil_phone c @n n x w an n c in n r\' @n
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_student04_006 c 7 l i c i sil_phone AU^ m j AU^ sil_phone AU^ w O j E n 7N c aI^ c u c i sil_phone f @n
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_student04_007 c a m @n x 7 c j E c j E c oU^ u i j AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_student04_008 c oU^ j oU^ u i sil_phone i c 7 sil_phone x UN l j AN sil_phone c i c in sil_phone in sil_phone in
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_student05_000 w O c j a c i c j AU^ c u c u c u c iN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_student05_001 m eI^ j oU^ u c a c 1 sil_phone c u c 7N m @n
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_student05_002 c eI^ c w O c 1 sil_phone c eI^ c w O c 1 c in n c H an j oU^ c u c j AN r\' @n
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_student05_003 c 7 c a c i c in sil_phone c H an x aI^ j AU^ c in
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_student05_004 c j E sil_phone c j E x 7 n aI^ n aI^
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_student05_005 c i sil_phone c 7N x w an c in r\' @n
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_student05_006 c 7 l i c i sil_phone AU^ m j AU^ sil_phone AU^ sil_phone w O j E n 7N c aI^ sil_phone c u c i f @n
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_student05_007 c a m @n x 7 c j E c E c oU^ i j AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_student05_008 c oU^ j oU^ i sil_phone i c 7 sil_phone x UN l j AN c i c in sil_phone in sil_phone in
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_student06_000 w O c j a c i c j AU^ c u sil_phone c u c u c in
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_student06_001 m eI^ j oU^ c a c 1 sil_phone c u c 7N m @n
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_student06_002 c w eI^ c w O c 1 sil_phone c w eI^ c w O c 1 c in c H an j oU^ c u c j AN r\' @n
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_student06_003 c 7 c a sil_phone c i c in c H an x aI^ i j AU^ c in
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_student06_004 c j E c j E x 7 n aI^ i n aI^
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_student06_005 c i sil_phone c 7N x w an c in n r\' @n
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_student06_006 c 7 l i c i AU^ m j AU^ sil_phone AU^ sil_phone w O j E n 7N c aI^ sil_phone c u c i f @n
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_student06_007 c a m @n sil_phone x 7 c j E c j E c oU^ i j AN
+Dan_primary_school_recording_20171211SongRuoXuan/daxp-Wo_jia_di-Hong_deng_ji-dxjky_student06_008 c oU^ y oU^ i sil_phone i c 7 sil_phone x UN l j AN sil_phone c i c in sil_phone in
+Dan_primary_school_recording_20171214SongRuoXuan/danbz-Kan_dai_wang-Ba_wang_bie_ji-nanluo_student_01_000 c an n c aI^ sil_phone aI^ w AN sil_phone AN sil_phone c aI^ c AN N c UN N sil_phone x O i sil_phone c w eI^ sil_phone w @n n
+Dan_primary_school_recording_20171214SongRuoXuan/danbz-Kan_dai_wang-Ba_wang_bie_ji-nanluo_student_01_001 N O c 7 ? 7 l i sil_phone c y c AN N w aI^ i sil_phone c j E sil_phone E c an sil_phone c oU^ sil_phone oU^ u c in sil_phone in sil_phone in n
+Dan_primary_school_recording_20171214SongRuoXuan/danbz-Kan_dai_wang-Ba_wang_bie_ji-nanluo_student_01_002 c in n i c u sil_phone u sil_phone u sil_phone u sil_phone u sil_phone c oU^ u c j AN N c j En n sil_phone x w AN N c j AU^ u sil_phone c an n c in n
+Dan_primary_school_recording_20171214SongRuoXuan/danbz-Kan_dai_wang-Ba_wang_bie_ji-nanluo_student_01_003 m UN N c aI^ i c oU^ sil_phone c j En n sil_phone c i l w O sil_phone j H E sil_phone E c 7 sil_phone c in n m in sil_phone in
+Dan_primary_school_recording_20171214SongRuoXuan/danbz-Kan_dai_wang-Ba_wang_bie_ji-nanluo_student_02_000 c an n c aI^ sil_phone aI^ i w AN sil_phone AN sil_phone AN N sil_phone c aI^ i c AN N c UN N sil_phone x O i sil_phone c w eI^ i sil_phone w @n n
+Dan_primary_school_recording_20171214SongRuoXuan/danbz-Kan_dai_wang-Ba_wang_bie_ji-nanluo_student_02_001 w O c 7 l i sil_phone i sil_phone c y c AN N w aI^ sil_phone c j E sil_phone E c an n c oU^ sil_phone oU^ c in sil_phone in sil_phone in n
+Dan_primary_school_recording_20171214SongRuoXuan/danbz-Kan_dai_wang-Ba_wang_bie_ji-nanluo_student_02_002 c in n i sil_phone i c u sil_phone u sil_phone u sil_phone u sil_phone u u sil_phone c oU^ u c j AN N c j En n sil_phone x w AN N c j AU^ sil_phone c an n c in n
+Dan_primary_school_recording_20171214SongRuoXuan/danbz-Kan_dai_wang-Ba_wang_bie_ji-nanluo_student_02_003 m UN N c aI^ i c oU^ sil_phone c j En n c i l w O sil_phone j H E sil_phone E c 7 sil_phone c in n m in sil_phone in n
+Dan_primary_school_recording_20171214SongRuoXuan/danbz-Kan_dai_wang-Ba_wang_bie_ji-nanluo_student_03_000 c an n c aI^ sil_phone aI^ i w AN sil_phone AN N sil_phone c aI^ i c AN sil_phone AN N c UN N sil_phone x O i sil_phone c w eI^ sil_phone eI^ i w @n n
+Dan_primary_school_recording_20171214SongRuoXuan/danbz-Kan_dai_wang-Ba_wang_bie_ji-nanluo_student_03_001 w O sil_phone c 7 l i sil_phone c y sil_phone c AN sil_phone AN N w aI^ i sil_phone c j E sil_phone E c an n sil_phone c oU^ sil_phone oU^ u c in sil_phone in sil_phone in in
+Dan_primary_school_recording_20171214SongRuoXuan/daspd-Hai_dao_bing-Gui_fei_zui_jiu-nanluo_student_01_000 x aI^ ? aI^ sil_phone c AU^ sil_phone c iN N l w @n sil_phone @n sil_phone @n n c u sil_phone u sil_phone c w an n c 7N sil_phone 7N
+Dan_primary_school_recording_20171214SongRuoXuan/daspd-Hai_dao_bing-Gui_fei_zui_jiu-nanluo_student_01_001 c j En sil_phone En sil_phone En n y c u w a sil_phone y c u sil_phone u j oU^ sil_phone oU^ u c AU^ u sil_phone c UN N c 7N N
+Dan_primary_school_recording_20171214SongRuoXuan/daspd-Hai_dao_bing-Gui_fei_zui_jiu-nanluo_student_01_002 n a sil_phone c iN N l w @n n l i x aI^ sil_phone c AU^ sil_phone AU^
+Dan_primary_school_recording_20171214SongRuoXuan/daspd-Hai_dao_bing-Gui_fei_zui_jiu-nanluo_student_01_003 c j En n c w @n sil_phone @n f @n sil_phone @n sil_phone w aI^ i m in
+Dan_primary_school_recording_20171214SongRuoXuan/daspd-Hai_dao_bing-Gui_fei_zui_jiu-nanluo_student_01_004 x AU^ u j H E sil_phone c AN sil_phone AN N c UN sil_phone UN sil_phone UN sil_phone c j a sil_phone a ? a ? a sil_phone a c j En c M n a sil_phone c AN O sil_phone O l i sil_phone i sil_phone j H E sil_phone E k UN N
+Dan_primary_school_recording_20171214SongRuoXuan/daspd-Hai_dao_bing-Gui_fei_zui_jiu-nanluo_student_01_005 n u c M c AN sil_phone AN N O sil_phone l i sil_phone j H E sil_phone k UN
+Dan_primary_school_recording_20171214SongRuoXuan/daxp-Quan_jun_wang-Ba_wang_bie_ji-nanluo_student_01_000 c w an n sil_phone c H sil_phone H sil_phone H En w AN sil_phone in sil_phone in n c j oU^ sil_phone c in sil_phone y k O
+Dan_primary_school_recording_20171214SongRuoXuan/daxp-Quan_jun_wang-Ba_wang_bie_ji-nanluo_student_01_001 c j aI^ sil_phone c yn sil_phone j oU^ m @n sil_phone u sil_phone u c O sil_phone O sil_phone O sil_phone O sil_phone O c w O
+Dan_primary_school_recording_20171214SongRuoXuan/daxp-Quan_jun_wang-Ba_wang_bie_ji-nanluo_student_01_002 in c in sil_phone u sil_phone u c AU^ sil_phone c a c j AN sil_phone c an n c O
+Dan_primary_school_recording_20171214SongRuoXuan/daxp-Quan_jun_wang-Ba_wang_bie_ji-nanluo_student_01_003 in c j UN N sil_phone c M sil_phone M sil_phone l u sil_phone u sil_phone c i sil_phone i k an sil_phone an sil_phone an sil_phone an k O
+Dan_primary_school_recording_20171214SongRuoXuan/daxp-Quan_jun_wang-Ba_wang_bie_ji-nanluo_student_01_004 c M k u sil_phone c AN N j En n c u sil_phone c i N O
+Dan_primary_school_recording_20171214SongRuoXuan/daxp-Quan_jun_wang-Ba_wang_bie_ji-nanluo_student_01_005 c @n n c aI^ sil_phone aI^ sil_phone c in n w AN sil_phone i sil_phone i c a sil_phone a sil_phone a n w O
+Dan_primary_school_recording_20171214SongRuoXuan/daxp-Quan_jun_wang-Ba_wang_bie_ji-nanluo_student_01_006 c w an sil_phone c in sil_phone in sil_phone in sil_phone in sil_phone in c j oU^ sil_phone oU^ sil_phone oU^ sil_phone c AU^ u c AN sil_phone c w O sil_phone O
+Dan_primary_school_recording_20171214SongRuoXuan/daxp-Quan_jun_wang-Ba_wang_bie_ji-nanluo_student_03_000 c w an n sil_phone c yn sil_phone yn w an sil_phone in c j oU^ sil_phone c in n sil_phone y sil_phone k O
+Dan_primary_school_recording_20171214SongRuoXuan/daxp-Quan_jun_wang-Ba_wang_bie_ji-nanluo_student_03_001 c j aI^ sil_phone c yn sil_phone j oU^ m 7N N sil_phone u sil_phone u c O sil_phone O sil_phone O sil_phone O sil_phone O c w O
+Dan_primary_school_recording_20171214SongRuoXuan/daxp-Quan_jun_wang-Ba_wang_bie_ji-nanluo_student_03_002 in sil_phone c in sil_phone u c AU^ c a c j AN sil_phone c an n c O
+Dan_primary_school_recording_20171214SongRuoXuan/daxp-Quan_jun_wang-Ba_wang_bie_ji-nanluo_student_03_003 in N sil_phone c j UN sil_phone c M sil_phone M l u sil_phone c i sil_phone i k an sil_phone an sil_phone an k O
+Dan_primary_school_recording_20171214SongRuoXuan/daxp-Quan_jun_wang-Ba_wang_bie_ji-nanluo_student_03_004 c M sil_phone k u sil_phone c AN j En c u sil_phone c i N O
+Dan_primary_school_recording_20171214SongRuoXuan/daxp-Quan_jun_wang-Ba_wang_bie_ji-nanluo_student_03_005 c @n sil_phone c aI^ sil_phone aI^ sil_phone c in n w AN N sil_phone i sil_phone i c a sil_phone a sil_phone a n w O
+Dan_primary_school_recording_20171214SongRuoXuan/daxp-Quan_jun_wang-Ba_wang_bie_ji-nanluo_student_03_006 c w an sil_phone c in sil_phone in sil_phone in sil_phone in c j oU^ sil_phone oU^ sil_phone c AU^ c AN N sil_phone c w O sil_phone O
+Laosheng_primary_school_recording_20171217TianHao/lseh-Wo_men_shi-Zhi_qu-sizhu_student_01_000 w O m @n n c 1 sil_phone k UN N n UN N c M c i c in sil_phone l aI^ i c AU^ sil_phone c @n c an
+Laosheng_primary_school_recording_20171217TianHao/lseh-Wo_men_shi-Zhi_qu-sizhu_student_01_001 j AU^ c j AU^ m j E f an c UN N c aI^ sil_phone k aI^ sil_phone c i sil_phone x w an n c j En
+Laosheng_primary_school_recording_20171217TianHao/lseh-Wo_men_shi-Zhi_qu-sizhu_student_01_002 c i c 1 n j En n AU^ k 7 m in n n an n c eI^ sil_phone c w an n c an
+Laosheng_primary_school_recording_20171217TianHao/lseh-Wo_men_shi-Zhi_qu-sizhu_student_01_003 k UN c an n c AN sil_phone m AU^ c u c M
+Laosheng_primary_school_recording_20171217TianHao/lseh-Wo_men_shi-Zhi_qu-sizhu_student_01_004 c 1 j in w O m @n sil_phone c j AN c j En
+Laosheng_primary_school_recording_20171217TianHao/lseh-Wo_men_shi-Zhi_qu-sizhu_student_01_005 i sil_phone c 7 x UN N c iN N c oU^ u c AN N c aI^ i
+Laosheng_primary_school_recording_20171217TianHao/lseh-Wo_men_shi-Zhi_qu-sizhu_student_01_006 c 7 m iN N c i x UN N c i c w a l j AN N c j En
+Laosheng_primary_school_recording_20171217TianHao/lseh-Wo_men_shi-Zhi_qu-sizhu_student_01_007 x UN N sil_phone c i c 1 c u u j yn n c an
+Laosheng_primary_school_recording_20171217TianHao/lseh-Wo_men_shi-Zhi_qu-sizhu_student_01_008 c j E f AN c u r\' @n n m in n c oU^ u c AU^ u c i c u c a c @n n f an
+Laosheng_primary_school_recording_20171217TianHao/lseh-Wo_men_shi-Zhi_qu-sizhu_student_01_009 r\' @n n m in n c i c yn n c w eI^ sil_phone y r\' @n m iN N k UN sil_phone x w an n n an
+Laosheng_primary_school_recording_20171217TianHao/lseh-Wo_men_shi-Zhi_qu-sizhu_student_01_010 c AU^ u c 7 l i w eI^ c i c 1 sil_phone c AU^ u c in n w eI^ sil_phone x u sil_phone c an
+Laosheng_primary_school_recording_20171217TianHao/lseh-Wo_men_shi-Zhi_qu-sizhu_student_02_000 w O sil_phone m @n sil_phone @n n c 1 sil_phone k UN N n UN N c M sil_phone c i sil_phone c in n sil_phone l aI^ i sil_phone c AU^ u sil_phone c @n n c an n
+Laosheng_primary_school_recording_20171217TianHao/lseh-Wo_men_shi-Zhi_qu-sizhu_student_02_001 j AU^ u c j AU^ u m j E f an n sil_phone c UN N c aI^ i sil_phone k aI^ i sil_phone c i sil_phone x w an n sil_phone c j En n
+Laosheng_primary_school_recording_20171217TianHao/lseh-Wo_men_shi-Zhi_qu-sizhu_student_02_002 c i c 1 n j En n sil_phone n AU^ u sil_phone k 7 m in N n an n sil_phone c eI^ i sil_phone c w an n c an n
+Laosheng_primary_school_recording_20171217TianHao/lseh-Wo_men_shi-Zhi_qu-sizhu_student_02_003 k UN N c an n sil_phone c AN N sil_phone m AU^ u sil_phone c u c M
+Laosheng_primary_school_recording_20171217TianHao/lseh-Wo_men_shi-Zhi_qu-sizhu_student_02_004 c 1 in n w O m @n n sil_phone c j AN N c j En n
+Laosheng_primary_school_recording_20171217TianHao/lseh-Wo_men_shi-Zhi_qu-sizhu_student_02_005 i sil_phone c 7 x UN N c iN N sil_phone c oU^ u c AN N sil_phone c aI^ i
+Laosheng_primary_school_recording_20171217TianHao/lseh-Wo_men_shi-Zhi_qu-sizhu_student_02_006 k 7 m in N x UN N c i sil_phone k w a l j AN N sil_phone c j En n
+Laosheng_primary_school_recording_20171217TianHao/lseh-Wo_men_shi-Zhi_qu-sizhu_student_02_007 x UN N sil_phone c i sil_phone c 1 c u u yn n c an n
+Laosheng_primary_school_recording_20171217TianHao/lseh-Wo_men_shi-Zhi_qu-sizhu_student_02_008 c j E f AN N c y r\' @n n m in n sil_phone c oU^ u sil_phone c AU^ u sil_phone c i sil_phone c u c a c @n n f an n
+Laosheng_primary_school_recording_20171217TianHao/lseh-Wo_men_shi-Zhi_qu-sizhu_student_02_009 r\' @n sil_phone m in N sil_phone c i sil_phone c yn n sil_phone c w eI^ i sil_phone y r\' @n n m in n sil_phone k UN N sil_phone x w an n n an n
+Laosheng_primary_school_recording_20171217TianHao/lseh-Wo_men_shi-Zhi_qu-sizhu_student_02_010 c AU^ u sil_phone c 7 l i w eI^ i sil_phone c i c 1 sil_phone c AU^ u sil_phone c in n sil_phone w eI^ i sil_phone x u sil_phone c an n
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Lin_xing_he_ma-Hong_deng_ji-sizhu_student_01_000 l in x iN N x 7 m a sil_phone i w an c j oU^
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Lin_xing_he_ma-Hong_deng_ji-sizhu_student_01_001 x w @n c @n c 1 c an c j UN N c j oU^ u c j oU^ u
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Lin_xing_he_ma-Hong_deng_ji-sizhu_student_01_002 c j oU^ u c an c 7 j En sil_phone y w O c j AU^ u c UN j oU^ u
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Lin_xing_he_ma-Hong_deng_ji-sizhu_student_01_003 c j En n c eI^ i w an n c an x w eI^ in c oU^ u
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Lin_xing_he_ma-Hong_deng_ji-sizhu_student_01_004 c 1 l in n c u x AU^ sil_phone f 7N c H E l aI^ i c 7 c oU^ u
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Lin_xing_he_ma-Hong_deng_ji-sizhu_student_01_005 m a j AU^ u c a l 7N N n w an sil_phone c 1 c 7 c i c in n sil_phone c oU^
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Lin_xing_he_ma-Hong_deng_ji-sizhu_student_01_006 c j AU^ u c j E m eI^ c u m @n n m aI^ x w O sil_phone c an c i x oU^
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Lin_xing_he_ma-Hong_deng_ji-sizhu_student_01_007 l aI^ w AN c AN m u j AU^ u c i c oU^ u
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Lin_xing_he_ma-Hong_deng_ji-sizhu_student_01_008 c @n c H an c 1 sil_phone l j oU^ u c @n m @n x u sil_phone f AN N j E k oU^ u
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Lin_xing_he_ma-Hong_deng_ji-sizhu_student_01_009 f an n m @n c 1 c @n N x oU^ c M c H E c AN c 1 c oU^ sil_phone oU^
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Lin_xing_he_ma-Hong_deng_ji-sizhu_student_01_010 c j a c UN c i c 1 @ r\' sil_phone n i c 7N N c oU^ u
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Lin_xing_he_ma-Hong_deng_ji-sizhu_student_01_011 j AU^ u y n aI^ i n aI^ i sil_phone f 7N j oU^ u c oU^
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Lin_xing_he_ma-Hong_deng_ji-sizhu_student_02_000 l in n c in n x 7 m a sil_phone i w an n c j oU^ u
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Lin_xing_he_ma-Hong_deng_ji-sizhu_student_02_001 x w @n n c @n n c 1 c an n sil_phone c j UN N sil_phone c j oU^ u sil_phone c j oU^ u
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Lin_xing_he_ma-Hong_deng_ji-sizhu_student_02_002 c j oU^ u c an n c 7 j an n sil_phone x 7 w O sil_phone c j AU^ u c UN N j oU^ u
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Lin_xing_he_ma-Hong_deng_ji-sizhu_student_02_003 c j En n sil_phone c eI^ i w an n c an n sil_phone x w eI^ in c oU^ u
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Lin_xing_he_ma-Hong_deng_ji-sizhu_student_02_004 c 1 l in n sil_phone c u x AU^ u sil_phone f UN N c H E l aI^ i sil_phone c 7 sil_phone c oU^ u
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Lin_xing_he_ma-Hong_deng_ji-sizhu_student_02_005 m a j AU^ u sil_phone c a l 7N N n w an n sil_phone c 1 c 7 c i c in n sil_phone c oU^ sil_phone oU^ u
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Lin_xing_he_ma-Hong_deng_ji-sizhu_student_02_006 c j AU^ u sil_phone c j E m eI^ i sil_phone c u m @n n m aI^ i x O sil_phone c an n c i x oU^ u
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Lin_xing_he_ma-Hong_deng_ji-sizhu_student_02_007 l aI^ i w AN N sil_phone c AN N m u j AU^ u c i c oU^ u
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Lin_xing_he_ma-Hong_deng_ji-sizhu_student_02_008 c w @n c H an n c 1 sil_phone l j oU^ u c @n n m @n n x u sil_phone f AN N j E sil_phone k oU^ u
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Lin_xing_he_ma-Hong_deng_ji-sizhu_student_02_009 f an n m 7N N c 1 sil_phone c @n n x oU^ u c M c H E c AN N c 1 sil_phone c oU^ sil_phone oU^ u
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Lin_xing_he_ma-Hong_deng_ji-sizhu_student_02_010 c j a sil_phone c UN N c i c 1 @ r\' sil_phone n i sil_phone c @n n c oU^ u
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Lin_xing_he_ma-Hong_deng_ji-sizhu_student_02_011 j AU^ u y n aI^ i n aI^ i sil_phone f @n n j oU^ u sil_phone c oU^ sil_phone oU^ u
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Ti_lan_xiao_mai-Hong_deng_ji-sizhu_mentougou_student_01_sizhu_000 c i l an c j AU^ u m aI^ sil_phone c 1 m eI^ i c a
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Ti_lan_xiao_mai-Hong_deng_ji-sizhu_mentougou_student_01_sizhu_001 c an c w eI^ sil_phone c i c aI^ sil_phone j E c AU^ u c a
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Ti_lan_xiao_mai-Hong_deng_ji-sizhu_mentougou_student_01_sizhu_002 l i l i sil_phone w aI^ w aI^ sil_phone i c a c oU^ u
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Ti_lan_xiao_mai-Hong_deng_ji-sizhu_mentougou_student_01_sizhu_003 c j UN N r\' @n n c i sil_phone x aI^ c i sil_phone c AU^ u c AN N c j a sil_phone a
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Ti_lan_xiao_mai-Hong_deng_ji-sizhu_mentougou_student_01_sizhu_004 c aI^ c @n m 7 c u m j AU^ u c j E c @n m 7 k w O
+Laosheng_primary_school_recording_20171217TianHao/lsxp-Ti_lan_xiao_mai-Hong_deng_ji-sizhu_mentougou_student_01_sizhu_005 c a c @n m O c UN c M sil_phone c aI^ i c @n m O x w a sil_phone a

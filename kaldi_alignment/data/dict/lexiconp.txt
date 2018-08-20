@@ -1,0 +1,1189 @@
+SIL 1.0	sil
+<SPOKEN_NOISE> 1.0	sil
+CUN0 1.0	c w @n sil_phone @n ? @n ? @n sil_phone @n sil_phone @n sil_phone @n sil_phone @n
+HAO0 1.0	x AU^ u
+WANG0 1.0	w AN
+MIN0 1.0	m in
+NGO0 1.0	w O
+JIN0 1.0	c in
+ZAO0 1.0	c AU^ sil_phone AU^ u
+ZHUANG0 1.0	c w AN
+SHRU0 1.0	c r\' u
+GUAN0 1.0	c w AN N
+JIAN0 1.0	c j En sil_phone En sil_phone En n
+TI0 1.0	c i
+YUAN0 1.0	j H
+NU0 1.0	n u sil_phone u ? u ? u
+CUN1 1.0	c w @n n
+KUANG0 1.0	c w AN
+YIN0 1.0	j in
+MEI0 1.0	m eI^ i
+ZEN0 1.0	c @n sil_phone @n
+BIE0 1.0	c j E
+YUE0 1.0	j H E
+FEN0 1.0	f @n sil_phone @n n
+MIAO0 1.0	m j AU^
+BIAN0 1.0	c j En
+JIN1 1.0	c in ? in
+CHAI0 1.0	c aI^
+HUA0 1.0	x a
+DAI0 1.0	c aI^ sil_phone aI^
+HO0 1.0	x 7
+MAI0 1.0	m aI^ i
+JIAN1 1.0	c j ? En n
+LUEI0 1.0	l w eI^ i
+NIANG0 1.0	n j
+DANG0 1.0	c AN sil_phone AN
+ZHENG0 1.0	c 7N N
+HU0 1.0	c u
+JUAN0 1.0	c H an
+SHAN0 1.0	c an
+SHUI0 1.0	c u eI^ i
+GUA0 1.0	k w a
+TIAN0 1.0	c En
+RAN0 1.0	r\' an
+SHANG0 1.0	c AN N
+ZI0 1.0	c i
+HOU0 1.0	x oU^ u
+YI0 1.0	i sil_phone i sil_phone i
+NAN0 1.0	n an
+YUN0 1.0	yn n
+NING0 1.0	n iN N
+JIAN2 1.0	c j En sil_phone
+XIAN0 1.0	c j En n
+GAO0 1.0	k AU^ sil_phone AU^ u
+JIANG0 1.0	c j AN sil_phone AN N
+FI0 1.0	f eI^
+YOU0 1.0	j oU^ sil_phone oU^ u
+ZOU0 1.0	c oU^ u
+PU0 1.0	c u
+CHU0 1.0	c y
+SHOU0 1.0	c oU^
+O0 1.0	O
+WA0 1.0	w a ? a ? a ? a
+LIU0 1.0	l H oU^
+LAI0 1.0	l aI^ sil_phone aI^ ? aI^ sil_phone aI^ sil_phone aI^ i
+PAN0 1.0	c an n
+YUAN1 1.0	j w an
+CIE0 1.0	c j E ? E
+LAO0 1.0	l AU^ N
+CHAI1 1.0	c aI^ sil_phone aI^ i
+YWAN0 1.0	j w En n
+ZHAN0 1.0	c an n
+SHUI1 1.0	c w eI^
+TUAN0 1.0	c w an n
+FENG0 1.0	f 7N N
+CHANG0 1.0	c AN sil_phone AN sil_phone AN sil_phone AN sil_phone AN sil_phone AN
+CHA0 1.0	c a sil_phone a sil_phone a
+JIAN3 1.0	c y En n
+ZHE0 1.0	c 7 sil_phone 7
+LAN0 1.0	l an
+GAN0 1.0	k an sil_phone an sil_phone an
+WAI0 1.0	w aI^ sil_phone aI^ sil_phone aI^ i
+DIE0 1.0	c E
+GUO0 1.0	k O
+XIN0 1.0	c in N
+SHA0 1.0	c a sil_phone a sil_phone a
+DONG0 1.0	c UN N
+SIN0 1.0	c in ? in n
+JUN0 1.0	c yn n
+BU0 1.0	c u sil_phone u sil_phone u sil_phone u sil_phone u u
+HO1 1.0	x O sil_phone O
+PAI0 1.0	c aI^
+DIAO0 1.0	c j AU^
+TAO0 1.0	c AU^
+WU0 1.0	w u
+ZHONG0 1.0	c UN
+NONG0 1.0	n UN N
+NE0 1.0	n 7
+TU0 1.0	c u
+SIU0 1.0	c j oU^
+TA0 1.0	c a
+MEN0 1.0	m 7N N
+GUANG0 1.0	k w AN
+SHUANG0 1.0	c w ? w AN N
+SHUANG1 1.0	c w AN
+WEN0 1.0	w @n
+BU1 1.0	c u sil_phone u sil_phone u sil_phone u sil_phone u sil_phone u
+LAO1 1.0	l AU^ sil_phone AU^ sil_phone AU^ sil_phone AU^ sil_phone AU^ sil_phone AU^ sil_phone AU^ sil_phone AU^
+LANG0 1.0	l AN N
+JIE0 1.0	c j E
+LIAN0 1.0	l j En n
+ZHANG0 1.0	c AN sil_phone AN sil_phone AN
+RI0 1.0	r\' i ? i
+JIN2 1.0	c in sil_phone in sil_phone in sil_phone in n
+YAN0 1.0	j En n
+ZI1 1.0	c M a
+GUAN1 1.0	k w an n
+TIN0 1.0	c in sil_phone in
+NU1 1.0	n u
+LIAO0 1.0	l j AU^ O
+CANG0 1.0	c AN N
+XI0 1.0	c M
+TUN0 1.0	c w @n n
+KUN0 1.0	c w @n n
+LIAN1 1.0	l j En
+YUN1 1.0	j yn
+HUAN0 1.0	c w an
+YOU1 1.0	j oU^ N
+SHEN0 1.0	c @n
+A0 1.0	a sil_phone a sil_phone a
+XUE0 1.0	c E
+MENG0 1.0	c 7N
+CHV0 1.0	c y sil_phone y
+PAI1 1.0	c aI^ sil_phone aI^ i
+CHAN0 1.0	c an sil_phone an sil_phone an sil_phone an
+BING0 1.0	c iN N
+XIU0 1.0	c j oU^
+GOU0 1.0	k oU^
+ZHUAN0 1.0	c w an
+SIN1 1.0	c in
+ZE0 1.0	c 7
+SHVE0 1.0	c y 7
+NIU0 1.0	n j oU^ u
+RE0 1.0	r\' 7
+NA0 1.0	c a
+LIAO1 1.0	l j AU^ sil_phone AU^
+ER0 1.0	@ r\'
+ZHEN0 1.0	c 7N N
+MU0 1.0	m u ? u ? u
+GU0 1.0	k u
+SHUO0 1.0	c w O
+XUE1 1.0	c H 9
+DANG1 1.0	c AN ? AN N
+SIAO0 1.0	c j AU^ u
+SHEN1 1.0	c 7N
+YE0 1.0	j 7 N
+E0 1.0	7
+BEI0 1.0	c 7
+GAN1 1.0	k an n
+KONG0 1.0	c u sil_phone u sil_phone u sil_phone u sil_phone u UN N
+SA0 1.0	c a
+ZHANG1 1.0	c AN sil_phone AN N
+ZHRE0 1.0	c 7
+PIN0 1.0	c in
+MING0 1.0	m iN N
+AN0 1.0	an sil_phone an n
+HUAI0 1.0	x w sil_phone w aI^ ? aI^ i
+XIE0 1.0	c j E sil_phone E
+MEN1 1.0	m @n n
+NIAN0 1.0	n j En n
+XIAO0 1.0	c j 7N
+CHE0 1.0	c 7
+CUO0 1.0	c w O
+KUANG1 1.0	c UN AN
+DANG2 1.0	c AN N
+XI1 1.0	c i
+NUO0 1.0	N w O
+XING0 1.0	c in
+JUN1 1.0	c H @n n
+ZI2 1.0	c a
+CHEN0 1.0	c @n n
+JUN2 1.0	c H sil_phone H sil_phone H En
+XIAN1 1.0	c j En
+SHEN2 1.0	c @n sil_phone @n n
+ZHAO0 1.0	c AU^
+ZHOU0 1.0	c oU^ u
+ZEN1 1.0	c @n
+DING0 1.0	c iN N
+YUE1 1.0	j H 9 sil_phone 9
+KE0 1.0	c 7
+ZHANG2 1.0	c AN N
+SHENG0 1.0	c 7N
+LAI1 1.0	l aI^
+HAI0 1.0	x aI^ ? aI^
+JUAN1 1.0	c H an n
+SHAN1 1.0	c an n
+FO0 1.0	f o
+YUN2 1.0	j y yn n
+BAO0 1.0	c AU^ u
+QVO0 1.0	c w O
+ZHA0 1.0	c a
+HAO1 1.0	x AU^ sil_phone AU^
+HANG0 1.0	x AN sil_phone AN sil_phone AN sil_phone AN sil_phone AN N
+YAO0 1.0	j AU^ ? AU^ sil_phone AU^
+ZUN0 1.0	c w @n
+HUAN1 1.0	x w an n
+FENG1 1.0	f UN N
+SUI0 1.0	c w eI^
+LIAN2 1.0	l j @n
+BIN0 1.0	c in N
+YIN1 1.0	in sil_phone in sil_phone in sil_phone in sil_phone in
+ZHRU0 1.0	c r\' y
+HAI1 1.0	x aI^ sil_phone aI^ sil_phone aI^ sil_phone aI^ sil_phone aI^ i
+SHUANG2 1.0	c w AN N
+HOU1 1.0	x oU^ sil_phone oU^
+CONG0 1.0	c UN N
+MENG1 1.0	m 7N N
+BIN1 1.0	c in sil_phone in sil_phone in
+TAI0 1.0	c aI^
+CHV1 1.0	c y
+JIAN4 1.0	c j En sil_phone En
+DIAN0 1.0	c j En
+YING0 1.0	j in n
+HONG0 1.0	x UN N
+PI0 1.0	c i
+JIAN5 1.0	c j En
+KAO0 1.0	c AU^ u
+HO2 1.0	x O
+DOU0 1.0	c oU^
+HAO2 1.0	x AU^ sil_phone AU^ u
+REN0 1.0	r\' @n sil_phone @n n
+BIAO0 1.0	c j AU^
+FANG0 1.0	f AN sil_phone AN N
+ZHI0 1.0	c i
+GUI0 1.0	k O eI^ ? eI^ sil_phone eI^ i
+YAO1 1.0	j AU^ u
+XU0 1.0	c y
+YIN2 1.0	in sil_phone in sil_phone in n
+NIN0 1.0	n in
+XIN1 1.0	c in sil_phone in sil_phone in
+BIN2 1.0	c in
+QWAN0 1.0	c w an
+QIU0 1.0	c j oU^
+NA1 1.0	n a ?
+TOU0 1.0	c oU^ sil_phone oU^ sil_phone oU^
+HUAN2 1.0	x w an
+KAI0 1.0	c aI^ i
+HOU2 1.0	x oU^ sil_phone oU^ ? oU^ sil_phone oU^ ? oU^ sil_phone oU^ sil_phone oU^ sil_phone oU^
+YUAN2 1.0	j w an n
+YAO2 1.0	j AU^ sil_phone AU^ sil_phone AU^ sil_phone AU^ u
+HUA1 1.0	x a r\'
+NUO1 1.0	n w o
+JIAN6 1.0	c j En n
+ZHV0 1.0	c y
+ZHONG1 1.0	c UN u
+NENG0 1.0	n 7N
+YI1 1.0	j i ? i
+YU0 1.0	j y sil_phone y sil_phone y
+YWAN1 1.0	y w an n
+DIN0 1.0	c in N
+CANG1 1.0	c AN
+ZHUAN1 1.0	c w an n
+QIAN0 1.0	c j En n
+NIANG1 1.0	n j AN
+ZHONG2 1.0	c UN sil_phone UN sil_phone UN N
+MAO0 1.0	m AU^ u
+QIN0 1.0	c in sil_phone in sil_phone in in
+JU0 1.0	c y
+GUO1 1.0	k w O
+SHUA0 1.0	c w a
+E1 1.0	O
+GE0 1.0	k O
+LANG1 1.0	l AN
+YING1 1.0	iN
+CAI0 1.0	c aI^ sil_phone aI^
+LIN0 1.0	l in
+KUN1 1.0	c w @n
+HUA2 1.0	c w a r\'
+NENG1 1.0	n 7N sil_phone 7N N
+HWAI0 1.0	x w an
+CHOU0 1.0	c oU^
+SHVE1 1.0	c H 7 ? 7 ? 7
+JIN3 1.0	c iN N
+JIU0 1.0	c j oU^ sil_phone oU^ sil_phone oU^
+KONG1 1.0	c UN sil_phone UN sil_phone UN N
+HUA3 1.0	x u a
+TAI1 1.0	c aI^ sil_phone aI^ i
+RUAN0 1.0	r\' w an
+JIAN7 1.0	c j
+KUN2 1.0	c u @n
+ME0 1.0	m @
+XIAN2 1.0	c j En sil_phone En
+YIN3 1.0	in N
+GE1 1.0	c 7
+SIN2 1.0	c in n
+CHANG1 1.0	c AN N
+TANG0 1.0	c AN
+KONG2 1.0	c UN sil_phone UN
+RANG0 1.0	r\' AN
+ZAI0 1.0	c aI^ i
+HOU3 1.0	c oU^ u
+LIAN3 1.0	c j En n
+GUO2 1.0	c w O
+CHEN1 1.0	c @n
+LEI0 1.0	l eI^ i
+LEI1 1.0	l w eI^ i
+FEN1 1.0	f @n sil_phone @n sil_phone @n
+YAN1 1.0	j En sil_phone En n
+DOU1 1.0	c oU^ u
+WANG1 1.0	w AN sil_phone AN sil_phone AN N
+SHI0 1.0	c 1 sil_phone 1
+TAN0 1.0	c an sil_phone an n
+NGAN0 1.0	N an
+TIN1 1.0	c iN
+YU1 1.0	j y sil_phone y
+A1 1.0	a
+GAN2 1.0	k an sil_phone an sil_phone an sil_phone an an
+XIE1 1.0	c j E ? E
+PO0 1.0	c O sil_phone O sil_phone O sil_phone O sil_phone O
+ZOU1 1.0	c oU^
+YONG0 1.0	j UN
+GAN3 1.0	c an
+TOU1 1.0	c oU^ u
+KUN3 1.0	c @n
+RAN1 1.0	r\' an n
+GONG0 1.0	c UN
+YUAN3 1.0	j w an sil_phone an n
+LIN1 1.0	c in n
+MOU0 1.0	m oU^ u
+PEI0 1.0	c eI^ i
+GUANG1 1.0	k w AN N
+YIN4 1.0	in sil_phone in sil_phone in sil_phone in
+CENG0 1.0	c 7N sil_phone 7N
+SHI1 1.0	c 1 ? 1
+NIN1 1.0	n in n
+BA0 1.0	c a r\'
+KOU0 1.0	k oU^
+QIU1 1.0	c j oU^ u
+A2 1.0	a ? a ? a sil_phone a sil_phone a sil_phone a sil_phone a sil_phone a
+ZHAN1 1.0	c an
+LUN0 1.0	l w @n sil_phone w @n n
+SIAO1 1.0	c j ? AU^ u
+CHUANG0 1.0	c w AN sil_phone AN
+HUAI1 1.0	c w aI^ sil_phone aI^ i
+CHAI2 1.0	c aI^ i
+CENG1 1.0	c 7N sil_phone 7N N
+PIN1 1.0	c iN N
+SUN0 1.0	c w @n
+SHANG1 1.0	c AN sil_phone AN N
+HUAI2 1.0	x w aI^ i
+YAN2 1.0	j an n
+GANG0 1.0	k AN N
+ZHONG3 1.0	c UN sil_phone UN sil_phone UN sil_phone UN
+CHANG2 1.0	c AN sil_phone AN N
+NUEI0 1.0	n w eI^ i
+E2 1.0	7 ? 7
+CHOU1 1.0	c oU^ sil_phone oU^
+QU0 1.0	c y
+ZHRI0 1.0	c i
+SUI1 1.0	c w
+SU0 1.0	c u
+E3 1.0	O sil_phone O
+JING0 1.0	c iN N
+ZONG0 1.0	c UN N
+LAO2 1.0	l AU^
+GO0 1.0	k O
+MAN0 1.0	m an n
+LEI2 1.0	eI^ sil_phone eI^ ? eI^ sil_phone eI^ sil_phone eI^ sil_phone eI^ sil_phone eI^ i
+DENG0 1.0	c 7N N
+XIONG0 1.0	c j UN
+YONG1 1.0	j UN sil_phone UN ? UN sil_phone UN N
+LIANG0 1.0	l AN N
+CHAO0 1.0	c AU^ u
+YUN3 1.0	j yn n
+DE0 1.0	c 7
+JIAN8 1.0	c j ? E
+PAN1 1.0	c an
+XU1 1.0	c u
+PAO0 1.0	c AU^ u
+CEN0 1.0	c @n n
+PENG0 1.0	c 7N
+REN1 1.0	r\' @n
+CAO0 1.0	c AU^ u
+LONG0 1.0	l UN N
+QI0 1.0	c i sil_phone i
+ROU0 1.0	r\' oU^
+DUAN0 1.0	c w an n sil_phone an n
+HOU4 1.0	c oU^ N
+MO0 1.0	m @
+FEN2 1.0	f @n n
+QI1 1.0	c iN N
+GUANG2 1.0	k w a sil_phone AN sil_phone AN
+HUANG0 1.0	x w AN
+LAI2 1.0	l aI^ sil_phone aI^ ? aI^ i
+JIN4 1.0	c in sil_phone in sil_phone in n
+FEI0 1.0	f eI^ i
+XIAN3 1.0	c j En sil_phone E ? E sil_phone E sil_phone E sil_phone E sil_phone E ? E
+BIAO1 1.0	c j AU^ u
+PING0 1.0	c iN N
+LIN2 1.0	l iN N
+NA2 1.0	n a
+MA0 1.0	m a
+RI1 1.0	r\' 1 i
+MONG0 1.0	m 7N N
+TENG0 1.0	c 7N sil_phone 7N
+MIAN0 1.0	m j En
+SUE0 1.0	c H E
+CHRU0 1.0	c r\' y
+MAN1 1.0	m an
+DUI0 1.0	c w eI^ i
+ZI3 1.0	c i sil_phone i sil_phone i sil_phone i
+JIAI0 1.0	c j aI^ i
+RI2 1.0	r\' i sil_phone i
+BEN0 1.0	c @n
+MAO1 1.0	m AU^ sil_phone AU^
+LI0 1.0	l i sil_phone i
+PEN0 1.0	c @n n
+BI0 1.0	c i
+SUN1 1.0	c w @n n
+BAN0 1.0	c AN
+JIN5 1.0	c i N
+BAN1 1.0	c an
+KANG0 1.0	c AN sil_phone AN N
+FEN3 1.0	f @n
+ZHV1 1.0	c 1
+XIANG0 1.0	c j AN ? AN
+TAN1 1.0	c an
+LAO3 1.0	l AU^ sil_phone AU^ sil_phone AU^ sil_phone AU^ sil_phone AU^ sil_phone AU^ sil_phone AU^ sil_phone AU^ sil_phone AU^ sil_phone AU^ sil_phone AU^ sil_phone AU^
+LIN3 1.0	l in n
+MIAO1 1.0	m j AU^ u
+XI2 1.0	c 1
+BE0 1.0	c @
+HUANG1 1.0	x w AN N
+YONG2 1.0	j UN sil_phone UN sil_phone UN sil_phone UN N
+BANG0 1.0	c AN N
+LAI3 1.0	l aI^ i
+CIN0 1.0	c in n
+WO0 1.0	N O
+YIN5 1.0	in n
+JI0 1.0	i
+NEN0 1.0	n 7N sil_phone 7N
+KONG3 1.0	c UN N
+FENG2 1.0	f @n
+BAI0 1.0	c aI^ sil_phone aI^
+BAI1 1.0	c aI^ sil_phone aI^ ? aI^ sil_phone aI^ i
+DONG1 1.0	c UN
+TIN2 1.0	c i sil_phone in n
+XING1 1.0	c iN N
+TOU2 1.0	c oU^ sil_phone oU^ ? oU^
+DIAN1 1.0	c j @n
+EN0 1.0	@n
+AN1 1.0	an n
+SHUI2 1.0	c w eI^ sil_phone eI^ i
+SIANG0 1.0	c j ? AN
+ZA0 1.0	c a
+MIN1 1.0	m in N
+CEN1 1.0	c @n
+GAN4 1.0	k an sil_phone an sil_phone an sil_phone an
+CAI1 1.0	c aI^ i
+YONG3 1.0	j UN N
+GEN0 1.0	k @n n
+LUEI1 1.0	l w eI^ sil_phone eI^ i
+DUAN1 1.0	n
+TIN3 1.0	c in N
+FI1 1.0	f i
+WEN1 1.0	w @n n
+GUI1 1.0	k w eI^ sil_phone eI^ sil_phone eI^ sil_phone eI^ sil_phone eI^ sil_phone eI^
+YOU2 1.0	j sil_phone oU^ u
+DI0 1.0	c 7
+SAI0 1.0	c aI^ i
+QIN1 1.0	c in n
+CAI2 1.0	c aI^
+WAN0 1.0	w an sil_phone an
+XIAN4 1.0	c j ? En ? En n
+JIANG1 1.0	c j AN
+HUA4 1.0	c w a
+LU0 1.0	l u
+SIAO2 1.0	c j AU^
+NE1 1.0	n 7 ? 7 i
+YUAN4 1.0	j H an sil_phone an
+LING0 1.0	l iN N
+MIN2 1.0	m in n
+CHOU2 1.0	c oU^ sil_phone oU^ u
+TUN1 1.0	c w eI^ i
+LIAN4 1.0	l j En sil_phone En n
+AO0 1.0	AU^ u
+YI2 1.0	i sil_phone i
+JIU1 1.0	j j oU^ u
+BAI2 1.0	c aI^
+LANG2 1.0	sil_phone AN
+CHOU3 1.0	c oU^ u
+DU0 1.0	c u sil_phone u
+DE1 1.0	c @
+KO0 1.0	c O
+ZUI0 1.0	c w eI^ sil_phone eI^ i
+ZENG0 1.0	c 7N N
+LIN4 1.0	l in sil_phone in sil_phone in sil_phone in
+QIAN1 1.0	c j sil_phone En
+WA1 1.0	w a 7
+NIANG2 1.0	n j AN N
+JIU2 1.0	c j oU^ u
+SIAN0 1.0	c j En n
+XIAO1 1.0	c j AU^ u
+XIAI0 1.0	c j aI^ i
+ZI4 1.0	c M
+NAO0 1.0	n AU^ u
+QIANG0 1.0	c j AN N
+ZHUAN2 1.0	c w an sil_phone an n
+DEN0 1.0	c @n N
+DAI1 1.0	c aI^
+ZHUO0 1.0	c 7
+KOU1 1.0	c oU^
+YAN3 1.0	c an n
+SHEN3 1.0	c En n
+KU0 1.0	c u
+QU1 1.0	c u
+JIN6 1.0	c iN
+GAO1 1.0	c AU^
+SHRU1 1.0	c r\' y
+FANG1 1.0	f AN N
+LONG1 1.0	l u UN N
+BEI1 1.0	c eI^ i
+JUAN2 1.0	c w an n
+QIN2 1.0	c in
+A3 1.0	a sil_phone a
+CAN0 1.0	c an n
+E4 1.0	a
+CHU1 1.0	c u
+ME1 1.0	m 7
+BA1 1.0	c a
+JIANG2 1.0	c j a AN N
+ZHRI1 1.0	c 1
+BEI2 1.0	c eI^
+LAO4 1.0	c AU^ sil_phone AU^ ? AU^ N
+CHRV0 1.0	c y
+YIN6 1.0	j in n
+NENG2 1.0	n 7N sil_phone 7N sil_phone 7N N
+ZHRU1 1.0	c r\' u
+KUN4 1.0	c w @n sil_phone @n
+ZHAI0 1.0	c aI^ i
+LAO5 1.0	c AU^
+FAN0 1.0	f an n
+BAI3 1.0	c aI^ i
+KOU2 1.0	c oU^ u
+ZHANG3 1.0	c a AN N
+E5 1.0	7 sil_phone 7
+GUAN2 1.0	k w an
+YAO3 1.0	j AU^ sil_phone AU^
+KO1 1.0	c 7
+RUI0 1.0	r\' w ? eI^
+BEN1 1.0	c @n n
+HUA5 1.0	x w ? a ? a
+LUN1 1.0	l w @n sil_phone @n n
+FEN4 1.0	f @n sil_phone @n sil_phone @n n
+BA2 1.0	c a sil_phone a
+XIN2 1.0	c in n
+HUA6 1.0	x w a ? a sil_phone a
+QIE0 1.0	c j E
+GUI2 1.0	c w eI^
+NGAI0 1.0	N aI^ i
+FU0 1.0	f u
+QUE0 1.0	c H
+SHA1 1.0	c a
+YOAN0 1.0	j O an n
+BIN3 1.0	c in n
+XIONG1 1.0	c j UN N
+YAN4 1.0	j En
+WA2 1.0	w a
+HEN0 1.0	x @n n
+YUAN5 1.0	j H an n
+YAN5 1.0	j @n
+AO1 1.0	AU^
+YAO4 1.0	j AU^ sil_phone AU^ sil_phone AU^ sil_phone AU^
+HAI2 1.0	x aI^
+MIAN1 1.0	m j En sil_phone j sil_phone j sil_phone j sil_phone j sil_phone j En n
+ROU1 1.0	r\' oU^ u
+DAO0 1.0	c AU^ ? AU^ sil_phone AU^ sil_phone AU^ ? AU^
+YA0 1.0	c a
+MAN2 1.0	m an sil_phone an sil_phone an
+JIE1 1.0	c j E ? E
+HUA7 1.0	x w a sil_phone a sil_phone a
+QUN0 1.0	c yn n
+XIAN5 1.0	c j an n
+MIOU0 1.0	m j oU^ u
+CI0 1.0	c i
+YAN6 1.0	j ? En
+CHUANG1 1.0	c w AN N
+SHI2 1.0	c M
+QVO1 1.0	c H O i
+KEN0 1.0	c @n n
+LUN2 1.0	l w @n
+GAN5 1.0	k an
+LAO6 1.0	l AU^ sil_phone AU^ sil_phone AU^ sil_phone AU^ sil_phone AU^ sil_phone AU^ sil_phone AU^ sil_phone AU^ sil_phone AU^ sil_phone AU^
+DI1 1.0	c @
+HUN0 1.0	x w @n
+JIN7 1.0	c in sil_phone in n
+GU1 1.0	c u
+ER1 1.0	@ ? @ r\'
+YOU3 1.0	j oU^ sil_phone oU^
+ZHONG4 1.0	c UN sil_phone UN N
+LIU1 1.0	l j oU^ u
+KAI1 1.0	c aI^
+QING0 1.0	c iN N
+XIAI1 1.0	c j E
+SHUAN0 1.0	c w an n
+ZHV2 1.0	c y sil_phone y
+ZHU0 1.0	c u
+GAO2 1.0	k AU^
+ZHANG4 1.0	c AN
+JIAO0 1.0	c j AU^ u
+TAO1 1.0	c AU^ u
+SI0 1.0	c i
+CHANG3 1.0	c AN
+RI3 1.0	l i
+NAI0 1.0	n aI^
+XIN3 1.0	c in sil_phone in
+KUANG2 1.0	k w AN
+NENG3 1.0	n 7N sil_phone 7N
+QI2 1.0	c i ? i
+QIN3 1.0	c in sil_phone in
+LAO7 1.0	l AU^ u
+FONG0 1.0	f 7N N
+YU2 1.0	y sil_phone y
+SHI3 1.0	c 1
+YAO5 1.0	j AU^ sil_phone AU^ u
+ZHUI0 1.0	c w eI^ i
+DAN0 1.0	c an
+MAN3 1.0	m an sil_phone an
+HAN0 1.0	x an n
+YE1 1.0	j E
+HUI0 1.0	x w eI^
+MU1 1.0	m u
+QIAN2 1.0	c j En sil_phone En
+YI3 1.0	j y
+JIN8 1.0	c in n
+ZUE0 1.0	c H E
+SUI2 1.0	c eI^
+YIN7 1.0	in sil_phone in n
+NUAN0 1.0	n w an
+XIAI2 1.0	c j aI^ ? aI^ ? aI^ i
+GOU1 1.0	k oU^ u
+ZHUANG1 1.0	c w AN N
+XING2 1.0	c iN
+SHU0 1.0	c u
+WO1 1.0	w O
+YA1 1.0	j a sil_phone a sil_phone a ? a ? a ? a
+XIE2 1.0	c j E
+YIN8 1.0	in sil_phone in sil_phone in
+GE2 1.0	k 7
+SHUI3 1.0	c w eI^ sil_phone eI^ ? eI^ ? eI^
+NGO1 1.0	N O
+LIE0 1.0	l j E
+DE2 1.0	c 7 ? 7
+NUAN1 1.0	n w an n
+FENG3 1.0	f
+MEN2 1.0	m @n sil_phone @n n
+HU1 1.0	n u
+BAI4 1.0	c 7
+CU0 1.0	c u sil_phone u
+TA1 1.0	c a ? a
+YAO6 1.0	j AU^ sil_phone AU^ sil_phone AU^
+YIN9 1.0	in
+SHUI4 1.0	c w eI^ i
+PAO1 1.0	c AU^
+LIU2 1.0	l j oU^
+HAO3 1.0	x AU^
+DIE1 1.0	c j E
+FEI1 1.0	f eI^
+QIN4 1.0	c in sil_phone in sil_phone in n
+YAN7 1.0	j @n n
+LIAO2 1.0	l y AU^ u
+MIAN2 1.0	m j En n
+TIAN1 1.0	c j En n
+FENG4 1.0	f 7N
+CHAO1 1.0	c AU^
+MONG1 1.0	m 7N
+E6 1.0	7 sil_phone 7 sil_phone 7 sil_phone 7 sil_phone 7 sil_phone 7
+QING1 1.0	c iN
+CA0 1.0	c a
+XIU1 1.0	c j oU^ u
+YAN8 1.0	j an
+LIAN5 1.0	l j @n n
+GAN6 1.0	k an sil_phone an sil_phone an sil_phone an n
+SONG0 1.0	c UN N
+SHUAI0 1.0	c w aI^ i
+QIA0 1.0	c j a sil_phone a sil_phone a
+CUN2 1.0	c w @n
+SAN0 1.0	c an sil_phone an n
+QIA1 1.0	c j a sil_phone a ? a ? a sil_phone a
+SHEN4 1.0	c @n sil_phone @n
+ZEN2 1.0	c @n n
+XIN4 1.0	c in sil_phone in n
+YOU4 1.0	y oU^
+NING1 1.0	n iN
+NAI1 1.0	n aI^ i
+GO1 1.0	c O
+TUI0 1.0	c w eI^
+SHOU1 1.0	c oU^ u
+LV0 1.0	l u
+SHOU2 1.0	c oU^ sil_phone oU^
+KONG4 1.0	c UN sil_phone UN N
+QWAN1 1.0	c w an n
+YUAN6 1.0	j w En
+E7 1.0	9
+HEN1 1.0	x @n
+CHOU4 1.0	c oU^ sil_phone oU^ sil_phone oU^ sil_phone oU^ u
+DUAN2 1.0	c w an n
+FONG1 1.0	f UN N
+XUE2 1.0	c H 9 ? 9
+KUAN0 1.0	c w an
+DIAO1 1.0	c j AU^ N
+ZHE1 1.0	c 7 ? 7
+NAN1 1.0	n an sil_phone an
+HAI3 1.0	c aI^
+NE2 1.0	n E
+QIE1 1.0	c E
+KAN0 1.0	c an
+LUEI2 1.0	l w eI^
+QUE1 1.0	c H E
+BO0 1.0	c O
+KUN5 1.0	c w @n sil_phone @n n
+CIN1 1.0	c in sil_phone in sil_phone in
+XUAN0 1.0	c w an n
+DANG3 1.0	c AN
+CHU2 1.0	c u sil_phone u sil_phone u
+ZENG1 1.0	c 7N
+XIANG1 1.0	c j AN N
+KONG5 1.0	c UN sil_phone UN sil_phone UN
+GUAI0 1.0	c w aI^ i
+YU3 1.0	j y
+CHAI3 1.0	c aI^ sil_phone aI^
+CHU3 1.0	c u sil_phone u
+SI1 1.0	c M
+DEN1 1.0	c @n sil_phone
+MONG2 1.0	m UN sil_phone UN N
+E8 1.0	n 7
+XIN5 1.0	c in
+SE0 1.0	c 7 ? 7 sil_phone 7
+MAN4 1.0	m an sil_phone an sil_phone an sil_phone an
+GUO3 1.0	k w o
+DAN1 1.0	c an n
+YUAN7 1.0	j H u an n
+TU1 1.0	c u sil_phone u
+E9 1.0	7 sil_phone 7 ? 7
+GEN1 1.0	c @n
+DUO0 1.0	c w O
+NUO2 1.0	n w O
+YIN10 1.0	j iN N
+HUAI3 1.0	x w aI^
+HU2 1.0	x u
+BIAN1 1.0	c j En n
+ZHAO1 1.0	c AU^ u
+TUO0 1.0	c w O
+HUA8 1.0	x w a r\'
+LUN3 1.0	l w @n n
+KOU3 1.0	k oU^ u
+GONG1 1.0	k UN
+GE3 1.0	k 7 sil_phone 7
+YWAN2 1.0	j w an sil_phone an
+PEN1 1.0	c @n
+CHUAN0 1.0	c w an
+SHOU3 1.0	c oU^ ? oU^ ? oU^
+TIN4 1.0	c in n
+WAN1 1.0	w an sil_phone an N
+CHEN2 1.0	c @n sil_phone @n ? @n n
+LIAO3 1.0	c j AU^ u
+ZHUN0 1.0	c w @n n
+DAI2 1.0	c aI^ sil_phone aI^ i
+ZUO0 1.0	c w O sil_phone O
+A4 1.0	r\' a sil_phone a sil_phone a sil_phone a ? a
+WAN2 1.0	w an
+ZI5 1.0	c a sil_phone
+LU1 1.0	l u sil_phone u
+ZAO1 1.0	c AU^ u
+BING1 1.0	c iN
+YAO7 1.0	j AU^
+MENG2 1.0	m 7N sil_phone 7N N
+PIN2 1.0	c in n
+A5 1.0	a ? a ? a
+DAO1 1.0	c AU^ sil_phone AU^
+DANG4 1.0	c AN sil_phone AN N
+E10 1.0	w 7
+LONG2 1.0	l UN
+WAN3 1.0	w an sil_phone an ? an ? an sil_phone an sil_phone an sil_phone an sil_phone an sil_phone an
+LAN1 1.0	l an n
+KONG6 1.0	c UN sil_phone UN sil_phone UN sil_phone UN N
+WEI0 1.0	w eI^
+YUN4 1.0	j yn sil_phone yn sil_phone yn sil_phone yn sil_phone yn
+JIA0 1.0	c j a sil_phone a
+ZHUO1 1.0	c w O
+BE1 1.0	c 7
+GAO3 1.0	k AU^ u
+SHA2 1.0	c a sil_phone a sil_phone a sil_phone a sil_phone a sil_phone a sil_phone a
+KUI0 1.0	c w eI^ i
+JUN3 1.0	c yn
+MEI1 1.0	m eI^
+YOU5 1.0	j oU^ u
+JIAI1 1.0	c j E
+BI1 1.0	c i sil_phone i sil_phone i
+XIANG2 1.0	x j AN N
+JIANG3 1.0	c j AN N
+GUAN3 1.0	c w an n
+TING0 1.0	c iN
+QIONG0 1.0	c j UN N
+DAI3 1.0	c aI^ i
+DEN2 1.0	c @n
+HAI4 1.0	x aI^ sil_phone aI^ sil_phone aI^ sil_phone aI^ sil_phone aI^ sil_phone aI^ i
+LIANG1 1.0	l j AN N
+NIAO0 1.0	n j AU^
+WU1 1.0	u sil_phone u
+FEN5 1.0	c @n
+SI2 1.0	c M sil_phone M
+BA3 1.0	c a ? a
+TOU3 1.0	c oU^ sil_phone oU^
+JIE2 1.0	x j E aI^
+FANG2 1.0	f AN
+HAO4 1.0	f AU^ sil_phone AU^ u
+YI4 1.0	i
+QIAO0 1.0	c j AU^
+RI4 1.0	r\' M
+TIN5 1.0	c in
+CU1 1.0	c u
+SHOU4 1.0	c oU^ N
+ZHEN1 1.0	c @n n
+ZHI1 1.0	c 1
+SHI4 1.0	c 1 sil_phone 1 ? 1 sil_phone 1
+JIN9 1.0	c in ? in n
+YUAN8 1.0	j H En
+MO1 1.0	m O
+QI3 1.0	c 1
+CHUN0 1.0	c u @n n
+TAI2 1.0	c aI^ i
+NEN1 1.0	n @n n
+YING2 1.0	j iN N
+LIAO4 1.0	l AU^
+JIU3 1.0	c j oU^ sil_phone oU^
+CHEN3 1.0	c @n N
+ZHU1 1.0	c y
+DI2 1.0	c i
+RE1 1.0	r\' @
+ZAO2 1.0	c AU^
+NAO1 1.0	n AU^
+HUA9 1.0	c @n
+WU2 1.0	u
+BU2 1.0	c u ? u
+SIANG1 1.0	c j AN
+HUA10 1.0	x w a sil_phone a
+ZHONG5 1.0	c UN N
+YANG0 1.0	j AN N
+DIAN2 1.0	c j En n
+BAI5 1.0	c a
+FONG2 1.0	f @n n
+LUAN0 1.0	l w an n
+TENG1 1.0	c 7N sil_phone 7N N
+RI5 1.0	c i
+YE2 1.0	j 7
+MING1 1.0	m iN sil_phone iN
+WAI1 1.0	w aI^
+JIAI2 1.0	c j aI^ sil_phone aI^ i
+LOU0 1.0	l oU^ u
+GAO4 1.0	k AU^ ? AU^ u
+SI3 1.0	x M
+CHRU1 1.0	c r\' u
+GUN0 1.0	k w @n n
+BIAN2 1.0	c j En sil_phone En n
+HUAI4 1.0	x w a ? aI^ i
+KANG1 1.0	c AN N
+QIAO1 1.0	c j AU^ u
+CENG2 1.0	c 7N N
+LAO8 1.0	l AU^ sil_phone AU^ sil_phone AU^ sil_phone AU^ sil_phone AU^
+TOU4 1.0	c oU^
+YU4 1.0	y
+HA0 1.0	x a
+WAI2 1.0	w aI^ i
+CI1 1.0	c M
+JING1 1.0	c iN ? iN ? iN N
+CHVN0 1.0	c yn n
+NV0 1.0	n y
+LI1 1.0	l i
+SUO0 1.0	c w O sil_phone O
+COU0 1.0	c oU^
+LIAO5 1.0	l j AU^ u
+QUAN0 1.0	c w an n
+CHUAN1 1.0	c w an n
+SUAN0 1.0	c w an n
+TONG0 1.0	c UN N
+GUO4 1.0	k w ? O
+BU3 1.0	c u
+MEN3 1.0	m @n
+DENG1 1.0	c 7N
+NEN2 1.0	n @n sil_phone @n sil_phone @n
+LAO9 1.0	l AU^ sil_phone AU^ u
+KUA0 1.0	c w a
+YA2 1.0	j a
+QIONG1 1.0	c j UN
+FA0 1.0	f a
+YU5 1.0	j y sil_phone y sil_phone y sil_phone y
+HUO0 1.0	x O
+TOU5 1.0	c oU^ sil_phone oU^ sil_phone oU^ u
+ONG0 1.0	UN O x O sil_phone O sil_phone O ? O sil_phone O sil_phone O
+NAN2 1.0	n an n
+YIN11 1.0	j in sil_phone in sil_phone in sil_phone in n
+ZHOU1 1.0	c oU^
+WAN4 1.0	w an n
+FAN1 1.0	c an n
+LIU3 1.0	l j oU^ sil_phone oU^
+ZHUN1 1.0	c w @n
+LV1 1.0	l y
+NI0 1.0	n i
+DIN1 1.0	c in
+NGO2 1.0	N w O
+YWAN3 1.0	j w an
+TAN2 1.0	c an n
+LUN4 1.0	l w @n sil_phone @n sil_phone @n n
+LAO10 1.0	l AU^ sil_phone AU^ sil_phone AU^ sil_phone AU^
+SANG0 1.0	c AN N
+DU1 1.0	c u
+CING0 1.0	c iN
+SI4 1.0	c M ?
+LENG0 1.0	l 7N N
+DIAN3 1.0	c j
+SAO0 1.0	c AU^ u
+PO1 1.0	c O sil_phone O
+BIN4 1.0	c iN sil_phone iN
+SUAN1 1.0	c w an
+KUANG3 1.0	c w AN N
+SHUN0 1.0	c w @n n
+YUE2 1.0	j H E sil_phone E
+FONG3 1.0	f UN
+FU1 1.0	c u
+YIN12 1.0	y in n
+CHA1 1.0	c a
+FEN6 1.0	f En n
+GUA1 1.0	c w a
+HAI5 1.0	x aI^ i
+QIAN3 1.0	c j En
+YIN13 1.0	in sil_phone in
+NU2 1.0	n u sil_phone u
+DAO2 1.0	c AU^ u
+ZUI1 1.0	c w eI^ i
+XIN6 1.0	c iN sil_phone iN
+LIAO6 1.0	l AU^ u
+ME2 1.0	m O
+QUN1 1.0	c yn
+DA0 1.0	c a sil_phone a
+JUN4 1.0	c yn sil_phone yn
+WE0 1.0	w 7
+SUN2 1.0	c w En n
+BU4 1.0	c u sil_phone u sil_phone u sil_phone u sil_phone u
+CIAN0 1.0	c j En n
+BAO1 1.0	c AU^
+WANG2 1.0	w AN sil_phone AN
+HE0 1.0	x 7
+LA0 1.0	l a
+NENG4 1.0	n 7N N sil_phone n 7N
+GU2 1.0	k UN N
+BENG0 1.0	c 7N N
+QI4 1.0	c i
+ZHE2 1.0	c 7
+GO2 1.0	k w O
+PA0 1.0	c a
+YIN14 1.0	j in sil_phone in sil_phone in sil_phone in sil_phone in sil_phone in sil_phone in sil_phone in sil_phone in n
+NGAI1 1.0	N aI^
+QI5 1.0	c 1 sil_phone 1
+BIE1 1.0	c j ? E
+YU6 1.0	j y ? y sil_phone y
+ZHAO2 1.0	c AU^ O
+HUANG2 1.0	x AN
+WA3 1.0	w a 7 i
+HO3 1.0	x O a
+JIA1 1.0	c j a sil_phone a sil_phone a
+FU2 1.0	f u sil_phone u sil_phone u
+LIANG2 1.0	l j AN
+YIN15 1.0	c in
+KAN1 1.0	c an n
+ZUN1 1.0	c w @n n
+YI5 1.0	j i
+CHENG0 1.0	c 7N N
+JIAI3 1.0	c j aI^
+GOU2 1.0	c oU^
+MO2 1.0	m O sil_phone O
+GONG2 1.0	k UN N
+PO2 1.0	c O
+MOU1 1.0	m oU^
+DEN3 1.0	c @n n
+YUE3 1.0	j H sil_phone H 9
+SIANG2 1.0	c j AN N
+MAO2 1.0	m AU^
+HOU5 1.0	c oU^
+MAI1 1.0	m aI^
+JI1 1.0	c i sil_phone i ? i sil_phone i sil_phone i ? i
+CHONG0 1.0	c UN N
+MIAO2 1.0	m j AU^ sil_phone AU^
+JING2 1.0	c in n
+DAO3 1.0	c AU^ sil_phone AU^ u
+YANG1 1.0	j AN
+YUAN9 1.0	j H En n
+DAO4 1.0	c AU^ sil_phone AU^ sil_phone AU^
+JIU4 1.0	c j oU^ sil_phone oU^ sil_phone oU^ sil_phone oU^ sil_phone oU^
+XIANG3 1.0	c j AN
+GONG3 1.0	c UN N
+NIANG3 1.0	n j AN sil_phone AN ? AN sil_phone AN sil_phone AN ? AN ? AN N
+AI0 1.0	aI^ i
+MENG3 1.0	m 7N
+RI6 1.0	r\' i
+SAN1 1.0	c an
+TUI1 1.0	c w eI^ i
+BAN2 1.0	c an n
+TUAN1 1.0	c w an
+HUN1 1.0	x w @n n
+ZHONG6 1.0	c UN ? UN N
+HONG1 1.0	c UN
+GEN2 1.0	k @n
+SE1 1.0	c 7 sil_phone 7 sil_phone 7
+WANG3 1.0	w AN sil_phone AN N
+SHANG2 1.0	c AN sil_phone AN
+ZHANG5 1.0	c an
+E11 1.0	7 sil_phone 7 sil_phone 7
+RV0 1.0	r\' y
+SAN2 1.0	c an sil_phone an sil_phone an n
+QIN5 1.0	c in N
+LUN5 1.0	l @n
+CENG3 1.0	c 7N
+YIN16 1.0	j in sil_phone in sil_phone in sil_phone in
+RUO0 1.0	r\' w O
+HAO5 1.0	c AU^ u
+FU3 1.0	f u ? u
+CHUANG2 1.0	c AN
+DUI1 1.0	c w eI^
+JIAO1 1.0	c j AU^
+XIAO2 1.0	c j AU^
+NGOU0 1.0	m oU^ u
+LIN5 1.0	l iN
+NGAN1 1.0	N an n
+A6 1.0	? a
+DI3 1.0	c 1
+JIAN9 1.0	c j @n n
+FANG3 1.0	c AN
+WANG4 1.0	w an
+LIAO7 1.0	l j AU^
+DE3 1.0	c E
+MIN3 1.0	m in sil_phone in n
+NAN3 1.0	n a ? an n
+MONG3 1.0	m UN
+FU4 1.0	f u sil_phone u
+JUN5 1.0	c yn sil_phone yn sil_phone yn
+HAI6 1.0	x w aI^
+ZHUI1 1.0	c w eI^
+NEN3 1.0	n @n
+PAI2 1.0	c aI^ i
+NENG5 1.0	n 7N N
+JIAN10 1.0	c j En sil_phone En sil_phone En sil_phone En n
+MIN4 1.0	m in sil_phone in
+GUAI1 1.0	k w aI^
+CENG4 1.0	c 7N ? 7N N
+QIAN4 1.0	c j ? En
+GUI3 1.0	k w eI^ i
+GAI0 1.0	k aI^
+HUO1 1.0	x w O
+TIN6 1.0	c iN N
+GUI4 1.0	k w eI^
+SHUI5 1.0	c eI^ i
+HUI1 1.0	x w eI^ i
+LING1 1.0	l iN
+YONG4 1.0	j UN sil_phone UN
+MIN5 1.0	m in sil_phone in ? in sil_phone in n
+PANG0 1.0	c AN N
+YIN17 1.0	j in ? in ? in sil_phone in n
+MIE0 1.0	m j E
+CHAN1 1.0	c an n
+HUAI5 1.0	c w aI^ i
+HAI7 1.0	x aI^ sil_phone aI^ i
+ZE1 1.0	c 7 x 7
+PANG1 1.0	c AN
+ZAI1 1.0	c aI^
+XIANG4 1.0	c j AU^ N
+SHU1 1.0	c r\' u
+XIA0 1.0	c j a
+ZHUN2 1.0	c @n
+QUE2 1.0	c H 9
+CHI0 1.0	c 1
+ZHEN2 1.0	c @n ? @n ? @n n
+SHI5 1.0	c i
+XIE3 1.0	c j ? E
+YING3 1.0	c iN sil_phone iN sil_phone iN sil_phone iN sil_phone iN
+A7 1.0	j 7
+RU0 1.0	r\' u
+MONG4 1.0	m UN N
+NIAN1 1.0	n j En
+SUI3 1.0	c w eI^ i
+DAO5 1.0	c AU^
+CHANG4 1.0	c AN sil_phone AN
+QIE2 1.0	c j E sil_phone E
+CHUANG3 1.0	c w AN
+SHEN5 1.0	c 7N N
+NE3 1.0	n 9
+PING1 1.0	c iN
+WEI1 1.0	w eI^ i
+SHRI0 1.0	c 1
+BING2 1.0	c iN sil_phone iN sil_phone iN
+GUAN4 1.0	k w a AN N
+SHENG1 1.0	c 7N N
+A8 1.0	u
+SHAO0 1.0	c AU^ u
+YUAN10 1.0	j w an sil_phone an
+JI2 1.0	1
+DA1 1.0	c a
+CIU0 1.0	c j oU^ u
+SHANG3 1.0	c AN
+JI3 1.0	j i
+FANG4 1.0	f AN sil_phone AN
+RE2 1.0	7
+CUI0 1.0	c w i
+HONG2 1.0	x UN
+PONG0 1.0	c UN N
+LUO0 1.0	l w O
+SE2 1.0	c 7
+JIAN11 1.0	c j En sil_phone En sil_phone En sil_phone En
+REN2 1.0	r\' @n n
+LI2 1.0	l i ? i
+ZHEN3 1.0	c @n sil_phone @n
+GO3 1.0	k O sil_phone O
+XING3 1.0	x iN N
+SAN3 1.0	c an n
+ZAN0 1.0	c an
+KUA1 1.0	k w a
+PENG1 1.0	c 7N N
+DUAN3 1.0	c w an
+YOU6 1.0	j oU^
+SUO1 1.0	c w O
+JIA2 1.0	c j a
+BU5 1.0	c u sil_phone u
+JING3 1.0	c iN
+GUI5 1.0	c w eI^ i
+JIAO2 1.0	c AU^
+GUAN5 1.0	c w an
+ZAI2 1.0	c aI^ sil_phone aI^ i
+TONG1 1.0	c UN
+ZHUO2 1.0	x AU^
+NAI2 1.0	N aI^ i
+JI4 1.0	c i
+YI6 1.0	j i sil_phone i
+YUE4 1.0	j H 9
+ZHEN4 1.0	c @n n sil_phone @n n sil_phone @n ? @n sil_phone @n sil_phone @n sil_phone @n sil_phone @n n
+ZU0 1.0	c u
+GAI1 1.0	k aI^ i
+BIN5 1.0	c in sil_phone in
+FEN7 1.0	f @n sil_phone @n
+TIAN2 1.0	c j En
+ZUO1 1.0	c w O
+CHUANG4 1.0	c u AN sil_phone AN
+ZAI3 1.0	c aI^ sil_phone
+YUAN11 1.0	j y n
+LUAN1 1.0	c w an n
+TING1 1.0	c iN N
+FAN2 1.0	f an
+XUE3 1.0	c H E
+SHE0 1.0	c 7
+PONG1 1.0	c UN
+DE4 1.0	c i
+SIU1 1.0	c j oU^ u
+WANG5 1.0	w AN N
+EN1 1.0	@n n
+CI2 1.0	c M sil_phone M
+HO4 1.0	x w O
+SI5 1.0	x i
+CHENG1 1.0	c 7N
+QIAN5 1.0	c j ? E
+CHAI4 1.0	c aI^ sil_phone sil_phone i
+ZHEN5 1.0	c @n
+YWAN4 1.0	j w an n
+DING1 1.0	c iN
+BAI6 1.0	c aI^ sil_phone aI^ i
+XIAI3 1.0	c j a aI^ i
+JIU5 1.0	c j oU^
+XUE4 1.0	c H
+TUN2 1.0	c w @n
+E12 1.0	@
+HOU6 1.0	x oU^
+TIE0 1.0	c j E
+SHV0 1.0	c y
+QUAN1 1.0	c H an
+DIN2 1.0	c in n
+DAN2 1.0	c a
+TOU6 1.0	c oU^ sil_phone oU^ u
+NUEI1 1.0	n w eI^
+SHEN6 1.0	c @n n
+HUA11 1.0	x w a
+RI7 1.0	r\' 1
