@@ -1,7 +1,11 @@
 # -*- coding: utf-8 -*-
-import os
+import sys, os
 
-import kaldi_alignment.srcPy.textgrid as tgp
+currentPath = os.path.dirname(__file__)
+utilsPath = os.path.join(currentPath, 'utils')
+sys.path.append(utilsPath)
+
+import neural_net.utils.textgrid as tgp
 
 
 def textGrid2WordList(textgrid_file, whichTier = 'pinyin', utf16 = True):
@@ -17,11 +21,11 @@ def textGrid2WordList(textgrid_file, whichTier = 'pinyin', utf16 = True):
     else:
         par_obj = tgp.TextGrid.load(textgrid_file)	#loading the object
 
-    tiers= tgp.TextGrid._find_tiers(par_obj)	#finding existing tiers		
-	
+    tiers = tgp.TextGrid._find_tiers(par_obj)	#finding existing tiers
+
     isTierFound = False
     for tier in tiers:
-        tierName= tier.tier_name().replace('.','')
+        tierName= tier.tier_name().replace('.', '')
         #iterating over tiers and selecting the one specified
         if tierName == whichTier:
             isTierFound = True
@@ -32,7 +36,7 @@ def textGrid2WordList(textgrid_file, whichTier = 'pinyin', utf16 = True):
                 beginTsAndWordList.append([float(line[0]), float(line[1]), line[2]])
 
     if not isTierFound:
-        print('Missing tier {1} in file {0}' .format(textgrid_file, whichTier))
+        print ('Missing tier {1} in file {0}' .format(textgrid_file, whichTier))
 
     return beginTsAndWordList, isTierFound
 
@@ -59,7 +63,6 @@ def line2WordList(line, entireWordList):
 
     return nestedWordList
 
-
 def wordListsParseByLines(entireLine, entireWordList):
     '''
     find the wordList for each line, cut the word list according to line
@@ -76,21 +79,18 @@ def wordListsParseByLines(entireLine, entireWordList):
 
     for line in entireLine:
         # asciiLine=line[2].encode("ascii", "replace")
-        asciiLine = line[2]
-        if len(asciiLine.replace(" ", "")):                                      # if line is not empty
+        if len(line[2].replace(" ", "")):                                      # if line is not empty
             numLines        += 1
             nestedWordList  = []
             wordList        = line2WordList(line, entireWordList)
             for word in wordList:
                 # asciiWord = word[2].encode("ascii", "replace")
-                asciiWord = word[2]
-                # if len(asciiWord.replace(" ","")):                              # if word is not empty
-                numWords += 1
-                nestedWordList.append(word)
+                if len(word[2].replace(" ", "")):                              # if word is not empty
+                    numWords += 1
+                    nestedWordList.append(word)
             nestedWordLists.append([line,nestedWordList])
 
     return nestedWordLists, numLines, numWords
-
 
 def syllableTextgridExtraction(textgrid_path, recording, tier0, tier1):
 
@@ -104,14 +104,14 @@ def syllableTextgridExtraction(textgrid_path, recording, tier0, tier1):
     nestedPhonemeList, element[0] - syllable, element[1] - a list containing the phoneme of the syllable
     '''
 
-    print(textgrid_path, recording)
-    textgrid_file   = os.path.join(textgrid_path, recording+'.TextGrid')
+    textgrid_file   = os.path.join(textgrid_path,recording+'.TextGrid')
 
-    syllableList, _    = textGrid2WordList(textgrid_file, whichTier=tier0)
-    phonemeList, _     = textGrid2WordList(textgrid_file, whichTier=tier1)
+    syllableList    = textGrid2WordList(textgrid_file, whichTier=tier0)
+    phonemeList     = textGrid2WordList(textgrid_file, whichTier=tier1)
 
     # parse syllables of groundtruth
     nestedPhonemeLists, numSyllables, numPhonemes   = wordListsParseByLines(syllableList, phonemeList)
 
     return nestedPhonemeLists, numSyllables, numPhonemes
+
 

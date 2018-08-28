@@ -4,12 +4,12 @@ Consider syllable repetition,
 if word appeared receptively, treat them as different word
 """
 
-import os
-import json
+# import os
+# import json
 from kaldi_alignment.srcPy.filePath import *
 from kaldi_alignment.srcPy.textgridParser import syllableTextgridExtraction
-from kaldi_alignment.srcPy.parseLang import collectLexicon
-from kaldi_alignment.srcPy.parseLang import organizeRepetition
+# from kaldi_alignment.srcPy.parseLang import collectLexicon
+# from kaldi_alignment.srcPy.parseLang import organizeRepetition
 
 
 def lexiconFinder(dict_lexicon_organized, syl, nestedPhonemeLists):
