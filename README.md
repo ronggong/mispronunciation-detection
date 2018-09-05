@@ -42,7 +42,7 @@ special pronunciation and jiantuanzi models. e.g., attention var can be `feedfor
 4. evaluation by `eval.py`
 
 ## Contact
-Rong Gong: rong.gong<at>upf.edu
+Rong Gong: rong.gong\<at\>upf.edu
 
 ## Code license
 GNU Affero General Public License 3.0
