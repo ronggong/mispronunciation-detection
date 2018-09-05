@@ -16,11 +16,11 @@ from neural_net.file_path import *
 
 if __name__ == '__main__':
 
-    cv_prod = "prod"
+    cv_prod = "cv"
     batch_size = 1
     input_shape = (batch_size, None, 80)
     patience = 15
-    attention = True
+    attention = "selfatt"
     conv = True
     dropout = 0.5
     epoch = 500
@@ -33,17 +33,8 @@ if __name__ == '__main__':
     with open(dict_special_negative, "rb") as f:
         feature_special_neg = pickle.load(f)
 
-    with open(dict_jianzi_positive, "rb") as f:
-        feature_jianzi_pos = pickle.load(f)
-
-    with open(dict_jianzi_negative, "rb") as f:
-        feature_jianzi_neg = pickle.load(f)
-
     X_special, y_special = combine_feature_label(dict_positive=feature_special_pos,
                                                  dict_negative=feature_special_neg)
-
-    X_jianzi, y_jianzi = combine_feature_label(dict_positive=feature_jianzi_pos,
-                                               dict_negative=feature_jianzi_neg)
 
     if cv_prod == "cv":
         list_loss = []

@@ -11,6 +11,8 @@ from neural_net.onsetSegmentEval.evaluation import segment_eval_helper
 from neural_net.onsetSegmentEval.evaluation import segmentEval
 from neural_net.onsetSegmentEval.evaluation import metrics
 from neural_net.training_scripts.attention import Attention
+from neural_net.training_scripts.models_RNN import RNN_model_definition
+from neural_net.plot_code import plot_spectro_att
 from kaldi_alignment.srcPy.textgridParser import syllableTextgridExtraction
 from keras.models import load_model
 
@@ -49,14 +51,13 @@ def special_jianzi_detection(full_path_textgrid,
                              sub_folder,
                              rn,
                              line_tier,
+                             model_special,
+                             model_jianzi,
+                             model_joint,
+                             scaler_joint,
                              f,
-                             ratio=0.1):
-
-    # load keras joint cnn model
-    model_joint = load_model(os.path.join(joint_cnn_model_path, 'jan_joint0.h5'))
-
-    # load log mel feature scaler
-    scaler_joint = pickle.load(open(os.path.join(joint_cnn_model_path, 'scaler_joint.pkl'), 'rb'), encoding='latin1')
+                             ratio=0.1,
+                             plot_jianzi_att=False):
 
     wav_file = os.path.join(full_path_wav, rn+".wav")
 
@@ -72,11 +73,6 @@ def special_jianzi_detection(full_path_textgrid,
 
     nestedSyllableClassLists, numLines, numSyllables = \
         syllableTextgridExtraction(full_path_textgrid, rn, line_tier, "specialClassTeacher")
-
-    model_special = load_model(filepath=filename_special_model,
-                               custom_objects={'Attention': Attention(return_attention=True)})
-    model_jianzi = load_model(filepath=filename_jianzi_model,
-                              custom_objects={'Attention': Attention(return_attention=True)})
 
     sum_num_detected_onset, sum_num_gt_onset, sum_num_correct_onset = 0, 0, 0
     sum_sample_correct, sum_sample_total = 0, 0
@@ -145,7 +141,6 @@ def special_jianzi_detection(full_path_textgrid,
         zero_adding = ''
         for jj in range(3 - len(str(ii))):
             zero_adding += '0'
-
         f.write(roletype + '_' + data_path + '_' + sub_folder + '_' + rn + '_' + zero_adding + str(ii) + ' ')
         ii_syl_boundary = 0
         for ii_syl, syl in enumerate(line[1]):
@@ -162,9 +157,18 @@ def special_jianzi_detection(full_path_textgrid,
                     print("debug {}".format(y_pred[0][0]))
                 elif special_class_teacher == '2':
                     y_pred = model_jianzi.predict_on_batch(log_mel_syl)
-                    pred = "1" if y_pred[0][0] > 0.5 else "0"
+                    pred = "1" if y_pred[0][0][0] > 0.5 else "0"
                     f.write(pred)
-                    print("debug {}".format(y_pred[0][0]))
+                    print("debug {}, len att vector {}, len log mel {}, syl {}".
+                          format(y_pred[0][0][0], len(y_pred[1][0]), log_mel_syl.shape[1], syl[2].strip()))
+                    if plot_jianzi_att:
+                        filename_save = \
+                            os.path.join(path_figs_jianzi,
+                                         syl[2].strip().upper()+'_'+str(ii)+'_'+str(ii_syl_boundary)+'.png')
+                        plot_spectro_att(mfcc0=log_mel_syl[0,:,:],
+                                         att_vector=y_pred[1][0],
+                                         hopsize_t=hopsize_t,
+                                         filename_save=filename_save)
                 else:
                     f.write(syl[2].strip().upper())
                 ii_syl_boundary += 1
@@ -219,7 +223,7 @@ def evaluation():
     path_results = "/Users/ronggong/PycharmProjects/mispronunciation-detection/neural_net/results"
     filename_groundtruth_teacher = os.path.join(path_test, 'text_teacher')
     filename_groundtruth_student = os.path.join(path_test, 'text_student')
-    filename_decoded_student = os.path.join(path_results, 'text_decoded_corrected')
+    filename_decoded_student = filename_result_decoded_mispronunciaiton
     dict_groundtruth_teacher = parse_text_to_dict(filename_groundtruth_teacher)
     dict_groundtruth_student = parse_text_to_dict(filename_groundtruth_student)
     dict_decoded_student = parse_text_to_dict(filename_decoded_student)
@@ -295,10 +299,48 @@ def decoded_text_correction():
 if __name__ == "__main__":
 
     decode_eval = "decode"
+    plot_jianzi_att = True
 
     if decode_eval == "decode":
         sum_num_correct_onset, sum_num_detected_onset, sum_num_gt_onset = 0, 0, 0
         sum_sample_correct, sum_sample_total = 0, 0
+
+        model_special = load_model(filepath=filename_special_model,
+                                   custom_objects={'Attention': Attention(return_attention=True)})
+        model_jianzi = load_model(filepath=filename_jianzi_model,
+                                  custom_objects={'Attention': Attention(return_attention=True)})
+
+        # load weights from the pre-trained model
+        weights_jianzi_model = model_jianzi.get_weights()
+
+        # redefine the model to extract the attention vector
+        batch_size = 1
+        input_shape = (batch_size, None, 80)
+        patience = 15
+        attention = "feedforward"
+        conv = True
+        dropout = 0.5
+
+        model_jianzi_redefined, _, att_vector = \
+            RNN_model_definition(input_shape=input_shape,
+                                 conv=conv,
+                                 dropout=dropout,
+                                 attention=attention,
+                                 output_shape=1)
+
+        model_jianzi_redefined.set_weights(weights_jianzi_model)
+
+        model_jianzi_redefined.summary()
+
+        # model_special = load_model(filepath=filename_special_model)
+        # model_jianzi = load_model(filepath=filename_jianzi_model)
+
+        # load keras joint cnn model
+        model_joint = load_model(os.path.join(joint_cnn_model_path, 'jan_joint0.h5'))
+
+        # load log mel feature scaler
+        scaler_joint = pickle.load(open(os.path.join(joint_cnn_model_path, 'scaler_joint.pkl'), 'rb'),
+                                   encoding='latin1')
 
         with open(filename_result_decoded_mispronunciaiton, "w") as f:
             for rec in recordings_test:
@@ -314,7 +356,12 @@ if __name__ == "__main__":
                                              sub_folder=sub_folder.replace("/", "_"),
                                              rn=filename,
                                              line_tier=line_tier,
-                                             f=f)
+                                             model_special=model_special,
+                                             model_jianzi=model_jianzi_redefined,
+                                             model_joint=model_joint,
+                                             scaler_joint=scaler_joint,
+                                             f=f,
+                                             plot_jianzi_att=plot_jianzi_att)
                 sum_num_correct_onset += num_correct_onset
                 sum_num_detected_onset += num_detected_onset
                 sum_num_gt_onset += num_gt_onset

@@ -24,8 +24,15 @@ joint_cnn_model_path = os.path.join(dir_path, 'model', 'segmentation')
 
 filename_special_model = os.path.join(dir_path, "model", "special_model_prod_True_True_0.5.h5")
 filename_jianzi_model = os.path.join(dir_path, "model", "jianzi_model_prod_True_True_0.5.h5")
+# filename_jianzi_model = os.path.join(dir_path, "model", "jianzi_model_prod_feedforward_True_0.5.h5")
+
+# filename_special_model = os.path.join(dir_path, "model", "special_model_prod_tcn_0.05.h5")
+# filename_jianzi_model = os.path.join(dir_path, "model", "jianzi_model_prod_tcn_0.05.h5")
 
 filename_result_decoded_mispronunciaiton = os.path.join(dir_path, "results", "text_decoded_special_True_True_0.5")
+# filename_result_decoded_mispronunciaiton = os.path.join(dir_path, "results", "text_decoded_special_feedforward_True_0.5")
+
+path_figs_jianzi = "/Users/ronggong/PycharmProjects/mispronunciation-detection/neural_net/figs/jianzi"
 
 
 def getRecordings(wav_path):

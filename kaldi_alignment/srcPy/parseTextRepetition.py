@@ -219,71 +219,71 @@ def writePhone(full_path_textgrid, data_path, sub_folder, rl, line_tier, phoneme
 
 if __name__ == '__main__':
 
-	# # write segments
-	# with open(os.path.join(path_data_train, 'segments'), "w") as f:
-	# 	for rec in recordings_train:
-	# 		data_path, sub_folder, textgrid_folder, \
-	# 		wav_folder, filename, line_tier, longsyllable_tier, syllable_tier, \
-	# 		phoneme_tier, special_tier, special_class_tier, roletype = parse_recordings(rec)
-    #
-	# 		writeSegments(full_path_textgrid=os.path.join(path_root, data_path, textgrid_folder, sub_folder),
-	# 					  data_path=data_path,
-	# 					  sub_folder=sub_folder.replace('/', '_'),
-	# 					  rl=filename,
-	# 					  tier0=line_tier,
-	# 					  tier1=syllable_tier,
-	# 					  roletype=roletype)
-    #
-	# with open(os.path.join(path_data_test, 'segments'), "w") as f:
-	# 	for rec in recordings_test:
-	# 		data_path, sub_folder, textgrid_folder, \
-	# 		wav_folder, filename, line_tier, longsyllable_tier, syllable_tier, \
-	# 		phoneme_tier, special_tier, special_class_tier, roletype = parse_recordings(rec)
-    #
-	# 		writeSegments(full_path_textgrid=os.path.join(path_root, data_path, textgrid_folder, sub_folder),
-	# 					  data_path=data_path,
-	# 					  sub_folder=sub_folder.replace('/', '_'),
-	# 					  rl=filename,
-	# 					  tier0=line_tier,
-	# 					  tier1=syllable_tier,
-	# 					  roletype=roletype)
-    #
+	# write segments
+	with open(os.path.join(path_data_train, 'segments'), "w") as f:
+		for rec in recordings_train:
+			data_path, sub_folder, textgrid_folder, \
+			wav_folder, filename, line_tier, longsyllable_tier, syllable_tier, \
+			phoneme_tier, special_tier, special_class_tier, roletype = parse_recordings(rec)
+
+			writeSegments(full_path_textgrid=os.path.join(path_root, data_path, textgrid_folder, sub_folder),
+						  data_path=data_path,
+						  sub_folder=sub_folder.replace('/', '_'),
+						  rl=filename,
+						  tier0=line_tier,
+						  tier1=syllable_tier,
+						  roletype=roletype)
+
+	with open(os.path.join(path_data_test, 'segments'), "w") as f:
+		for rec in recordings_test:
+			data_path, sub_folder, textgrid_folder, \
+			wav_folder, filename, line_tier, longsyllable_tier, syllable_tier, \
+			phoneme_tier, special_tier, special_class_tier, roletype = parse_recordings(rec)
+
+			writeSegments(full_path_textgrid=os.path.join(path_root, data_path, textgrid_folder, sub_folder),
+						  data_path=data_path,
+						  sub_folder=sub_folder.replace('/', '_'),
+						  rl=filename,
+						  tier0=line_tier,
+						  tier1=syllable_tier,
+						  roletype=roletype)
+
 	# write text
-	# with open(os.path.join(path_lang, "dict_lexicon_repetition.json"), "r") as read_file:
-	# 	dict_lexicon = json.load(read_file)
+	with open(os.path.join(path_lang, "dict_lexicon_repetition.json"), "r") as read_file:
+		dict_lexicon = json.load(read_file)
 
-	# with open(os.path.join(path_data_train, 'text'), "w") as f:
-	# 	for rec in recordings_train:
-	# 		data_path, sub_folder, textgrid_folder, \
-	# 		wav_folder, filename, line_tier, longsyllable_tier, syllable_tier, \
-	# 		phoneme_tier, special_tier, special_class_tier, roletype = parse_recordings(rec)
-    #
-	# 		writeText(full_path_textgrid=os.path.join(path_root, data_path, textgrid_folder, sub_folder),
-	# 				  data_path=data_path,
-	# 				  sub_folder=sub_folder.replace('/', '_'),
-	# 				  rl=filename,
-	# 				  line_tier=line_tier,
-	# 				  syllable_tier=special_tier,
-	# 				  phoneme_tier=phoneme_tier,
-	# 				  roletype=roletype,
-	# 				  dict_lexicon=dict_lexicon)
+	with open(os.path.join(path_data_train, 'text'), "w") as f:
+		for rec in recordings_train:
+			data_path, sub_folder, textgrid_folder, \
+			wav_folder, filename, line_tier, longsyllable_tier, syllable_tier, \
+			phoneme_tier, special_tier, special_class_tier, roletype = parse_recordings(rec)
 
-	# # test set alignment text
-	# with open(os.path.join(path_data_test, 'text'), "w") as f:
-	# 	for rec in recordings_test:
-	# 		data_path, sub_folder, textgrid_folder, \
-	# 		wav_folder, filename, line_tier, longsyllable_tier, syllable_tier, \
-	# 		phoneme_tier, special_tier, special_class_tier, roletype = parse_recordings(rec)
-    #
-	# 		writeText(full_path_textgrid=os.path.join(path_root, data_path, textgrid_folder, sub_folder),
-	# 				  data_path=data_path,
-	# 				  sub_folder=sub_folder.replace('/', '_'),
-	# 				  rl=filename,
-	# 				  line_tier=line_tier,
-	# 				  syllable_tier=syllable_tier,
-	# 				  phoneme_tier=phoneme_tier,
-	# 				  roletype=roletype,
-	# 				  dict_lexicon=None)
+			writeText(full_path_textgrid=os.path.join(path_root, data_path, textgrid_folder, sub_folder),
+					  data_path=data_path,
+					  sub_folder=sub_folder.replace('/', '_'),
+					  rl=filename,
+					  line_tier=line_tier,
+					  syllable_tier=special_tier,
+					  phoneme_tier=phoneme_tier,
+					  roletype=roletype,
+					  dict_lexicon=dict_lexicon)
+
+	# test set alignment text
+	with open(os.path.join(path_data_test, 'text'), "w") as f:
+		for rec in recordings_test:
+			data_path, sub_folder, textgrid_folder, \
+			wav_folder, filename, line_tier, longsyllable_tier, syllable_tier, \
+			phoneme_tier, special_tier, special_class_tier, roletype = parse_recordings(rec)
+
+			writeText(full_path_textgrid=os.path.join(path_root, data_path, textgrid_folder, sub_folder),
+					  data_path=data_path,
+					  sub_folder=sub_folder.replace('/', '_'),
+					  rl=filename,
+					  line_tier=line_tier,
+					  syllable_tier=syllable_tier,
+					  phoneme_tier=phoneme_tier,
+					  roletype=roletype,
+					  dict_lexicon=None)
 
 	# test set teacher ground truth text
 	with open(os.path.join(path_data_test, 'text_teacher'), "w") as f:
@@ -319,153 +319,153 @@ if __name__ == '__main__':
 					  roletype=roletype,
 					  dict_lexicon=None)
 
-	# # write wav.scp
-	# with open(os.path.join(path_data_train, 'wav.scp'), "w") as f:
-	# 	for rec in recordings_train:
-	# 		data_path, sub_folder, textgrid_folder, \
-	# 		wav_folder, filename, line_tier, longsyllable_tier, syllable_tier, \
-	# 		phoneme_tier, special_tier, special_class_tier, roletype = parse_recordings(rec)
-    #
-	# 		writeWavScp(roletype=roletype,
-	# 					data_path=data_path,
-	# 					sub_folder=sub_folder.replace('/', '_'),
-	# 					full_path_wav=os.path.join(path_root, data_path, wav_folder, sub_folder, filename+'.wav'),
-	# 					rl=filename)
-    #
-	# with open(os.path.join(path_data_test, 'wav.scp'), "w") as f:
-	# 	for rec in recordings_test:
-	# 		data_path, sub_folder, textgrid_folder, \
-	# 		wav_folder, filename, line_tier, longsyllable_tier, syllable_tier, \
-	# 		phoneme_tier, special_tier, special_class_tier, roletype = parse_recordings(rec)
-    #
-	# 		writeWavScp(roletype=roletype,
-	# 					data_path=data_path,
-	# 					sub_folder=sub_folder.replace('/', '_'),
-	# 					full_path_wav=os.path.join(path_root, data_path, wav_folder, sub_folder, filename+'.wav'),
-	# 					rl=filename)
-    #
-	# # write utt2spk
-	# with open(os.path.join(path_data_train, 'utt2spk'), "w") as f:
-	# 	for rec in recordings_train:
-	# 		data_path, sub_folder, textgrid_folder, \
-	# 		wav_folder, filename, line_tier, longsyllable_tier, syllable_tier, \
-	# 		phoneme_tier, special_tier, special_class_tier, roletype = parse_recordings(rec)
-    #
-	# 		writeUtt2spk(full_path_textgrid=os.path.join(path_root, data_path, textgrid_folder, sub_folder),
-	# 					 data_path=data_path,
-	# 					 sub_folder=sub_folder.replace('/', '_'),
-	# 					 rl=filename,
-	# 					 line_tier=line_tier,
-	# 					 syllable_tier=special_tier,
-	# 					 roletype=roletype)
-    #
-	# with open(os.path.join(path_data_test, 'utt2spk'), "w") as f:
-	# 	for rec in recordings_test:
-	# 		data_path, sub_folder, textgrid_folder, \
-	# 		wav_folder, filename, line_tier, longsyllable_tier, syllable_tier, \
-	# 		phoneme_tier, special_tier, special_class_tier, roletype = parse_recordings(rec)
-    #
-	# 		writeUtt2spk(full_path_textgrid=os.path.join(path_root, data_path, textgrid_folder, sub_folder),
-	# 					 data_path=data_path,
-	# 					 sub_folder=sub_folder.replace('/', '_'),
-	# 					 rl=filename,
-	# 					 line_tier=line_tier,
-	# 					 syllable_tier=special_tier,
-	# 					 roletype=roletype)
-    #
-	# # write spk2utt
-	# utt_list_dan = ["Dan", " "]
-	# utt_list_laosheng = ["Laosheng", " "]
-    #
-	# for rec in recordings_train:
-	# 	data_path, sub_folder, textgrid_folder, \
-	# 	wav_folder, filename, line_tier, longsyllable_tier, syllable_tier, \
-	# 	phoneme_tier, special_tier, special_class_tier, roletype = parse_recordings(rec)
-    #
-	# 	if roletype == "Dan":
-	# 		writeSpk2utt(full_path_textgrid=os.path.join(path_root, data_path, textgrid_folder, sub_folder),
-	# 					 data_path=data_path,
-	# 					 sub_folder=sub_folder.replace('/', '_'),
-	# 					 rl=filename,
-	# 					 line_tier=line_tier,
-	# 					 syllable_tier=special_tier,
-	# 					 roletype=roletype,
-	# 					 utt_list=utt_list_dan)
-	# 	else:
-	# 		writeSpk2utt(full_path_textgrid=os.path.join(path_root, data_path, textgrid_folder, sub_folder),
-	# 					 data_path=data_path,
-	# 					 sub_folder=sub_folder.replace('/', '_'),
-	# 					 rl=filename,
-	# 					 line_tier=line_tier,
-	# 					 syllable_tier=special_tier,
-	# 					 roletype=roletype,
-	# 					 utt_list=utt_list_laosheng)
-    #
-	# with open(os.path.join(path_data_train, 'spk2utt'), "w") as f:
-	# 	f.write(''.join(utt_list_dan))
-	# 	f.write('\n')
-	# 	f.write(''.join(utt_list_laosheng))
-	# 	f.write('\n')
-    #
-	# utt_list_dan = ["Dan", " "]
-	# utt_list_laosheng = ["Laosheng", " "]
-    #
-	# for rec in recordings_test:
-	# 	data_path, sub_folder, textgrid_folder, \
-	# 	wav_folder, filename, line_tier, longsyllable_tier, syllable_tier, \
-	# 	phoneme_tier, special_tier, special_class_tier, roletype = parse_recordings(rec)
-    #
-	# 	if roletype == "Dan":
-	# 		writeSpk2utt(full_path_textgrid=os.path.join(path_root, data_path, textgrid_folder, sub_folder),
-	# 					 data_path=data_path,
-	# 					 sub_folder=sub_folder.replace('/', '_'),
-	# 					 rl=filename,
-	# 					 line_tier=line_tier,
-	# 					 syllable_tier=special_tier,
-	# 					 roletype=roletype,
-	# 					 utt_list=utt_list_dan)
-	# 	else:
-	# 		writeSpk2utt(full_path_textgrid=os.path.join(path_root, data_path, textgrid_folder, sub_folder),
-	# 					 data_path=data_path,
-	# 					 sub_folder=sub_folder.replace('/', '_'),
-	# 					 rl=filename,
-	# 					 line_tier=line_tier,
-	# 					 syllable_tier=special_tier,
-	# 					 roletype=roletype,
-	# 					 utt_list=utt_list_laosheng)
-    #
-	# with open(os.path.join(path_data_test, 'spk2utt'), "w") as f:
-	# 	f.write(''.join(utt_list_dan))
-	# 	f.write('\n')
-	# 	f.write(''.join(utt_list_laosheng))
-	# 	f.write('\n')
-    #
-	# # write phone.txt
-	# with open(os.path.join(path_data_train, 'phone.txt'), "w") as f:
-	# 	for rec in recordings_train:
-	# 		data_path, sub_folder, textgrid_folder, \
-	# 		wav_folder, filename, line_tier, longsyllable_tier, syllable_tier, \
-	# 		phoneme_tier, special_tier, special_class_tier, roletype = parse_recordings(rec)
-    #
-	# 		writePhone(full_path_textgrid=os.path.join(path_root, data_path, textgrid_folder, sub_folder),
-	# 				   data_path=data_path,
-	# 				   sub_folder=sub_folder,
-	# 				   rl=filename,
-	# 				   line_tier=line_tier,
-	# 				   phoneme_tier=phoneme_tier,
-	# 				   roletype=roletype)
-    #
-	# with open(os.path.join(path_data_test, 'phone.txt'), "w") as f:
-	# 	for rec in recordings_test:
-	# 		data_path, sub_folder, textgrid_folder, \
-	# 		wav_folder, filename, line_tier, longsyllable_tier, syllable_tier, \
-	# 		phoneme_tier, special_tier, special_class_tier, roletype = parse_recordings(rec)
-    #
-	# 		writePhone(full_path_textgrid=os.path.join(path_root, data_path, textgrid_folder, sub_folder),
-	# 				   data_path=data_path,
-	# 				   sub_folder=sub_folder,
-	# 				   rl=filename,
-	# 				   line_tier=line_tier,
-	# 				   phoneme_tier=phoneme_tier,
-	# 				   roletype=roletype)
+	# write wav.scp
+	with open(os.path.join(path_data_train, 'wav.scp'), "w") as f:
+		for rec in recordings_train:
+			data_path, sub_folder, textgrid_folder, \
+			wav_folder, filename, line_tier, longsyllable_tier, syllable_tier, \
+			phoneme_tier, special_tier, special_class_tier, roletype = parse_recordings(rec)
+
+			writeWavScp(roletype=roletype,
+						data_path=data_path,
+						sub_folder=sub_folder.replace('/', '_'),
+						full_path_wav=os.path.join(path_root, data_path, wav_folder, sub_folder, filename+'.wav'),
+						rl=filename)
+
+	with open(os.path.join(path_data_test, 'wav.scp'), "w") as f:
+		for rec in recordings_test:
+			data_path, sub_folder, textgrid_folder, \
+			wav_folder, filename, line_tier, longsyllable_tier, syllable_tier, \
+			phoneme_tier, special_tier, special_class_tier, roletype = parse_recordings(rec)
+
+			writeWavScp(roletype=roletype,
+						data_path=data_path,
+						sub_folder=sub_folder.replace('/', '_'),
+						full_path_wav=os.path.join(path_root, data_path, wav_folder, sub_folder, filename+'.wav'),
+						rl=filename)
+
+	# write utt2spk
+	with open(os.path.join(path_data_train, 'utt2spk'), "w") as f:
+		for rec in recordings_train:
+			data_path, sub_folder, textgrid_folder, \
+			wav_folder, filename, line_tier, longsyllable_tier, syllable_tier, \
+			phoneme_tier, special_tier, special_class_tier, roletype = parse_recordings(rec)
+
+			writeUtt2spk(full_path_textgrid=os.path.join(path_root, data_path, textgrid_folder, sub_folder),
+						 data_path=data_path,
+						 sub_folder=sub_folder.replace('/', '_'),
+						 rl=filename,
+						 line_tier=line_tier,
+						 syllable_tier=special_tier,
+						 roletype=roletype)
+
+	with open(os.path.join(path_data_test, 'utt2spk'), "w") as f:
+		for rec in recordings_test:
+			data_path, sub_folder, textgrid_folder, \
+			wav_folder, filename, line_tier, longsyllable_tier, syllable_tier, \
+			phoneme_tier, special_tier, special_class_tier, roletype = parse_recordings(rec)
+
+			writeUtt2spk(full_path_textgrid=os.path.join(path_root, data_path, textgrid_folder, sub_folder),
+						 data_path=data_path,
+						 sub_folder=sub_folder.replace('/', '_'),
+						 rl=filename,
+						 line_tier=line_tier,
+						 syllable_tier=special_tier,
+						 roletype=roletype)
+
+	# write spk2utt
+	utt_list_dan = ["Dan", " "]
+	utt_list_laosheng = ["Laosheng", " "]
+
+	for rec in recordings_train:
+		data_path, sub_folder, textgrid_folder, \
+		wav_folder, filename, line_tier, longsyllable_tier, syllable_tier, \
+		phoneme_tier, special_tier, special_class_tier, roletype = parse_recordings(rec)
+
+		if roletype == "Dan":
+			writeSpk2utt(full_path_textgrid=os.path.join(path_root, data_path, textgrid_folder, sub_folder),
+						 data_path=data_path,
+						 sub_folder=sub_folder.replace('/', '_'),
+						 rl=filename,
+						 line_tier=line_tier,
+						 syllable_tier=special_tier,
+						 roletype=roletype,
+						 utt_list=utt_list_dan)
+		else:
+			writeSpk2utt(full_path_textgrid=os.path.join(path_root, data_path, textgrid_folder, sub_folder),
+						 data_path=data_path,
+						 sub_folder=sub_folder.replace('/', '_'),
+						 rl=filename,
+						 line_tier=line_tier,
+						 syllable_tier=special_tier,
+						 roletype=roletype,
+						 utt_list=utt_list_laosheng)
+
+	with open(os.path.join(path_data_train, 'spk2utt'), "w") as f:
+		f.write(''.join(utt_list_dan))
+		f.write('\n')
+		f.write(''.join(utt_list_laosheng))
+		f.write('\n')
+
+	utt_list_dan = ["Dan", " "]
+	utt_list_laosheng = ["Laosheng", " "]
+
+	for rec in recordings_test:
+		data_path, sub_folder, textgrid_folder, \
+		wav_folder, filename, line_tier, longsyllable_tier, syllable_tier, \
+		phoneme_tier, special_tier, special_class_tier, roletype = parse_recordings(rec)
+
+		if roletype == "Dan":
+			writeSpk2utt(full_path_textgrid=os.path.join(path_root, data_path, textgrid_folder, sub_folder),
+						 data_path=data_path,
+						 sub_folder=sub_folder.replace('/', '_'),
+						 rl=filename,
+						 line_tier=line_tier,
+						 syllable_tier=special_tier,
+						 roletype=roletype,
+						 utt_list=utt_list_dan)
+		else:
+			writeSpk2utt(full_path_textgrid=os.path.join(path_root, data_path, textgrid_folder, sub_folder),
+						 data_path=data_path,
+						 sub_folder=sub_folder.replace('/', '_'),
+						 rl=filename,
+						 line_tier=line_tier,
+						 syllable_tier=special_tier,
+						 roletype=roletype,
+						 utt_list=utt_list_laosheng)
+
+	with open(os.path.join(path_data_test, 'spk2utt'), "w") as f:
+		f.write(''.join(utt_list_dan))
+		f.write('\n')
+		f.write(''.join(utt_list_laosheng))
+		f.write('\n')
+
+	# write phone.txt
+	with open(os.path.join(path_data_train, 'phone.txt'), "w") as f:
+		for rec in recordings_train:
+			data_path, sub_folder, textgrid_folder, \
+			wav_folder, filename, line_tier, longsyllable_tier, syllable_tier, \
+			phoneme_tier, special_tier, special_class_tier, roletype = parse_recordings(rec)
+
+			writePhone(full_path_textgrid=os.path.join(path_root, data_path, textgrid_folder, sub_folder),
+					   data_path=data_path,
+					   sub_folder=sub_folder,
+					   rl=filename,
+					   line_tier=line_tier,
+					   phoneme_tier=phoneme_tier,
+					   roletype=roletype)
+
+	with open(os.path.join(path_data_test, 'phone.txt'), "w") as f:
+		for rec in recordings_test:
+			data_path, sub_folder, textgrid_folder, \
+			wav_folder, filename, line_tier, longsyllable_tier, syllable_tier, \
+			phoneme_tier, special_tier, special_class_tier, roletype = parse_recordings(rec)
+
+			writePhone(full_path_textgrid=os.path.join(path_root, data_path, textgrid_folder, sub_folder),
+					   data_path=data_path,
+					   sub_folder=sub_folder,
+					   rl=filename,
+					   line_tier=line_tier,
+					   phoneme_tier=phoneme_tier,
+					   roletype=roletype)
 

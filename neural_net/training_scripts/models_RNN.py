@@ -6,13 +6,17 @@ from keras.layers import LSTM
 from keras.layers import CuDNNLSTM
 from keras.layers import Bidirectional
 from keras.layers import Dense
+from keras.layers import Conv1D
 from keras.layers import Conv2D
+from keras.layers import Dot
+from keras.layers import Lambda
 from keras.layers import MaxPooling2D
 from keras.layers import Reshape
 from keras import backend as K
 from keras.callbacks import EarlyStopping
 from keras.callbacks import CSVLogger
 from keras.callbacks import ModelCheckpoint
+from keras.activations import softmax
 from tensorflow.python.client import device_lib
 
 import os
@@ -62,13 +66,53 @@ def embedding_RNN_1_lstm(input_shape, conv=False, dropout=False, att=False):
     else:
         x = Bidirectional(CuDNNLSTM(units=8, return_sequences=return_sequence))(x)
 
-    if att:
+    if att == "feedforward":
         print(K.shape(x))
         x, attention = Attention(return_attention=True)(x)
+    elif att == "selfatt":
+        attention = Conv1D(filters=16, kernel_size=1, activation='tanh', padding='same', use_bias=True,
+                           kernel_initializer='glorot_uniform', bias_initializer='zeros',
+                           name="attention_layer1")(x)
+        attention = Conv1D(filters=16, kernel_size=1, activation='linear', padding='same',
+                           use_bias=True,
+                           kernel_initializer='glorot_uniform', bias_initializer='zeros',
+                           name="attention_layer2")(attention)
+        attention = Lambda(lambda x: softmax(x, axis=1), name="attention_vector")(attention)
+
+        # Apply attention weights
+        weighted_sequence_embedding = Dot(axes=[1, 1], normalize=False, name="weighted_sequence_embedding")(
+            [attention, x])
+
+        # Add and normalize to obtain final sequence embedding
+        x = Lambda(lambda x: K.l2_normalize(K.sum(x, axis=1)))(weighted_sequence_embedding)
+        attention = weighted_sequence_embedding
     else:
         attention = None
 
     return x, input, attention
+
+
+def RNN_model_definition(input_shape,
+                         conv,
+                         dropout,
+                         attention,
+                         output_shape):
+    x, input, att_vector = embedding_RNN_1_lstm(input_shape=input_shape,
+                                                conv=conv,
+                                                dropout=dropout,
+                                                att=attention)
+
+    # print("attention shape {}".format(K.shape(att_vector)))
+
+    outputs = [Dense(output_shape, activation='sigmoid')(x), att_vector]
+
+    model = Model(inputs=input, outputs=outputs)
+
+    # model.compile(optimizer='adam',
+    #               loss='binary_crossentropy',
+    #               metrics=['accuracy'])
+
+    return model, input, att_vector
 
 
 def train_RNN_batch(list_feature_fold_train,
@@ -89,10 +133,12 @@ def train_RNN_batch(list_feature_fold_train,
                     summ=False,
                     verbose=2):
 
-    x, input, _ = embedding_RNN_1_lstm(input_shape=input_shape,
-                                       conv=conv,
-                                       dropout=dropout,
-                                       att=attention)
+    x, input, att_vector = embedding_RNN_1_lstm(input_shape=input_shape,
+                                                conv=conv,
+                                                dropout=dropout,
+                                                att=attention)
+
+    # print("attention shape {}".format(K.shape(att_vector)))
 
     outputs = Dense(output_shape, activation='sigmoid')(x)
 
@@ -135,9 +181,12 @@ def eval_RNN_model(list_feature_test,
                    file_path_model,
                    attention,
                    scaler):
-    if attention:
+    if attention == "feedforward":
         model = load_model(filepath=file_path_model,
                            custom_objects={'Attention': Attention(return_attention=True)})
+    elif attention == "selfatt":
+        model = load_model(filepath=file_path_model,
+                           custom_objects={'softmax': softmax})
     else:
         model = load_model(file_path_model)
 
